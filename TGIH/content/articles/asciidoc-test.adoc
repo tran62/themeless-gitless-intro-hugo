@@ -1,0 +1,174 @@
+---
+## Important: If this is a draft, next line should NOT begin with #
+draft: false
+title: AsciiDoc test
+date: 2021-07-16
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - meta
+  - test
+markup: "asciidoc"
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+// After blank line, BEGIN asciidoc
+
+//:icons: font
+
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+
+== Asciidoc
+
+=== Example 5. Constrained bold, italic, and monospace
+
+It has *strong* significance to me.
+
+I _cannot_ stress this enough.
+
+Type `OK` to accept.
+
+That *_really_* has to go.
+
+=== Example 6. Unconstrained bold, italic, and monospace_
+
+**C**reate, **R**ead, **U**pdate, and **D**elete (CRUD)
+
+That's fan__freakin__tastic!
+
+Don't pass generic ``Object``s to methods that accept ``String``s!
+
+It was Beatle**__mania__**!
+
+Can't pick one? Let's use them `*_all_*`.
+
+=== Example 7. Highlight, underline, strikethrough, and custom role_
+
+Werewolves are allergic to #cinnamon#.
+
+##Mark##up refers to text that contains formatting ##mark##s.
+
+Where did all the [.underline]#cores# go?
+
+We need [.line-through]#ten# twenty VMs.
+
+A [.myrole]#custom role# must be fulfilled by the theme.
+View result of Example 7
+
+=== _Example 8. Superscript and subscript_
+
+^super^script phrase
+
+~sub~script phrase
+View result of Example 
+
+=== _Example 9. Smart quotes and apostrophes_
+
+"`double curved quotes`"
+
+'`single curved quotes`'
+
+Olaf's desk was a mess.
+
+A ``std::vector```'s size is the number of items it contains.
+
+All of the werewolves`' desks were a mess.
+
+Olaf had been with the company since the `'00s.
+View result of Example 9
+Links
+
+=== _Example 10. Autolinks, URL macro, and mailto macro_
+
+https://asciidoctor.org - automatic!
+
+https://asciidoctor.org[Asciidoctor]
+
+devel@discuss.example.org
+
+mailto:devel@discuss.example.org[Discuss]
+
+mailto:join@discuss.example.org[Subscribe,Subscribe me,I want to join!]
+View result of Example 10
+
+=== _Example 11. URL macros with attributes_
+
+https://discuss.asciidoctor.org[Discuss Asciidoctor,role=external,window=_blank]
+
+https://discuss.asciidoctor.org[Discuss Asciidoctor^]
+
+View result of Example 11
+
+[TIP]
+The link: macro prefix is not required when the target starts with a URL scheme like https:. The URL scheme acts as an implicit macro prefix.
+[CAUTION]
+If the link text contains a comma and the text is followed by one or more named attributes, you must enclose the text in double quotes. Otherwise, the text will be cut off at the comma (and the remaining text will get pulled into the attribute parsing).
+
+=== _Example 21. Document header with attribute entries_
+
+
+== level 1
+=== _Example_ 22. Article section 
+
+= Document Title (Level 0)
+
+== Level 1 Section Title
+
+=== Level 2 Section Title
+
+==== Level 3 Section Title
+
+===== Level 4 Section Title
+
+====== Level 5 Section Title
+
+== Another Level 1 Section Title
+
+include::https://raw.githubusercontent.com/asciidoctor/asciidoctor/master/README.adoc[]
+
+== Lists
+
+* List item
+** Nested list item
+*** Nested list item
+* List item
+ ** Another nested list item
+* List item
+
+== Images
+
+You can use the imagesdir attribute to avoid hard coding the common path to your images in every image macro. The value of this attribute can be an absolute path, relative path, or base URL.
+If the image target is a relative path, the attribute’s value is prepended (i.e., it’s resolved relative to the value of the imagesdir attribute). 
+If the image target is a URL or absolute path, the attribute’s value is not prepended.
+
+_Example 38. Block image macro_
+
+image::sunset.jpg[sunset]
+
+image::sunset.jpg[Sunset]
+
+.A mountain sunset
+[#img-sunset]
+[caption="Figure 1: ",link=https://www.flickr.com/photos/javh/5448336655]
+image::sunset.jpg[Sunset,200,100]
+
+image::https://asciidoctor.org/images/octocat.jpg[GitHub mascot]
+View result of Example 38
+
+Two colons following the image keyword in the macro (i.e., image::) indicates a block image (aka figure), whereas one colon following the image keyword (i.e., image:) indicates an inline image. (All macros follow this pattern). You use an inline image when you need to place the image in a line of text. Otherwise, you should prefer the block form.
+
+_Example 39. Inline image macro_
+
+Click image:play.png[] to get the party started.
+
+Click image:pause.png[title="Pause"] when you need a break.
+View result of Example 39
+
+_Example 40. Inline image macro with positioning role_
+
+image:sunset.jpg[Sunset,150,150,role=left] What a beautiful sunset!

@@ -1,0 +1,138 @@
+---
+## Important: If this is a draft, next line should NOT begin with #
+# draft: true
+title: La littérature pour quoi faire?
+date: 2021-07-17
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - literature
+  - philo
+markup: "adoc"
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+// After blank line, BEGIN asciidoc
+
+//:icons: font
+
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+
+== Antoine Compagnon
+[NOTE]
+https://books.openedition.org/cdf/524[_La littérature, pour quoi faire ?
+- Leçon inaugurale prononcée le jeudi 30 novembre 2006 au Collège de
+France._ (texte intégral)]
+
+'''''
+
+image:antoine-compagnon.jpeg[Antoine Compagnon]
+
+[[extraits-choisis-]]
+=== Extraits choisis :
+
+____
+Quitter l'éloquence pour les mathématiques, c'est d'être dégoûté d'une
+maîtresse de dix-huit ans et devenir amoureux d'une vieille +
+Jean-Louis Guez de Balzac, lettre à M. de Tissandier, 23 mars 1628.
+____
+
+'''''
+
+Valéry ne pensait rien de bon des historiens de la littérature:
+
+____
+Ces messieurs ne servent à rien, ne disent rien. Ce sont des prolixes
+muets. Ils ne se doutent même pas de quoi il est question. Le problème
+leur est étranger. Et ils calculent indéfiniment l'âge du capitaine.
+____
+
+'''''
+
+Italo Calvino, _Lezioni americane. Sei proposte per il prossimo
+millennio (1988)_.
+
+____
+Si j'ai confiance en l'avenir de la littérature, c'est parce qu'il y a
+des choses, je le sais, que seule la littérature peut offrir par ses
+moyens propres.
+____
+
+'''''
+
+Calvino parlait comme Proust dans _Le temps retrouvé_ :
+
+____
+La vraie vie, la vie enfin découverte et éclaircie, c'est la
+littérature.
+____
+
+'''''
+
+[[francis-bacon-a-tout-dit-]]
+==== Francis Bacon a tout dit :
+
+" La lecture rend un homme complet, la conversation rend un homme
+alerte, et l'écriture rend un homme précis. C'est pourquoi, si un homme
+écrit peu, il doit avoir une bonne mémoire; s'il cause peu, il doit
+avoir l'esprit vif; et s'il lit peu, il doit avoir beaucoup de ruse,
+pour paraître savoir ce qu'il ne sait pas." +
+... la lecture nous évite de devoir recourir à la sournoiserie,
+l'hypocrisie et la fourberie; elle nous rend donc sincères et
+véritables, ou tout simplement meilleurs.
+
+'''''
+
+____
+Reading maketh a full man; conference a ready man; and writing an exact
+man. And therefore, if a man write little, he had need have a great
+memory; if he confer little, he had need have a present wit; and if he
+read little, he had need have much cunning, to seem to know, that he
+doth not. Francis Bacon, _"Of Studies", Essays_ (1597)
+____
+
+'''''
+
+____
+The only end of writing is to enable the readers better to enjoy life,
+or better to endure it. +
+Samuel Johnson. _A Free Inquiry into the Nature and Origin of Evil_
+(1757)
+____
+
+'''''
+
+Selon Kundera, le roman "déchire le rideau" des idées reçues, de la
+_doxa_ ou du _tout fait_, ce que Bloom nomme le _cant_, la langue de
+bois ou la pensée unique qui rappelle la Cacanie de _L'Homme sans
+qualités_... +
+D'après une sentence de Samuel Johnson chère à (Harold) Bloom : "_Clear
+your mind of cant_"., "Nettoyez-vous la tête des conformismes", ou
+encore du pharisaïsme, de l'hypocrisie et de l'aveuglement sur soi,
+ainsi que William Hazlitt entendait le _cant_. +
+La littérature déconcerte, dérange, déroute, dépayse plus que les
+discours philosophique, sociologique ou psychologique, parce qu’elle
+fait appel aux émotions et à l’empathie. +
+Ainsi parcourt-elle des régions de l’expérience que les autres discours
+négligent, mais que la fiction reconnaît dans leur détail. Suivant la
+belle expression de Hermann Broch rappelée par Kundera, "`La seule
+morale du roman est la connaissance; le roman qui ne découvre aucune
+parcelle jusqu’alors inconnue de l’existence est immoral`". +
+La littérature nous affranchit de nos façons convenues de penser la vie
+–la nôtre et celle des autres –, elle ruine la bonne conscience et la
+mauvaise foi. +
+Constitutivement oppositionnelle ou paradoxale - protestante comme le
+_protervus_ de la vieille scolastique, réactionnaire au bon sens -, elle
+résiste à la bétise non pas violemment, mais de façon subtile et
+entêtée. +
+Son pouvoir émancipateur reste intact, qui nous conduira parfois à
+vouloir renverser les idoles et changer le monde, mais le plus souvent
+nous rendra simplement plus sensibles et plus sages, soit, en un mot,
+meilleurs. +
+
+___

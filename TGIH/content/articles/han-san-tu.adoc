@@ -1,0 +1,61 @@
+---
+## Important: If this is a draft, next line should NOT begin with #
+# draft: true
+title: Han San Tu
+date: 2021-07-17
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - literature
+  - philo
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+// After blank line, BEGIN asciidoc
+
+
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+
+image:han-san-tu-cac.jpg[Han San Tu]Hàn San Tự Các
+
+_Lắng biết mọi người đã ngủ yên cả, vị thần tử của giang sơn Trung Hoa vắt chân chữ
+ngũ, khe khẽ ngâm một bài thơ cổ, qua nỗi xúc động đột nhiên tụ lại
+trong người:_
+____
+
+Uỵt loọc, vú thày sướng mủn thín,
+
+Coóng phống, dì phố, tui sàu mìn,
+
+Cú chấu sèng ngồi Hồn Sán sì.
+
+Dề pun, chống séng tâu hác sin.
+____
+
+_Ngay lúc ấy, từ gian buồng bên, nổi lên mấy tiếng gì như chuột rúc. Lữ
+khách, thấy đứt mạch cảm hứng, càu nhàu trong bóng tối:_
+
+_- Ấy dà! Cẩm tố xỉ a! (Chà! Lắm chuột thế!)_
+
+_Nhưng đó không phải tiếng chuột rúc. Đó là tiếng người con gái chở đò
+ban tối cười qua hai làn môi khép kín._
+
+Cuốn *Chân Trời Cũ* văn gồm nhiều truyện ngắn, theo ghi chú của tác giả
+thì nó được viết vào tháng Giêng năm 1940, xuất bản lần đầu năm 1942. Nó
+được tái bản nhiều lần về sau này. Tôi rất nhớ hai câu kết của truyện
+ngắn Ngày Gặp Gỡ:
+
+“_Người khách sang sông chiều muộn ấy về sau này là cha tôi. Và cô lái
+đò, là mẹ tôi“._
+
+Hồ Dzếnh (Hà Triệu Anh)
+___
+
+<!--
+  created 2021-07-17 16:55:39.076135 +0200 CEST m=+0.033896972
+-->

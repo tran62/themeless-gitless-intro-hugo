@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metasite on My New Hugo Site</title>
+    <link>http://example.org/tags/metasite/</link>
+    <description>Recent content in metasite on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/metasite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La littérature pour quoi faire?</title>
+      <link>http://example.org/articles/acompagnon/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/acompagnon/</guid>
+      <description>Antoine Compagnon   🔖Note  La littérature, pour quoi faire ? - Leçon inaugurale prononcée le jeudi 30 novembre 2006 au Collège de France. (texte intégral)      
+ Extraits choisis :  Quitter l’éloquence pour les mathématiques, c’est d’être dégoûté d’une maîtresse de dix-huit ans et devenir amoureux d’une vieille Jean-Louis Guez de Balzac, lettre à M. de Tissandier, 23 mars 1628.
+    Valéry ne pensait rien de bon des historiens de la littérature:</description>
+    </item>
+    
+    <item>
+      <title>README</title>
+      <link>http://example.org/articles/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/readme/</guid>
+      <description>For running locally :⇒
+ %hugo server -D
+ For creating a new article :⇒
+ %hugo new articles/&amp;lt;title-of-article&amp;gt;
+ </description>
+    </item>
+    
+  </channel>
+</rss>

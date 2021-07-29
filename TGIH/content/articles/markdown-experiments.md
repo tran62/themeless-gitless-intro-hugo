@@ -1,14 +1,14 @@
 ---
 ## Important: If this is a draft, next line should NOT begin with #
-draft: true
+draft: false
 title: Markdown Experiments
-date: 2019-05-29
+date: "2019-05-29"
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
 tags:
   - markdown
-  - tag2
-  - testTestTest
+  - meta
+  - test
 ---
 
 *Thanks to [markdown-it](https://github.com/markdown-it/markdown-it)
@@ -159,8 +159,8 @@ With a reference later in the document defining the URL location:
 
 ### Subscript / Superscript
 
-- 19^th^
-- H~2~O
+- 19<sup>th</sup>
+- H<sub>2</sub>O
 
 
 
