@@ -1,4 +1,5 @@
-baseURL: http://example.org/
+baseURL: http://optimistic-archimedes-13c3eb.netlify.app
+
 languageCode: en-us
 title: My New Hugo Site
 markup:
