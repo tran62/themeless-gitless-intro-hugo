@@ -1,7 +1,7 @@
-baseURL: https://optimistic-archimedes.netlify.com
+baseURL: https://optimistic-archimedes.netlify.app/
 
 languageCode: en-us
-title: My New Hugo Site
+title: TQA Hugo AsciiDoc Site
 markup:
   goldmark:
     extensions:
@@ -20,7 +20,7 @@ markup:
       autoHeadingIDType: github
     renderer:
       hardWraps: false
-      unsafe: false
+      unsafe: true
       xhtml: false
 
   asciidocExt:
