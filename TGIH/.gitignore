@@ -12,6 +12,3 @@ hugo
 
 # Mac files
 .DS_Store
-
-# Yarn
-yarn-error.log

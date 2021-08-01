@@ -1,7 +1,14 @@
+baseURL = "https://optimistic-archimedes.netlify.app/"
+title = "TQA Hugo AsciiDoc Site"
+
 [params]
-  baseURL = "https://optimistic-archimedes.netlify.app/"
+  AuthorName = "Tran 62"
+  GitHubUser = "tran62"
+  ListOfFoo = ["foo1", "foo2"]
+  SidebarRecentLimit = 5
+  Subtitle = "themeless asciidoc"
   languageCode = "en-us"
-  title = "TQA Hugo AsciiDoc Site"
+  
 [markup]
   [goldmark]
     [extensions]
@@ -21,7 +28,7 @@
     [renderer]
       hardWraps =  false
       unsafe = false
-      xhtml= false
+      xhtml = false
 
   [asciidocExt]
     preserveTOC = true
