@@ -7,6 +7,8 @@
 # hugo files
 .cache/
 public
+config_yaml
+hugo
 
 # Mac files
 .DS_Store
