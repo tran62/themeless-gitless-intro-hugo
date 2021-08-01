@@ -1,8 +1,7 @@
 [params]
-baseURL = "https://optimistic-archimedes.netlify.app/"
-
-languageCode = "en-us"
-title = "TQA Hugo AsciiDoc Site"
+  baseURL = "https://optimistic-archimedes.netlify.app/"
+  languageCode = "en-us"
+  title = "TQA Hugo AsciiDoc Site"
 [markup]
   [goldmark]
     [extensions]
@@ -27,6 +26,7 @@ title = "TQA Hugo AsciiDoc Site"
   [asciidocExt]
     preserveTOC = true
     workingFolderCurrent = false  # default is false
+    
     [attributes]
       toc= "macro"
       hide-uri-scheme = "true@"  # trailing @ means ok to override

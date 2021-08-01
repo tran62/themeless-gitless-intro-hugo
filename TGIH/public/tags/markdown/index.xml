@@ -1,54 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>markdown on TQA Hugo AsciiDoc Site</title>
-    <link>https://optimistic-archimedes.netlify.app/tags/markdown/</link>
-    <description>Recent content in markdown on TQA Hugo AsciiDoc Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://optimistic-archimedes.netlify.app/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Francis Bacon</title>
-      <link>https://optimistic-archimedes.netlify.app/articles/lit-francis-bacon/</link>
-      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://optimistic-archimedes.netlify.app/articles/lit-francis-bacon/</guid>
-      <description>Of Studies – Francis Bacon (src link):
-Of Studies – Francis Bacon (Text)  Studies serve for delight, for ornament, and for ability. Their chief use for delight, is in privateness and retiring; for ornament, is in discourse; and for ability, is in the judgement and disposition of business. For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best from those that are learned.</description>
-    </item>
-    
-    <item>
-      <title>Formules sur page couverture du Colmez</title>
-      <link>https://optimistic-archimedes.netlify.app/articles/col-mathjax/</link>
-      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://optimistic-archimedes.netlify.app/articles/col-mathjax/</guid>
-      <description>Lagrange 1771:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>markdown on</title><link>/tags/markdown/</link><description>Recent content in markdown on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Francis Bacon</title><link>/articles/lit-francis-bacon/</link><pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate><guid>/articles/lit-francis-bacon/</guid><description>Of Studies – Francis Bacon (src link):
+Of Studies – Francis Bacon (Text) Studies serve for delight, for ornament, and for ability. Their chief use for delight, is in privateness and retiring; for ornament, is in discourse; and for ability, is in the judgement and disposition of business. For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best from those that are learned.</description></item><item><title>Formules sur page couverture du Colmez</title><link>/articles/col-mathjax/</link><pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate><guid>/articles/col-mathjax/</guid><description>Lagrange 1771:
 $ |G| = |H|.|G/H| $
 (Colmez p.41: Le cardinal de G groupe fini est multiple du cardinal du sous-groupe H et du quotient G/H )
 Fourier 1811:
 $ \phi(t) = \int e^{2i\pi t x}\hat\phi(x) dx $
 ( p.335 - $ \hat\phi $ transformée de Fourier de $ \phi \in \mathscr L^1 (R^m) $ pour tout x,t $ \in R^m $)
 Poissons 1816:
-$ \sum_{n \in \Z} \phi(n)= \sum \hat \phi(n) $</description>
-    </item>
-    
-    <item>
-      <title>Markdown Experiments</title>
-      <link>https://optimistic-archimedes.netlify.app/articles/markdown-experiments/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://optimistic-archimedes.netlify.app/articles/markdown-experiments/</guid>
-      <description>Thanks to markdown-it for most of the content of this file! &amp;ndash;nm
-h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules    Typographic replacements (c) (C) (r) (R) (tm) (TM) (p) (P) +-
+$ \sum_{n \in \Z} \phi(n)= \sum \hat \phi(n) $</description></item><item><title>Markdown Experiments</title><link>/articles/markdown-experiments/</link><pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate><guid>/articles/markdown-experiments/</guid><description>Thanks to markdown-it for most of the content of this file! &amp;ndash;nm
+h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 &amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;
 Emphasis This is bold text
 This is bold text
 This is italic text
 This is italic text
 Strikethrough
-Blockquotes  Blockquotes can also be nested&amp;hellip;</description>
-    </item>
-    
-  </channel>
-</rss>
+Blockquotes Blockquotes can also be nested&amp;hellip;</description></item></channel></rss>

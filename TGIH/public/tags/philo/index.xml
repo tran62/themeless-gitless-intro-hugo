@@ -1,70 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>philo on TQA Hugo AsciiDoc Site</title>
-    <link>https://optimistic-archimedes.netlify.app/tags/philo/</link>
-    <description>Recent content in philo on TQA Hugo AsciiDoc Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://optimistic-archimedes.netlify.app/tags/philo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Trà Kinh</title>
-      <link>https://optimistic-archimedes.netlify.app/articles/tra-kinh/</link>
-      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://optimistic-archimedes.netlify.app/articles/tra-kinh/</guid>
-      <description>Trà Kinh - gs Vũ Thế Ngọc   &amp;#34;Dân tộc Việt Nam là một trong những dân tộc đã biết đến cây trà đầu tiên trong lịch sử loài người. Người Việt Nam đã uống trà từ ngàn năm nay, nhưng có lẽ đây là quyển sách đầu tiên viết về nghệ thuật uống trà của Đông phương bằng Việt ngữ tương đối đầy đủ hơn cả.” Mở đầu bằng một vài dòng tâm huyết, giản dị và gần gũi như cái cách người ta vẫn bắt đầu một câu chuyện, Trà Kinh sau đó đưa người đọc bước vào một thế giới của trà, vừa lạ vừa quen.</description>
-    </item>
-    
-    <item>
-      <title>Dhammapuda</title>
-      <link>https://optimistic-archimedes.netlify.app/articles/dhammapuda/</link>
-      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://optimistic-archimedes.netlify.app/articles/dhammapuda/</guid>
-      <description>Pháp Cú Lê Đống - Préface Dhammapuda, La voie du Bouddha Si l’on doit ne retenir qu’un seul thème et désigner celui qui soutient tout l’ouvrage, ce ne peut être que le nirvana, l’extinction des désirs qui conduit à la libération définitive.
- La foi doit être une conviction fondée sur une compréhension approfondie de la voie choisie.
-   thèmes fondateurs de l’enseignement bouddhique: 1 Le caractère impermanent et illusoire du monde.</description>
-    </item>
-    
-    <item>
-      <title>Francois Jullien</title>
-      <link>https://optimistic-archimedes.netlify.app/articles/francois-jullien/</link>
-      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://optimistic-archimedes.netlify.app/articles/francois-jullien/</guid>
-      <description>La pensée chinoise
- Car, en concevant :
-   une efficacité qui ne procède pas par modélisation, Traité de l’efficacité
-  une sagesse pour qui avancer une idée est déjà verser dans la partialité Un sage est sans idée
-  une image qui soit moins mimétique que vectrice d’énergie La Grande Image n’a pas de forme
-  un &amp;#34;mal&amp;#34; qui ne soit qu’obstruction du cours du monde comme de la vie Du Mal/du Négatif</description>
-    </item>
-    
-    <item>
-      <title>Han San Tu</title>
-      <link>https://optimistic-archimedes.netlify.app/articles/han-san-tu/</link>
-      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://optimistic-archimedes.netlify.app/articles/han-san-tu/</guid>
-      <description>Hàn San Tự Các
- Lắng biết mọi người đã ngủ yên cả, vị thần tử của giang sơn Trung Hoa vắt chân chữ ngũ, khe khẽ ngâm một bài thơ cổ, qua nỗi xúc động đột nhiên tụ lại trong người:
-  Uỵt loọc, vú thày sướng mủn thín,
- Coóng phống, dì phố, tui sàu mìn,
- Cú chấu sèng ngồi Hồn Sán sì.
- Dề pun, chống séng tâu hác sin.</description>
-    </item>
-    
-    <item>
-      <title>La littérature pour quoi faire?</title>
-      <link>https://optimistic-archimedes.netlify.app/articles/acompagnon/</link>
-      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://optimistic-archimedes.netlify.app/articles/acompagnon/</guid>
-      <description>Antoine Compagnon   🔖Note  La littérature, pour quoi faire ? - Leçon inaugurale prononcée le jeudi 30 novembre 2006 au Collège de France. (texte intégral)      
- Extraits choisis :  Quitter l’éloquence pour les mathématiques, c’est d’être dégoûté d’une maîtresse de dix-huit ans et devenir amoureux d’une vieille Jean-Louis Guez de Balzac, lettre à M. de Tissandier, 23 mars 1628.
-    Valéry ne pensait rien de bon des historiens de la littérature:</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>philo on</title><link>/tags/philo/</link><description>Recent content in philo on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/philo/index.xml" rel="self" type="application/rss+xml"/><item><title>Trà Kinh</title><link>/articles/tra-kinh/</link><pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate><guid>/articles/tra-kinh/</guid><description>Trà Kinh - gs Vũ Thế Ngọc &amp;#34;Dân tộc Việt Nam là một trong những dân tộc đã biết đến cây trà đầu tiên trong lịch sử loài người. Người Việt Nam đã uống trà từ ngàn năm nay, nhưng có lẽ đây là quyển sách đầu tiên viết về nghệ thuật uống trà của Đông phương bằng Việt ngữ tương đối đầy đủ hơn cả.” Mở đầu bằng một vài dòng tâm huyết, giản dị và gần gũi như cái cách người ta vẫn bắt đầu một câu chuyện, Trà Kinh sau đó đưa người đọc bước vào một thế giới của trà, vừa lạ vừa quen.</description></item><item><title>Dhammapuda</title><link>/articles/dhammapuda/</link><pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate><guid>/articles/dhammapuda/</guid><description>Pháp Cú Lê Đống - Préface Dhammapuda, La voie du Bouddha Si l’on doit ne retenir qu’un seul thème et désigner celui qui soutient tout l’ouvrage, ce ne peut être que le nirvana, l’extinction des désirs qui conduit à la libération définitive.
+La foi doit être une conviction fondée sur une compréhension approfondie de la voie choisie.
+thèmes fondateurs de l’enseignement bouddhique: 1 Le caractère impermanent et illusoire du monde.</description></item><item><title>Francois Jullien</title><link>/articles/francois-jullien/</link><pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate><guid>/articles/francois-jullien/</guid><description>La pensée chinoise
+Car, en concevant :
+une efficacité qui ne procède pas par modélisation, Traité de l’efficacité
+une sagesse pour qui avancer une idée est déjà verser dans la partialité Un sage est sans idée
+une image qui soit moins mimétique que vectrice d’énergie La Grande Image n’a pas de forme
+un &amp;#34;mal&amp;#34; qui ne soit qu’obstruction du cours du monde comme de la vie Du Mal/du Négatif</description></item><item><title>Han San Tu</title><link>/articles/han-san-tu/</link><pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate><guid>/articles/han-san-tu/</guid><description>Hàn San Tự Các
+Lắng biết mọi người đã ngủ yên cả, vị thần tử của giang sơn Trung Hoa vắt chân chữ ngũ, khe khẽ ngâm một bài thơ cổ, qua nỗi xúc động đột nhiên tụ lại trong người:
+Uỵt loọc, vú thày sướng mủn thín,
+Coóng phống, dì phố, tui sàu mìn,
+Cú chấu sèng ngồi Hồn Sán sì.
+Dề pun, chống séng tâu hác sin.</description></item><item><title>La littérature pour quoi faire?</title><link>/articles/acompagnon/</link><pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate><guid>/articles/acompagnon/</guid><description>Antoine Compagnon 🔖Note La littérature, pour quoi faire ? - Leçon inaugurale prononcée le jeudi 30 novembre 2006 au Collège de France. (texte intégral)
+Extraits choisis : Quitter l’éloquence pour les mathématiques, c’est d’être dégoûté d’une maîtresse de dix-huit ans et devenir amoureux d’une vieille Jean-Louis Guez de Balzac, lettre à M. de Tissandier, 23 mars 1628.
+Valéry ne pensait rien de bon des historiens de la littérature:</description></item></channel></rss>
