@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>literature on My New Hugo Site</title>
-    <link>http://example.org/tags/literature/</link>
-    <description>Recent content in literature on My New Hugo Site</description>
+    <title>literature on TQA Hugo AsciiDoc Site</title>
+    <link>https://optimistic-archimedes.netlify.app/tags/literature/</link>
+    <description>Recent content in literature on TQA Hugo AsciiDoc Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://optimistic-archimedes.netlify.app/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trà Kinh</title>
+      <link>https://optimistic-archimedes.netlify.app/articles/tra-kinh/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://optimistic-archimedes.netlify.app/articles/tra-kinh/</guid>
+      <description>Trà Kinh - gs Vũ Thế Ngọc   &amp;#34;Dân tộc Việt Nam là một trong những dân tộc đã biết đến cây trà đầu tiên trong lịch sử loài người. Người Việt Nam đã uống trà từ ngàn năm nay, nhưng có lẽ đây là quyển sách đầu tiên viết về nghệ thuật uống trà của Đông phương bằng Việt ngữ tương đối đầy đủ hơn cả.” Mở đầu bằng một vài dòng tâm huyết, giản dị và gần gũi như cái cách người ta vẫn bắt đầu một câu chuyện, Trà Kinh sau đó đưa người đọc bước vào một thế giới của trà, vừa lạ vừa quen.</description>
+    </item>
+    
+    <item>
+      <title>Dhammapuda</title>
+      <link>https://optimistic-archimedes.netlify.app/articles/dhammapuda/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://optimistic-archimedes.netlify.app/articles/dhammapuda/</guid>
+      <description>Pháp Cú Lê Đống - Préface Dhammapuda, La voie du Bouddha Si l’on doit ne retenir qu’un seul thème et désigner celui qui soutient tout l’ouvrage, ce ne peut être que le nirvana, l’extinction des désirs qui conduit à la libération définitive.
+ La foi doit être une conviction fondée sur une compréhension approfondie de la voie choisie.
+   thèmes fondateurs de l’enseignement bouddhique: 1 Le caractère impermanent et illusoire du monde.</description>
+    </item>
+    
     <item>
       <title>Francois Jullien</title>
-      <link>http://example.org/articles/francois-jullien/</link>
+      <link>https://optimistic-archimedes.netlify.app/articles/francois-jullien/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/articles/francois-jullien/</guid>
+      <guid>https://optimistic-archimedes.netlify.app/articles/francois-jullien/</guid>
       <description>La pensée chinoise
  Car, en concevant :
    une efficacité qui ne procède pas par modélisation, Traité de l’efficacité
@@ -23,10 +43,10 @@
     
     <item>
       <title>Han San Tu</title>
-      <link>http://example.org/articles/han-san-tu/</link>
+      <link>https://optimistic-archimedes.netlify.app/articles/han-san-tu/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/articles/han-san-tu/</guid>
+      <guid>https://optimistic-archimedes.netlify.app/articles/han-san-tu/</guid>
       <description>Hàn San Tự Các
  Lắng biết mọi người đã ngủ yên cả, vị thần tử của giang sơn Trung Hoa vắt chân chữ ngũ, khe khẽ ngâm một bài thơ cổ, qua nỗi xúc động đột nhiên tụ lại trong người:
   Uỵt loọc, vú thày sướng mủn thín,
@@ -37,30 +57,23 @@
     
     <item>
       <title>La littérature pour quoi faire?</title>
-      <link>http://example.org/articles/acompagnon/</link>
+      <link>https://optimistic-archimedes.netlify.app/articles/acompagnon/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/articles/acompagnon/</guid>
+      <guid>https://optimistic-archimedes.netlify.app/articles/acompagnon/</guid>
       <description>Antoine Compagnon   🔖Note  La littérature, pour quoi faire ? - Leçon inaugurale prononcée le jeudi 30 novembre 2006 au Collège de France. (texte intégral)      
  Extraits choisis :  Quitter l’éloquence pour les mathématiques, c’est d’être dégoûté d’une maîtresse de dix-huit ans et devenir amoureux d’une vieille Jean-Louis Guez de Balzac, lettre à M. de Tissandier, 23 mars 1628.
     Valéry ne pensait rien de bon des historiens de la littérature:</description>
     </item>
     
     <item>
-      <title>AsciiDoc test</title>
-      <link>http://example.org/articles/asciidoc-test/</link>
-      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <title>Francis Bacon</title>
+      <link>https://optimistic-archimedes.netlify.app/articles/lit-francis-bacon/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/articles/asciidoc-test/</guid>
-      <description>Asciidoc Example 5. Constrained bold, italic, and monospace It has strong significance to me.
- I cannot stress this enough.
- Type OK to accept.
- That really has to go.
-  Example 6. Unconstrained bold, italic, and monospace_ Create, Read, Update, and Delete (CRUD)
- That’s fanfreakintastic!
- Don’t pass generic Objects to methods that accept Strings!
- It was Beatlemania!
- Can’t pick one? Let’s use them all.</description>
+      <guid>https://optimistic-archimedes.netlify.app/articles/lit-francis-bacon/</guid>
+      <description>Of Studies – Francis Bacon (src link):
+Of Studies – Francis Bacon (Text)  Studies serve for delight, for ornament, and for ability. Their chief use for delight, is in privateness and retiring; for ornament, is in discourse; and for ability, is in the judgement and disposition of business. For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best from those that are learned.</description>
     </item>
     
   </channel>

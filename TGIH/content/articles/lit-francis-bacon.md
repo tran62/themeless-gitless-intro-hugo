@@ -3,7 +3,6 @@ title: Francis Bacon
 date: "2021-06-27"
 tags: ["literature","markdown"]
 category: literature
-published: false
 draft: false
 status: draft
 ---    

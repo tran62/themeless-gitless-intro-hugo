@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meta on TQA Hugo AsciiDoc Site</title>
-    <link>https://optimistic-archimedes.netlify.app/tags/meta/</link>
-    <description>Recent content in meta on TQA Hugo AsciiDoc Site</description>
+    <title>test on TQA Hugo AsciiDoc Site</title>
+    <link>https://optimistic-archimedes.netlify.app/tags/test/</link>
+    <description>Recent content in test on TQA Hugo AsciiDoc Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://optimistic-archimedes.netlify.app/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://optimistic-archimedes.netlify.app/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AsciiDoc test</title>
       <link>https://optimistic-archimedes.netlify.app/articles/asciidoc-test/</link>
@@ -39,20 +39,6 @@ This is italic text
 This is italic text
 Strikethrough
 Blockquotes  Blockquotes can also be nested&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>README</title>
-      <link>https://optimistic-archimedes.netlify.app/articles/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://optimistic-archimedes.netlify.app/articles/readme/</guid>
-      <description>hugo is the main command, used to build your Hugo site.
- Hugo is a Fast and Flexible Static Site Generator built with love by spf13 and friends in Go.
- Complete documentation is available at gohugo.io/.
- Usage:
- hugo [flags] hugo [command]   Available Commands:
- check Contains some verification checks config Print the site configuration convert Convert your content to different formats deploy Deploy your site to a Cloud provider.</description>
     </item>
     
   </channel>
