@@ -1,0 +1,15 @@
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variable files
+.env*
+
+# hugo files
+.cache/
+public
+
+# Mac files
+.DS_Store
+
+# Yarn
+yarn-error.log
