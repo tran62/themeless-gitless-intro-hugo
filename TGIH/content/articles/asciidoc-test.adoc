@@ -148,14 +148,14 @@ If the image target is a URL or absolute path, the attribute’s value is not pr
 
 _Example 38. Block image macro_
 
-image::sunset.jpg[sunset]
+image::/images/sunset.jpg[sunset]
 
-image::sunset.jpg[Sunset]
+image::/images/sunset.jpg[Sunset]
 
 .A mountain sunset
 [#img-sunset]
 [caption="Figure 1: ",link=https://www.flickr.com/photos/javh/5448336655]
-image::sunset.jpg[Sunset,200,100]
+image::/images/sunset.jpg[Sunset,200,100]
 
 image::https://asciidoctor.org/images/octocat.jpg[GitHub mascot]
 View result of Example 38
@@ -164,11 +164,13 @@ Two colons following the image keyword in the macro (i.e., image::) indicates a 
 
 _Example 39. Inline image macro_
 
-Click image:play.png[] to get the party started.
+Click image::/images/play.png[] to get the party started.
 
-Click image:pause.png[title="Pause"] when you need a break.
+Click image::/images/pause.png[title="Pause"] when you need a break.
 View result of Example 39
 
 _Example 40. Inline image macro with positioning role_
 
-image:sunset.jpg[Sunset,150,150,role=left] What a beautiful sunset!
+
+image::/images/sunset.jpg[Sunset,150,150,role=left] What a beautiful sunset!
+image::/images/sunset.jpg[sunset]

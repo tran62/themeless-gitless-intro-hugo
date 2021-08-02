@@ -1,5 +1,4 @@
 baseURL: https://optimistic-archimedes.netlify.app/
-
 languageCode: en-us
 title: TQA Hugo AsciiDoc Site
 markup:

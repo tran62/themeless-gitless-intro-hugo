@@ -7,7 +7,6 @@
 # hugo files
 .cache/
 public
-config_yaml
 hugo
 
 # Mac files

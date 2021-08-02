@@ -1,14 +1,7 @@
 baseURL = "https://optimistic-archimedes.netlify.app/"
 title = "TQA Hugo AsciiDoc Site"
-
-[params]
-  AuthorName = "Tran 62"
-  GitHubUser = "tran62"
-  ListOfFoo = ["foo1", "foo2"]
-  SidebarRecentLimit = 5
-  Subtitle = "themeless asciidoc"
-  languageCode = "en-us"
-  
+languageCode = "en-us"
+ 
 [markup]
   [goldmark]
     [extensions]
@@ -33,13 +26,13 @@ title = "TQA Hugo AsciiDoc Site"
   [asciidocExt]
     preserveTOC = true
     workingFolderCurrent = false  # default is false
-    
     [attributes]
-      toc= "macro"
-      hide-uri-scheme = "true@"  # trailing @ means ok to override
-      sectlinks= true
-      huri-config-vars= "https://gohugo.io/getting-started/configuration/"
-      huri-page-vars= "https://gohugo.io/variables/page/"
-      huri-site-vars= "https://gohugo.io/variables/site/"
-      huri-file-vars= "https://gohugo.io/variables/files/"
-      imagesdir= "/images"
+      toc = 'macro'
+      hide-uri-scheme = 'true@'  # trailing @ means ok to override
+      sectlinks = true
+      huri-config-vars = 'https://gohugo.io/getting-started/configuration/'
+      huri-page-vars = 'https://gohugo.io/variables/page/'
+      huri-site-vars = 'https://gohugo.io/variables/site/'
+      huri-file-vars = 'https://gohugo.io/variables/files/'
+      imagedir = '/'
+    
