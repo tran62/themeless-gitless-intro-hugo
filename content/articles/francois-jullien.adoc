@@ -1,0 +1,60 @@
+---
+## Important: If this is a draft, next line should NOT begin with #
+# draft: true
+title: Francois Jullien
+date: 2021-07-17
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - literature
+  - philo
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+// After blank line, BEGIN asciidoc
+
+//:icons: font
+
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+
+image:/images/la-pensee-chinoise.jpeg[La pensée chinoise]
+_La pensée chinoise_
+
+
+Car, en concevant :
+
+- une efficacité qui ne procède pas par
+modélisation, https://www.babelio.com/livres/Jullien-Traite-de-lefficacite/18266[Traité
+de l'efficacité]
+- une sagesse pour qui avancer une idée est déjà verser
+dans la partialité
+https://www.seuil.com/ouvrage/un-sage-est-sans-idee-ou-l-autre-de-la-philosophie-francois-jullien/9782020338028[Un
+sage est sans idée]
+- une image qui soit moins mimétique que vectrice
+d'énergie
+https://www.seuil.com/ouvrage/la-grande-image-n-a-pas-de-forme-ou-du-non-objet-par-la-peinture-francois-jullien/9782020518161[La
+Grande Image n'a pas de forme] +
+- un "mal" qui ne soit qu'obstruction du cours du monde comme de la vie
+https://revue-europeenne-coaching.com/numeros/de-limportance-du-negatif-pour-un-coaching-en-conscience-a-la-lueur-des-travaux-de-francois-jullien/[Du
+Mal/du Négatif]
+- aussi bien qu'un "vivre" qui ne soit plus suspendu au
+bonheur
+https://livre.fnac.com/a1607843/Francois-Jullien-Nourrir-sa-vie-A-l-ecart-du-bonheur[Nourrir
+Sa Vie] +
+- ou encore en ne laissant pas du Nu l'idéal de la Beauté
+http://belcikowski.org/la_dormeuse/nu.php[Le Nu impossible]
+- en ne faisant pas du temps ce grand axe dominant
+l'existence, https://www.babelio.com/livres/Jullien-Du-temps/107745[Du
+Temps]
+
+
+
+la Chine rompt avec nos attendus.
+
+
+_François Jullien - La philosophie inquiétée par la pensée chinoise_

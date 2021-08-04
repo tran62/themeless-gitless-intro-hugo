@@ -1,0 +1,7 @@
+---
+title: "About.adoc"
+date: 2021-07-31T19:07:25+02:00
+draft: false
+---
+image::/images/oscar-wilde.jpeg[Oscar Wilde]
+_Experimental site with Hugo SSG and AsciiDoc._

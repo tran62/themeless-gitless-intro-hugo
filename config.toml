@@ -1,0 +1,43 @@
+baseURL = "https://optimistic-archimedes.netlify.app/"
+title = "TQA Hugo AsciiDoc Site"
+languageCode = "en-us"
+ 
+[markup]
+  [goldmark]
+    [extensions]
+      definitionList =  true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [parser]
+      [attribute]
+        block = false
+        title = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [renderer]
+      hardWraps =  false
+      unsafe = false
+      xhtml = false
+      
+  [markup.highlight]
+    # Disable Goldmark Chroma syntax highlighter
+    codeFences = true
+  [markup.asciidocExt]
+    icons = "font"
+    source-highlighter = "highlightjs"
+    preserveTOC = true
+    workingFolderCurrent = false  # default is false
+    [attributes]
+      toc = "macro"
+      hide-uri-scheme = "true@"  # trailing @ means ok to override
+      sectlinks = true
+      huri-config-vars = 'https://gohugo.io/getting-started/configuration/'
+      huri-page-vars = 'https://gohugo.io/variables/page/'
+      huri-site-vars = 'https://gohugo.io/variables/site/'
+      huri-file-vars = 'https://gohugo.io/variables/files/'
+      imagedir = "/images"
+    

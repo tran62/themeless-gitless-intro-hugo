@@ -1,0 +1,14 @@
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variable files
+.env*
+
+# hugo files
+.cache/
+public
+hugo
+*_
+
+# Mac files
+.DS_Store
