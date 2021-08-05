@@ -3,6 +3,7 @@ title: Formules sur page couverture du Colmez
 date: "2021-03-12"
 tags: ["math ","markdown"]
 category: science
+math: true
 ---
 ![p.1 de couv](/images/pierrecolmez.jpeg)  
 

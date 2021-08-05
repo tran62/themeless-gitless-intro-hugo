@@ -1,9 +1,12 @@
 baseURL = "https://optimistic-archimedes.netlify.app/"
 title = "TQA Hugo AsciiDoc Site"
 languageCode = "en-us"
- 
+math = false  # to enable katex.js
+
 [markup]
-  [goldmark]
+#  defaultMarkdownHandler = "pandoc"
+  
+  [markup.goldmark]
     [extensions]
       definitionList =  true
       footnote = true
@@ -18,10 +21,12 @@ languageCode = "en-us"
         title = true
       autoHeadingID = true
       autoHeadingIDType = "github"
+      
     [renderer]
       hardWraps =  false
-      unsafe = false
+      unsafe = true  # for mathjax
       xhtml = false
+
       
   [markup.highlight]
     # Disable Goldmark Chroma syntax highlighter
