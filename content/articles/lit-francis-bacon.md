@@ -10,22 +10,26 @@ status: draft
 [*Of Studies – Francis Bacon (src link):*](https://mastanappa.blogspot.com/2017/08/of-studies-francis-bacon.html)   
 
 ### Of Studies – Francis Bacon (Text)      
-![Francis Bason](/images/bacon-on-science.jpeg)   
+![Francis Bason on studies](/images/bacon-on-studies.jpeg)   
 
 > Studies serve for delight, for ornament, and for ability. Their chief use for delight, is in privateness and retiring;   for ornament, is in discourse; and for ability, is in the judgement and disposition of business.    
 > For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best from those that are learned.   
 > To spend too much time in studies is sloth; to use them too much for ornament, is affectation; to make judgement wholly by their rules, is the humour of a scholar.   
 > They perfect nature, and are perfected by experience: for natural abilities are like natural plants that need proyning by study; and studies themselves do give forth directions too much at large, except they be bounded in by experience.    Crafty men contemn studies, simple men admire them, and wise men use them; for they teach not their own use; but that is a wisdom without them, and above them, won by observation.  
-> Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider.   
+> Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider. 
+![Francis Bason on reading](/images/bacon-on-reading.jpeg)   
 > Some books are to be tasted, others to be swallowed, and some few to be chewed and digested; that is, some books are to be read only in parts; others to be read, but not curiously;   and some few to be read wholly, and with diligence and attention.   
 > Some books also may be read by deputy, and extracts made of them by others; but that would be only in the less important arguments, and the meaner sort books; else distilled books are like common distilled waters, flashy things.    
 > Reading maketh a full man; conference a ready man; and writing an exact man. And therefore, if a man write little, he had need have a great memory; if he confer little, he had need a present wit and if he read little, he had need have much cunning, to seem to know that he doth not.    
 > Histories make men wise; poets witty; the mathematics subtile; natural philosophy deep; moral grave; logic and rhetoric able to contend. *Abeunt Studia in mores:* [Studies pass into character.]  
->  Nay there is no stond on impediment in the wit, but may be wrought out by fit studies: like as disease of the body may have appropriate exercises. Bowling is good for the stone and reins; shooting for the lungs and breast; gentle walking for the stomach; riding for the head; and the like.   
+
+>  Nay there is no stond on impediment in the wit, but may be wrought out by fit studies: like as disease of the body may have appropriate exercises. Bowling is good for the stone and reins; shooting for the lungs and breast; gentle walking for the stomach; riding for the head; and the like. 
+![Francis Bason on math](/images/bacon-on-math.jpeg)    
 > So if a man’s wit be wandering, let him study the mathematics; for in demonstrations, if his wit be called away never so little, he must begin again. If his wit be not apt to distinguish or find differences, let him study the schoolmen;   for they are *cymini sectors*[hairs splitters].    
  > If he be not apt to beat over matters, and to call up one thing to prove and illustrate another, let him study the lawyers’ cases. So every defect of the mind may have a special receipt.   
+![Francis Bason on science](/images/bacon-on-science.jpeg)  
 ---   
-![Celui qui fait une bête de lui-même se débarrasse de la douleur d'être humain](../assets/samuel-johnson-citation.jpeg)   
+  
 #### On Studies by Samuel Johnson (1753)  
 *[1700 words] first appeared, untitled, in number 85 of The Adventurer, August 28, 1753.*   
 
@@ -66,10 +70,12 @@ status: draft
 > But while the various opportunities of conversation invite us to try every mode of argument, and every art of recommending our sentiments, we are frequently betrayed to the use of such as are not in themselves strictly defensible: a man heated in talk, and eager of victory, takes advantage of the mistakes or ignorance of his adversary, lays hold of concessions to which he knows he has no right, and urges proofs likely to prevail on his opponent, though he knows himself that they have no force: thus the severity of reason is relaxed, many topics are accumulated, but without just arrangement or distinction; we learn to satisfy ourselves with such ratiocination as silences others; and seldom recall to a close examination that discourse which has gratified our vanity with victory and applause.   
 
 > Some caution, therefore, must be used, lest copiousness and facility be made less valuable by inaccuracy and confusion. To fix the thoughts by writing, and subject them to frequent examinations and reviews, is the best method of enabling the mind to detect its own sophisms, and keep it on guard against the fallacies which it practises on others: in conversation we naturally diffuse our thoughts, and in writing we contract them; method is the excellence of writing, and unconstraint the grace of conversation.  
-  
+ ![Francis Bason on revenge](/images/bacon-on-revenge.jpeg)  
 > To read, write, and converse in due proportions is, therefore, the business of a man of letters.   
 > For all these there is not often equal opportunity; excellence, therefore, is not often attainable: and most men fail in one or other of the ends proposed, and are full without readiness, or ready without exactness.   
 > Some deficiency must be forgiven all, because all are men; and more must be allowed to pass uncensured in the greater part of the world, because none can confer upon himself abilities, and few have the choice of situations proper for the improvement of those which nature has bestowed: it is, however, reasonable, to have perfection in our eye; that we may always advance towards it, though we know it never can be reached.   
 ***
+![Celui qui fait une bête de lui-même se débarrasse de la douleur d'être humain](/images/samuel-johnson-citation.jpeg)  
+
 [Samuel Johnson - Genius without learning - link: pdf](https://www.wheelersburg.net/Downloads/JohnsonGeniuswithoutLearning.pdf)   
 [Comments by Steve Draper - Dept Psychology of Glasgow Univ.](https://www.psy.gla.ac.uk/~steve/best/triad3.php)

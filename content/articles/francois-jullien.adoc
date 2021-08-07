@@ -22,9 +22,7 @@ tags:
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
 
-image:la-pensee-chinoise.jpeg[La pensée chinoise]
-_La pensée chinoise_
-
+image:francois-jullien.jpeg[François Jullien]
 
 Car, en concevant :
 
@@ -56,5 +54,6 @@ Temps]
 
 la Chine rompt avec nos attendus.
 
+image:la-pensee-chinoise.jpeg[La pensée chinoise]
 
 _François Jullien - La philosophie inquiétée par la pensée chinoise_
