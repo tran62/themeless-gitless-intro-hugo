@@ -10,7 +10,7 @@ status: draft
 [*Of Studies – Francis Bacon (src link):*](https://mastanappa.blogspot.com/2017/08/of-studies-francis-bacon.html)   
 
 ### Of Studies – Francis Bacon (Text)      
-![Francis Bason](/images/Francis-Bacon.jpeg)   
+![Francis Bason](/images/bacon-on-science.jpeg)   
 
 > Studies serve for delight, for ornament, and for ability. Their chief use for delight, is in privateness and retiring;   for ornament, is in discourse; and for ability, is in the judgement and disposition of business.    
 > For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best from those that are learned.   
