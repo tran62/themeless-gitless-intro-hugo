@@ -24,7 +24,7 @@ markup: "adoc"  # or "pdc" or "md"
 :note-caption: 🔖Note
 
 ### Trà Kinh - gs Vũ Thế Ngọc
-image::/images/tra-kinh.jpeg[hình bìa Trà Kinh]
+image::tra-kinh.jpeg[hình bìa Trà Kinh]
  "Dân tộc Việt Nam là một trong những dân tộc đã biết đến cây trà đầu tiên trong lịch sử loài người.
   Người Việt Nam đã uống trà từ ngàn năm nay, nhưng có lẽ đây là quyển sách đầu tiên viết về nghệ thuật uống trà của Đông phương
   bằng Việt ngữ tương đối đầy đủ hơn cả.”

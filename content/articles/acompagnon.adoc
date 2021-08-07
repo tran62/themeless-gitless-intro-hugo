@@ -31,7 +31,7 @@ France._ (texte intégral)]
 
 '''''
 
-image:/images/antoine-compagnon.jpeg[Antoine Compagnon]
+image::antoine-compagnon.jpeg[Antoine Compagnon]
 
 [[extraits-choisis-]]
 === Extraits choisis :

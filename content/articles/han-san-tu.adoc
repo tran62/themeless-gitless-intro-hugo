@@ -21,7 +21,7 @@ tags:
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
 
-image:/images/han-san-tu-cac.jpg[Han San Tu]Hàn San Tự Các
+image:han-san-tu-cac.jpg[Han San Tu]Hàn San Tự Các
 
 _Lắng biết mọi người đã ngủ yên cả, vị thần tử của giang sơn Trung Hoa vắt chân chữ
 ngũ, khe khẽ ngâm một bài thơ cổ, qua nỗi xúc động đột nhiên tụ lại

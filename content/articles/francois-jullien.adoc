@@ -22,7 +22,7 @@ tags:
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
 
-image:/images/la-pensee-chinoise.jpeg[La pensée chinoise]
+image:la-pensee-chinoise.jpeg[La pensée chinoise]
 _La pensée chinoise_
 
 

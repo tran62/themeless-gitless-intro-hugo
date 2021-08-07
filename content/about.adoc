@@ -3,5 +3,10 @@ title: "About.adoc"
 date: 2021-07-31T19:07:25+02:00
 draft: false
 ---
-image::/images/oscar-wilde.jpeg[Oscar Wilde]
-_Experimental site with Hugo SSG and AsciiDoc._
+image::oscar-wilde.jpeg[Oscar Wilde]
+_Hard work is only the refuge of people who has nothing to do - Oscar Wilde_
+
+This is a site aimed at helping the individual writer to lay down his discoveries in new technologies, sciences and poetry. 
+Technologies includes helping tools integrating web pages generators, AsciiDoc text standard, Pandoc documents transformer, Latex math symbols insertion, media processing tools.
+Sciences centers on elegant math problems demonstrations.
+Poetry collects out pieces that point out the true literary delights of the human soul.

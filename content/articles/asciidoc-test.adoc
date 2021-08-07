@@ -148,40 +148,38 @@ If the image target is a URL or absolute path, the attribute’s value is not pr
 
 _Example 38. Block image macro_
 
-image::sunset.jpg[sunset with imagedir prefix (::sunset.jpg)]
+image::sunset.jpg[sunset with imagesdir: prefix (::sunset.jpg)]
+Sunset with prepended attribute relative path
 
-image::/images/sunset.jpg[Sunset with complete path to root dir]
-Sunset with complete path (::/images/sunset.jpg)
+image::/images/sunset.jpg[Sunset with absolute path to /static dir]
+Sunset with absolute path (::/images/sunset.jpg)
 
 .A mountain sunset from flickr
 [img-sunset]
 [caption="",link=https://www.flickr.com/photos/javh/5448336655]
-image::/images/sunset.jpg[Sunset,200,100]
+image::sunset.jpg[Sunset,200,100]
 200 x 100
 
 
-image::https://asciidoctor.org/images/octocat.jpg[GitHub mascot]
-View result of Example 38
+image::https://asciidoctor.org/images/octocat.jpg[GitHub mascot with URL path]
+_GitHub octocat mascot with URL path_
+
 
 Two colons following the image keyword in the macro (i.e., image::) indicates a block image (aka figure), whereas one colon following the image keyword (i.e., image:) indicates an inline image. (All macros follow this pattern). You use an inline image when you need to place the image in a line of text. Otherwise, you should prefer the block form.
 
 _Example 39. Inline image macro_
 
-Click
+Click image:marker.png[title="Play marker"]
 
-image::/images/play.png[title="Play"]
 to get the party started.
 
-Click
+Click image:marker.png[title="Pause marker"]
 
-image::/images/pause.png[title="Pause"]
 when you need a break.
-View result of Example 39
 
 _Example 40. Inline image macro with positioning role_
 
 image::/images/sunset.jpg[Sunset,150,150,role=left]
-150 x 150
-What a beautiful sunset!
+150 x 150 What a beautiful sunset!
 
 image::/images/sunset.jpg[sunset]
