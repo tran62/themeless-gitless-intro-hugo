@@ -1,12 +1,12 @@
 ---
-title: Formules sur page couverture du Colmez
+title: Page de couverture du Colmez
 date: "2021-03-12"
 tags: ["math "]
 category: science
 math: true
 ---
 image::pierrecolmez.jpeg[p.1 de couv]  
-_Première de couverture du Pierre Colmez (absolute path)_
+_1^ère^ de couverture du cours de Pierre Colmez à l'X (absolute path)_
 
 ___
 
