@@ -1,0 +1,88 @@
+---
+## Important: If this is a draft, next line should NOT begin with #
+# draft: true
+title: Ton Tu Binh Phap
+date: 2021-08-09
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - literature
+  - philo
+markup: "adoc"  # or "pdc" or "md"
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+// After blank line, BEGIN asciidoc
+
+//:icons: font
+
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+
+Tôn Tử binh pháp (chữ Hán: 孫子兵法 / 孙子兵法; Pinyin: Sūnzĭ Bīngfǎ; WG: Sun1 Tzu3 Ping1 Fa3;) soạn thảo vào năm 512 TCN đời Xuân Thu.
+
+Tôn tử binh pháp 13 thiên gồm: 
+
+* Thiên thứ nhất: Kế sách (始計，始计)
+* Thiên thứ hai: Tác chiến (作戰，作战)
+* Thiên thứ ba: Mưu công (謀攻， 谋攻)
+* Thiên thứ tư: Hình (軍形， 军形)
+* Thiên thứ năm: Thế (兵勢，兵势)
+* Thiên thứ sáu: Hư thực (虛實，虚实) 
+* Thiên thứ bảy: Quân tranh (軍爭， 军争)
+* Thiên thứ tám: Cửu biến (九變，九变) 
+* Thiên thứ chín: Hành quân (行軍，行军)
+* Thiên thứ mười: Địa hình (地形)
+* Thiên thứ mười một: Cửu địa (九地) 
+* Thiên thứ mười hai: Hỏa công (火攻) 
+* Thiên thứ mười ba: Dụng gián (用間，用间)
+
+___
+
+
+## Kế sách thiên
+
+Tào Tháo viết: Kế giả, tuyển tướng, lượng địch, độ địa, liệu tốt, viễn cận, hiểm dị, kế vu miếu đường dã.
+
+___
+
+
+Nguyên văn: 故经之以五事，校之以计而索其情：一曰道，二曰天，三曰地，四曰将，五曰法。道者，令民与上同意也，故可以与之死，可以与之生，而不畏危。天者，阴阳、寒暑、时制也。地者，远近、险易、广狭、死生也。将者，智、信、仁、勇、严也。法者，曲制、官道、主用也。
+
+Hán Việt: Cố kinh chi dĩ ngũ sự , hiệu chi dĩ kế nhi sách kỳ tình ：nhất viết đạo , nhị viết thiên , tam viết địa , tứ viết tướng , ngũ viết pháp . Đạo giả , lệnh dân dữ thượng đồng ý dã , cố khả  dĩ dữ chi tử , khả dữ chi sinh , nhi bất uý nguy . Thiên giả , âm dương 、hàn thử 、thời chế dã . Địa giả , viễn cận 、hiểm dị  、quảng hiệp 、tử sinh dã . Tướng giả , trí 、tín 、nhân 、dũng 、nghiêm dã . Pháp giả , khúc chế 、quan đạo 、chủ dụng dã . 
+
+Tào tháo viết: Tướng nghi ngũ đức bị dã
+
+Tào tháo viết chú: Làm tướng phải có đầy đủ ngũ đức theo như Tôn Tử. Đó là: Trí, Tín, Nhân, Dũng, Nghiêm.
+
+___
+
+
+Nguyên văn: 兵者，诡道也。故能而示之不能，用而示之不用，近而示之远，远而示之近；利而诱之，乱而取之，实而备之，强而避之，怒而挠之，卑而骄之，佚而劳之，亲而离之。攻其无备，出其不意。
+ 
+Hán Việt: binh giả , quỷ đạo dã . cố năng nhi thị chi bất năng , dụng nhi thị chi bất dụng , cận thị chi viễn , viễn nhi thị chi cận ；lợi nhi dụ chi , loạn nhi thủ chi , thực nhi bị chi , cường  nhi tỵ chi , nộ nhi náo chi , ti nhi kiêu chi , dật nhi lao chi , thân nhi li chi . công kỳ vô bị , xuất kỳ bất ý.
+
+Nổi bật:
+
+* Binh giả, quỷ đạo dã : Đạo của binh pháp là đạo của của trá ngụy.
+* Công kỳ vô bị, Xuất kỳ bất ý: Lấy kỳ binh công địch lúc không phòng bị, xuất kỳ binh khi định không để ý. 
+
+___
+
+
+Nguyên văn: 夫未战而庙算胜者，得算多也；未战而庙算不胜者，得算少也。多算胜，少算不胜，而况于无算乎！吾以此观之，胜负见矣。
+
+Hán Việt: phù vị chiến nhi miếu toán thắng giả , đắc toán đa dã ；vị chiến nhi miếu toán bất thắng giả , đắc toán thiểu dã . đa toán thắng , thiểu toán bất thắng , nhi huống ư vô toán hồ ！ngô dĩ thử quan chi , thắng phụ kiến hĩ.
+
+Dịch nghĩa: Chưa lâm chiến mà đã tính toán được thắng lợi từ trong miếu đường, là do tính toán nhiều ( đắc toán) và nhiều điều kiện thắng lợi ( đa dã). Chưa lâm chiến mà tính toán rằng sẽ không thắng, là do tính toán nhiều nhưng điều kiện thắng lợi chưa đầy đủ ( thiểu dã). Bởi vậy, tính toán nhiều sẽ biết trước được thắng bại, tính toán ít thì dễ thất bại, huống chi là người không hề tính toán gì. 
+Nổi bật : Đa toán thắng thiểu toán bất thắng ( 多算胜，少算不胜) . Dòng này thâu tóm ý nghĩa chính của binh pháp. Trước khi tiến hành một việc gì phải tính toán, mưu sự thật kỹ các tình huống có thể xảy ra và chuẩn bị kĩ cho từng tình huống. Người chiến thắng trước tiên tính toán thấy thắng lợi rồi mới lâm trận, người bại trước tiên lâm trận rồi mới mong chiến thắng ( Thắng binh tiên thắng, nhi hậu cầu chiến. Bại binh tiên chiến, nhi hậu cầu thắng - 胜兵先胜而后求战，败兵先战而后求胜。Thiên 4: Quân Hình )
+
+___
+
+Nguyên văn: 故兵贵胜，不贵久。
+
+Hán Việt :  Cố binh quý thắng , bất quý cửu. ( Việc nhà binh quý thắng lợi và tốc độ chứ không quý việc đánh lâu dài ).
