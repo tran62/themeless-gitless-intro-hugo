@@ -52,17 +52,18 @@ ___
 Nguyên văn:: 故经之以五事，校之以计而索其情：一曰道，二曰天，三曰地，四曰将，五曰法。道者，令民与上同意也，故可以与之死，可以与之生，而不畏危。天者，阴阳、寒暑、时制也。地者，远近、险易、广狭、死生也。将者，智、信、仁、勇、严也。法者，曲制、官道、主用也。
 
 Hán Việt:: Cố kinh chi dĩ ngũ sự , hiệu chi dĩ kế nhi sách kỳ tình ：
-- nhất viết đạo ,
-- nhị viết thiên ,
-- tam viết địa ,
-- tứ viết tướng ,
-- ngũ viết pháp .
+. nhất viết _đạo_ ,
+. nhị viết _thiên_ ,
+. tam viết _địa_ ,
+. tứ viết _tướng_ ,
+. ngũ viết _pháp_ .
 
-** Đạo giả , lệnh dân dữ thượng đồng ý dã , cố khả  dĩ dữ chi tử , khả dữ chi sinh , nhi bất uý nguy . 
-** Thiên giả , âm dương, hàn thử, thời chế dã . 
-** Địa giả, viễn cận, hiểm dị , quảng hiệp , tử sinh dã . 
-** Tướng giả , trí, tín , nhân , dũng , nghiêm dã . 
-** Pháp giả , khúc chế ,quan đạo , chủ dụng dã . 
+
+* _Đạo_ giả, lệnh dân dữ thượng đồng ý dã , cố khả  dĩ dữ chi tử , khả dữ chi sinh , nhi bất uý nguy . 
+* _Thiên_ giả, âm dương, hàn thử, thời chế dã . 
+* _Địa_ giả, viễn cận, hiểm dị , quảng hiệp , tử sinh dã . 
+* _Tướng_ giả, trí, tín , nhân , dũng , nghiêm dã . 
+* _Pháp_ giả, khúc chế ,quan đạo , chủ dụng dã . 
 
 Tào tháo viết:: Tướng nghi ngũ đức bị dã
 
