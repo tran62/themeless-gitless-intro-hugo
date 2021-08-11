@@ -21,7 +21,8 @@ tags:
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
 
-image:han-san-tu-cac.jpg[Han San Tu]Hàn San Tự Các
+image::han-san-tu-cac.jpg[Han San Tu]
+Hàn San Tự Các
 
 _Lắng biết mọi người đã ngủ yên cả, vị thần tử của giang sơn Trung Hoa vắt chân chữ
 ngũ, khe khẽ ngâm một bài thơ cổ, qua nỗi xúc động đột nhiên tụ lại
@@ -44,16 +45,19 @@ _- Ấy dà! Cẩm tố xỉ a! (Chà! Lắm chuột thế!)_
 
 _Nhưng đó không phải tiếng chuột rúc. Đó là tiếng người con gái chở đò
 ban tối cười qua hai làn môi khép kín._
-
+[quote, Vũ Thư Hiên]
+____
 Cuốn *Chân Trời Cũ* văn gồm nhiều truyện ngắn, theo ghi chú của tác giả
 thì nó được viết vào tháng Giêng năm 1940, xuất bản lần đầu năm 1942. Nó
 được tái bản nhiều lần về sau này. Tôi rất nhớ hai câu kết của truyện
 ngắn Ngày Gặp Gỡ:
+____
 
-“_Người khách sang sông chiều muộn ấy về sau này là cha tôi. Và cô lái
-đò, là mẹ tôi“._
-
-Hồ Dzếnh (Hà Triệu Anh)
+[quote,Hồ Dzếnh, (Hà Triệu Anh) ]
+____
+Người khách sang sông chiều muộn ấy về sau này là cha tôi. Và cô lái
+đò, là mẹ tôi.
+____
 ___
 
 <!--

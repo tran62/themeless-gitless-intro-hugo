@@ -2,6 +2,7 @@ baseURL: https://optimistic-archimedes.netlify.app/
 languageCode: en-us
 title: TQA themeless
 math: false
+#theme: antora-default-ui-hugo-theme
 markup:
   goldmark:
     extensions:

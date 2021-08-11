@@ -183,3 +183,72 @@ image::/images/sunset.jpg[Sunset,150,150,role=left]
 150 x 150 What a beautiful sunset!
 
 image::/images/sunset.jpg[sunset]
+
+Ref of asciidoc syntax : https://mrduguo.github.io/asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+css : https://mrduguo.github.io/asciidoctor.org/stylesheets/styles.css
+
+js : https://mrduguo.github.io/asciidoctor.org/javascripts/vendor/custom.modernizr.js
+
+=== Normal and reusable footnotes
+A statement.footnote:[Clarification about this statement.]
+
+A bold statement.footnote:disclaimer[Opinions are my own.]
+
+Another bold statement:footnote:disclaimer[]
+
+### Fenced code block with syntax highlighting
+```ruby
+require 'sinatra'
+
+get '/hi' do
+  "Hello World!"
+end
+```
+
+### Bibliography
+References
+_The Pragmatic Programmer_ <<prag>> should be required reading for
+all developers.
+
+[bibliography]
+- [[[prag]]] Andy Hunt & Dave Thomas. The Pragmatic Programmer:
+  From Journeyman to Master. Addison-Wesley. 1999.
+- [[[seam]]] Dan Allen. Seam in Action. Manning Publications.
+  2008.
+
+### Table of Contents (ToC)
+Document with ToC
+= AsciiDoc Writer's Guide
+Doc Writer <doc.writer@asciidoctor.org>
+v1.0, 2013-08-01
+
+:toc:
+
+Document with ToC positioned on the right
+= AsciiDoc Writer's Guide
+Doc Writer <doc.writer@asciidoctor.org>
+v1.0, 2014-08-01
+
+:toc: right
+
+=== Blockquote
+
+[quote, Abraham Lincoln, Address delivered at the dedication of the Cemetery at Gettysburg]
+____
+Four score and seven years ago our fathers brought forth
+on this continent a new nation...
+____
+
+
+
+[quote, Albert Einstein]
+
+____
+A person who never made a mistake never tried anything new.
+____
+
+[quote, Charles Lutwidge Dodgson, 'Mathematician and author, also known as http://en.wikipedia.org/wiki/Lewis_Carroll[Lewis Carroll]']
+____
+If you don't know where you are going, any road will get you there.
+____
