@@ -235,7 +235,6 @@ v1.0, 2014-08-01
 :toc: right
 
 === Blockquote
-
 [quote, Abraham Lincoln, Address delivered at the dedication of the Cemetery at Gettysburg]
 ____
 Four score and seven years ago our fathers brought forth
@@ -243,9 +242,7 @@ on this continent a new nation...
 ____
 
 
-
 [quote, Albert Einstein]
-
 ____
 A person who never made a mistake never tried anything new.
 ____
@@ -254,3 +251,14 @@ ____
 ____
 If you don't know where you are going, any road will get you there.
 ____
+
+### inline bookmarks
+<<bookmark-a>> <<bookmark-b>> <<bookmark-c>> <<bookmark-d>>
+
+[[bookmark-a]]A) Inline anchors make arbitrary content referenceable.
+
+[#bookmark-b]#B) Inline anchors can be applied to a phrase like this one.#
+
+anchor:bookmark-c[]C) Use a cross reference to link to this location.
+
+[[bookmark-d,last paragraph]] D) The xreflabel attribute will be used as link text in the cross-reference link.

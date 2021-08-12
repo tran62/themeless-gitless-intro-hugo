@@ -2,7 +2,7 @@
 ## Important: If this is a draft, next line should NOT begin with #
 draft: false
 title: Hamming on Math
-date: 2021-08-12
+date: 2021-08-12T12:00:00
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
 tags:
@@ -175,15 +175,24 @@ If you recall that modern science is only about 400 years old, and that there ha
 
 Conclusion. From all of this I am forced to conclude both that mathematics is unreasonably effective and that all of the explanations I have given when added together simply are not enough to explain what I set out to account for. I think that we-meaning you, mainly-must continue to try to explain why the logical side of science-meaning mathematics, mainly-is the proper tool for exploring the universe as we perceive it at present. I suspect that my explanations are hardly as good as those of the early Greeks, who said for the material side of the question that the nature of the universe is earth, fire, water, and air. The logical side of the nature of the universe requires further exploration.
 
- ___
- [quote, Larry Frazier]
-  (Larry Frazier, who (with R. Hamming's permission) scanned this and put it online) was pleased to note that 58 people visited this essay in a recent 2-month period. I assume most of you are finding this from a pointer in the Gutenberg Project hierarchy.
+---
 
- On the other hand, I feel like thousands of people should be reading this. It is the most profound essay I have seen regarding philosophy of science; important, significant, in fact, for our whole understanding of thought, of knowing, or reality.
+[quote, Larry Frazier]
+____
 
- Drop me a note if you have any comments. Larry Frazier
- https://math.dartmouth.edu/~matc/MathDrama/reading/Hamming.html[article on Darmouth College]
-___
+(Larry Frazier, who (with R. Hamming's permission) scanned this and put it online) was pleased to note that 58 people visited this essay in a recent 2-month period. I assume most of you are finding this from a pointer in the Gutenberg Project hierarchy.
+
+On the other hand, I feel like thousands of people should be reading this. It is the most profound essay I have seen regarding philosophy of science; important, significant, in fact, for our whole understanding of thought, of knowing, or reality.
+
+Drop me a note if you have any comments. Larry Frazier
+
+____
+
+https://math.dartmouth.edu/~matc/MathDrama/reading/Hamming.html[Larry Frazier - article on Darmouth College site]
+
+---
+Bibliography:
+------------
 
 [bibliography]
 
