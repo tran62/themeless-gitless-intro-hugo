@@ -12,7 +12,7 @@ tags:
   - philo
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
-math: true  # true for mathjax rendering
+math: false  # true for mathjax
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -23,6 +23,7 @@ math: true  # true for mathjax rendering
 :important-caption: ❗️Important
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
+:toc:
 // After blank line, BEGIN asciidoc
 
 ## The Unreasonable Effectiveness of Mathematics
@@ -35,7 +36,8 @@ ___
 
 ___
 
-**Prologue**. It is evident from the title that this is a philosophical discussion. I shall not apologize for the philosophy, though I am well aware that most scientists, engineers, and mathematicians have little regard for it; instead, I shall give this short prologue to justify the approach.
+== Prologue
+It is evident from the title that this is a philosophical discussion. I shall not apologize for the philosophy, though I am well aware that most scientists, engineers, and mathematicians have little regard for it; instead, I shall give this short prologue to justify the approach.
 
 Man, so far as we know, has always wondered about himself, the world around him, and what life is all about. We have many myths from the past that tell how and why God, or the gods, made man and the universe. These I shall call _theological explanations_. They have one principal characteristic in common-there is little point in asking why things are the way they are, since we are given mainly a description of the creation as the gods chose to do it.
 
@@ -77,7 +79,7 @@ During my thirty years of practicing mathematics in industry, I often worried ab
 
 I could go on citing more examples illustrating the unreasonable effectiveness of mathematics, but it would only be boring. Indeed, I suspect that many of you know examples that I do not. Let me, therefore, assume that you grant me a very long list of successes, many of them as spectacular as the prediction of a new planet, of a new physical phenomenon, of a new artifact. With limited time, I want to spend it attempting to do what I think Wigner evaded-to give at least some partial answers to the implied question of the title.
 
-**What is Mathematics?** Having looked at the effectiveness of mathematics, we need to look at the question,"_What is Mathematics?_" This is the title of a famous book by Courant and Robbins <<courant>>. In it they do not attempt to give a formal definition, rather they are content to show what mathematics is by giving many examples. Similarly, I shall not give a comprehensive definition. But I will come closer than they did to discussing certain salient features of mathematics as I see them.
+**What is mathematics?** Having looked at the effectiveness of mathematics, we need to look at the question,"_What is Mathematics?_" This is the title of a famous book by Courant and Robbins <<courant>>. In it they do not attempt to give a formal definition, rather they are content to show what mathematics is by giving many examples. Similarly, I shall not give a comprehensive definition. But I will come closer than they did to discussing certain salient features of mathematics as I see them.
 
 Perhaps the best way to approach the question of what mathematics is, is to start at the beginning. In the far distant prehistoric past, where we must look for the beginnings of mathematics, there were already four major faces of mathematics. First, there was the ability to carry on the _long chains of close reasoning_ that to this day characterize much of mathematics. Second, there was _geometry_, leading through the concept of continuity to topology and beyond. Third, there was _number_, leading to arithmetic, algebra, and beyond. Finally there was _artistic taste_, which plays so large a role in modern mathematics. There are, of course, many different kinds of beauty in mathematics. In number theory it seems to be mainly the beauty of the almost infinite detail; in abstract algebra the beauty is mainly in the generality. Various areas of mathematics thus have various standards of aesthetics.
 
@@ -127,7 +129,7 @@ How do we decide in a "crisis" what parts of mathematics to keep and what parts 
 
 Some Partial Explanations. I will arrange my explanations of the unreasonable effectiveness of mathematics under four headings.
 
-### 1. _We see what we look for._ 
+### 1. We see what we look for 
 No one is surprised if after putting on blue tinted glasses the world appears bluish. I propose to show some examples of how much this is true in current science. To do this I am again going to violate a lot of widely, passionately held beliefs. But hear me out.
 
 I picked the example of scientists in the earlier part for a good reason. Pythagoras is to my mind the first great physicist. It was he who found that we live in what the mathematicians call L2-the sum of the squares of the two sides of a right triangle gives the square of the hypotenuse. As I said before, this is not a result of the postulates of geometry-this is one of the results that shaped the postulates.
@@ -154,26 +156,28 @@ In recent years it was Einstein who most loudly proclaimed the simplicity of the
 
 Thus my first answer to the implied question about the unreasonable effectiveness of mathematics is that we approach the situations with an intellectual apparatus so that we can only find what we do in many cases. It is both that simple, and that awful. What we were taught about the basis of science being experiments in the real world is only partially true. Eddington went further than this; he claimed that a sufficiently wise mind could deduce all of physics. I am only suggesting that a surprising amount can be so deduced. Eddington gave a lovely parable to illustrate this point. He said, "Some men went fishing in the sea with a net, and upon examining what they caught they concluded that there was a minimum size to the fish in the sea."
 
-### 2. _We select the kind of mathematics to use._
+=== 2. We select the kind of mathematics to use
+
 Mathematics does not always work. When we found that scalars did not work for forces, we invented a new mathematics, vectors. And going further we have invented tensors. In a book I have recently written <<hamm-code>> conventional integers are used for labels, and real numbers are used for probabilities; but otherwise all the arithmetic and algebra that occurs in the book, and there is a lot of both, has the rule that
 
   1+1=0.
 
 Thus my second explanation is that we select the mathematics to fit the situation, and it is simply not true that the same mathematics works every place.
 
-### 3. _Science in fact answers comparatively few problems_.
+=== 3. Science in fact answers comparatively few problems.
 We have the illusion that science has answers to most of our questions, but this is not so. From the earliest of times man must have pondered over what Truth, Beauty, and Justice are. But so far as I can see science has contributed nothing to the answers, nor does it seem to me that science will do much in the near future. So long as we use a mathematics in which the whole is the sum of the parts we are not likely to have mathematics as a major tool in examining these famous three questions.
 
 Indeed, to generalize, almost all of our experiences in this world do not fall under the domain of science or mathematics. Furthermore, we know (at least we think we do) that from Godel's theorem there are definite limits to what pure logical manipulation of symbols can do, there are limits to the domain of mathematics. It has been an act of faith on the part of scientists that the world can be explained in the simple terms that mathematics handles. When you consider how much science has not answered then you see that our successes are not so impressive as they might otherwise appear.
 
-### 4. _The evolution of man provided the model._
+=== 4. The evolution of man provided the model.
 I have already touched on the matter of the evolution of man. I remarked that in the earliest forms of life there must have been the seeds of our current ability to create and follow long chains of close reasoning. Some people <<mohr>> have further claimed that Darwinian evolution would naturally select for survival those competing forms of life which had the best models of reality in their minds-"best" meaning best for surviving and propagating. There is no doubt that there is some truth in this. We find, for example, that we can cope with thinking about the world when it is of comparable size to ourselves and our raw unaided senses, but that when we go to the very small or the very large then our thinking has great trouble. We seem not to be able to think appropriately about the extremes beyond normal size.
 
 Just as there are odors that dogs can smell and we cannot, as well as sounds that dogs can hear and we cannot, so too there are wavelengths of light we cannot see and flavors we cannot taste. Why then, given our brains wired the way they are, does the remark "Perhaps there are thoughts we cannot think," surprise you? Evolution, so far, may possibly have blocked us from being able to think in some directions; there could be unthinkable thoughts.
 
 If you recall that modern science is only about 400 years old, and that there have been from 3 to 5 generations per century, then there have been at most 20 generations since Newton and Galileo. If you pick 4,000 years for the age of science, generally, then you get an upper bound of 200 generations. Considering the effects of evolution we are looking for via selection of small chance variations, it does not seem to me that evolution can explain more than a small part of the unreasonable effectiveness of mathematics.
 
-Conclusion. From all of this I am forced to conclude both that mathematics is unreasonably effective and that all of the explanations I have given when added together simply are not enough to explain what I set out to account for. I think that we-meaning you, mainly-must continue to try to explain why the logical side of science-meaning mathematics, mainly-is the proper tool for exploring the universe as we perceive it at present. I suspect that my explanations are hardly as good as those of the early Greeks, who said for the material side of the question that the nature of the universe is earth, fire, water, and air. The logical side of the nature of the universe requires further exploration.
+=== Conclusion.
+From all of this I am forced to conclude both that mathematics is unreasonably effective and that all of the explanations I have given when added together simply are not enough to explain what I set out to account for. I think that we-meaning you, mainly-must continue to try to explain why the logical side of science-meaning mathematics, mainly-is the proper tool for exploring the universe as we perceive it at present. I suspect that my explanations are hardly as good as those of the early Greeks, who said for the material side of the question that the nature of the universe is earth, fire, water, and air. The logical side of the nature of the universe requires further exploration.
 
 ---
 
@@ -196,7 +200,7 @@ Bibliography:
 
 [bibliography]
 
-. [[[wig]]]  E. P. Wigner, The unreasonable effectiveness of mathematics in the natural sciences, Comm. Pure Appl. Math., 13 (Feb. 1960). https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences[Wikidepia]
+. [[[wig]]]  E. P. Wigner, The unreasonable effectiveness of mathematics in the natural sciences, Comm. Pure Appl. Math., 13 (Feb. 1960). https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences[Wikipedia]
 
 . [[[courant]]]  R. Courant and H. Robbins, What Is Mathematics? Oxford University Press, 1941. https://en.wikipedia.org/wiki/What_Is_Mathematics%3F#:~:text=What%20Is%20Mathematics%3F%20is%20a,and%20for%20the%20general%20public[Wikipedia]
 
