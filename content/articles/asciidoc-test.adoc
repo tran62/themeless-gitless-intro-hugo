@@ -15,7 +15,7 @@ markup: "asciidoc"
 :sectanchors: before
 // After blank line, BEGIN asciidoc
 
-//:icons: font
+:fonts: icons
 
 :tip-caption: 💡Tip
 :caution-caption: 🔥Caution
@@ -184,11 +184,13 @@ image::/images/sunset.jpg[Sunset,150,150,role=left]
 
 image::/images/sunset.jpg[sunset]
 
-Ref of asciidoc syntax : https://mrduguo.github.io/asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+Link Refs of asciidoctor css : 
 
-css : https://mrduguo.github.io/asciidoctor.org/stylesheets/styles.css
+- https://mrduguo.github.io/asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
-js : https://mrduguo.github.io/asciidoctor.org/javascripts/vendor/custom.modernizr.js
+- https://github.com/darshandsoni/asciidoctor-skins.git
+
+- https://blog.anoff.io/2019-02-17-hugo-render-asciidoc/ (Andreas'Blog) Fontawesome 4.7.0
 
 === Normal and reusable footnotes
 A statement.footnote:[Clarification about this statement.]

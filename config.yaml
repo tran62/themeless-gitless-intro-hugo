@@ -3,6 +3,7 @@ languageCode: en-us
 title: TQA themeless
 math: false
 #theme: antora-default-ui-hugo-theme
+#theme: foo-dogsquared
 markup:
   goldmark:
     extensions:
@@ -27,6 +28,15 @@ markup:
   asciidocExt:
     preserveTOC: true
     workingFolderCurrent: false  # default is false
+    backend: html5
+    extensions: []
+    failureLevel: fatal
+    noHeaderOrFooter: true
+    safeMode: unsafe
+    sectionNumbers: false
+    trace: false
+    verbose: false
+
     attributes:
       toc: macro
       hide-uri-scheme: true@  # trailing @ means ok to override

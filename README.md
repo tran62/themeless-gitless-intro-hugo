@@ -18,3 +18,7 @@ Clone the theme repository from GitHub into your site's themes directory:
 or alternatively:
   $ git submodule add https://github.com/basil/antora-default-ui-hugo-theme.git themes/antora-default-ui-hugo-theme
 
+# hugo-theme-arch-terminal
+submodule with asciidoctor css
+  git submodule add  https://github.com/foo-dogsquared/hugo-theme-arch-terminal.git themes/hugo-theme-arch-terminal
+

@@ -1,7 +1,7 @@
 ---
 ## Important: If this is a draft, next line should NOT begin with #
 # draft: true
-title: Han San Tu
+title: Hàn San Tự
 date: 2021-07-17
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
@@ -23,20 +23,29 @@ tags:
 
 image::han-san-tu-cac.jpg[Han San Tu]
 Hàn San Tự Các
+[quote,Hồ Dzếnh (Hà Triệu Anh), Chân Trời Cũ - Ngày Gặp Gỡ ]
 
+____
 _Lắng biết mọi người đã ngủ yên cả, vị thần tử của giang sơn Trung Hoa vắt chân chữ
 ngũ, khe khẽ ngâm một bài thơ cổ, qua nỗi xúc động đột nhiên tụ lại
 trong người:_
-____
 
-Uỵt loọc, vú thày sướng mủn thín,
+*Uỵt loọc, vú thày sướng mủn thín,*
 
-Coóng phống, dì phố, tui sàu mìn,
+(Nguyệt lạc, ô đề sương mãn thiên)
 
-Cú chấu sèng ngồi Hồn Sán sì.
+*Coóng phống, dì phố, tui sàu mìn.*
 
-Dề pun, chống séng tâu hác sin.
-____
+(Giang phong, ngư hoả, đối sầu miên)
+
+*Cú chấu sèng ngồi Hồn Sán sì,*
+
+(Cô tô thành ngoại Hàn San Tự,)
+
+*Dề pun, chống séng tâu hác sin.*
+
+(Dạ bán, chung thanh đáo khách thuyền)
+
 
 _Ngay lúc ấy, từ gian buồng bên, nổi lên mấy tiếng gì như chuột rúc. Lữ
 khách, thấy đứt mạch cảm hứng, càu nhàu trong bóng tối:_
@@ -45,7 +54,9 @@ _- Ấy dà! Cẩm tố xỉ a! (Chà! Lắm chuột thế!)_
 
 _Nhưng đó không phải tiếng chuột rúc. Đó là tiếng người con gái chở đò
 ban tối cười qua hai làn môi khép kín._
-[quote, Vũ Thư Hiên]
+____
+
+[quote, Vũ Thư Hiên, https://dutule.com/a7831/vu-thu-hien-ho-dzenh-[DuTuLê 2016]]
 ____
 Cuốn *Chân Trời Cũ* văn gồm nhiều truyện ngắn, theo ghi chú của tác giả
 thì nó được viết vào tháng Giêng năm 1940, xuất bản lần đầu năm 1942. Nó
@@ -53,13 +64,9 @@ thì nó được viết vào tháng Giêng năm 1940, xuất bản lần đầu
 ngắn Ngày Gặp Gỡ:
 ____
 
-[quote,Hồ Dzếnh, (Hà Triệu Anh) ]
+[quote,Hồ Dzếnh, (Hà Anh) ]
 ____
 Người khách sang sông chiều muộn ấy về sau này là cha tôi. Và cô lái
 đò, là mẹ tôi.
 ____
 ___
-
-<!--
-  created 2021-07-17 16:55:39.076135 +0200 CEST m=+0.033896972
--->

@@ -11,18 +11,18 @@ tags:
   - literature
   - philo
 markup: "adoc"  # or "pdc" or "md"
+categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
+math: false  # true for mathjax rendering
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
 :sectanchors: before
-// After blank line, BEGIN asciidoc
-
-//:icons: font
-
+:icons: font
 :tip-caption: 💡Tip
 :caution-caption: 🔥Caution
 :important-caption: ❗️Important
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
+// After blank line, BEGIN asciidoc
 
 enter text here
