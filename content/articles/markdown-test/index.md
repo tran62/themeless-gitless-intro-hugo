@@ -11,6 +11,8 @@ tags:
   - test
 ---
 
+![tiger from static/iamges](/images/tiger.png)Tiger - static/images/tiger.png
+
 *Thanks to [markdown-it](https://github.com/markdown-it/markdown-it)
 for most of the content of this file! --nm*
 
@@ -139,8 +141,6 @@ Right aligned columns
 [link text](http://dev.nodeca.com)
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-
 
 ## Images
 
