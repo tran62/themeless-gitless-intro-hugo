@@ -22,7 +22,7 @@ markup:
       autoHeadingIDType: github
     renderer:
       hardWraps: false
-      unsafe: true
+      unsafe: false
       xhtml: false
 
   asciidocExt:
@@ -32,7 +32,7 @@ markup:
     extensions: []
     failureLevel: fatal
     noHeaderOrFooter: true
-    safeMode: unsafe
+    safeMode: safe
     sectionNumbers: false
     trace: false
     verbose: false
@@ -45,4 +45,4 @@ markup:
       huri-page-vars: https://gohugo.io/variables/page/
       huri-site-vars: https://gohugo.io/variables/site/
       huri-file-vars: https://gohugo.io/variables/files/
-      imagesdir: /images/
+      imagesdir: 

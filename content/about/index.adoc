@@ -1,0 +1,20 @@
+---
+title: "About.adoc"
+date: 2021-07-31T19:07:25+02:00
+draft: false
+---
+image::oscar-wilde.jpeg[Oscar Wilde]
+
+[quote, Oscar Wilde]
+____
+Hard work is only the refuge of people who has nothing to do
+____
+
+---
+
+This is a site aimed at helping individuals to memorize interesting products in art, science and technology.
+
+
+
+___
+

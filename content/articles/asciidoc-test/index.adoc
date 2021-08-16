@@ -1,0 +1,30 @@
+---
+## Important: If this is a draft, next line should NOT begin with #
+#draft: true
+title: Asciidoc Test
+date: 2021-08-16
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - meta
+  - math
+  - literature
+  - philo
+markup: "adoc"  # or "pdc" or "md"
+categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
+math: false  # true for mathjax rendering
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+:icons: font
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+// After blank line, BEGIN asciidoc
+
+image::tiger.png[Tiger]
+image::marker.png[marker]
+image::sunset.jpg[Sunset]

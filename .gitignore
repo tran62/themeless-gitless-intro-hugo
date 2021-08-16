@@ -6,9 +6,12 @@
 
 # hugo files
 .cache/
-public
-hugo
+public/
+hugo*
 *_
 
 # Mac files
 .DS_Store
+
+# not_used images
+resources/_gen/images/
