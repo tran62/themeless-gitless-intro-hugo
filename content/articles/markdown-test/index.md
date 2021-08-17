@@ -9,6 +9,7 @@ tags:
   - markdown
   - meta
   - test
+markup: "md"
 ---
 
 ![tiger from static/iamges](/images/tiger.png)Tiger - static/images/tiger.png
@@ -109,7 +110,7 @@ Block code "fences"
 Sample text here...
 ```
 
-Syntax highlighting
+Syntax highlighting (js)
 
 ``` js
 var foo = function (bar) {

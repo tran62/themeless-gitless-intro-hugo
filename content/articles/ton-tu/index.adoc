@@ -22,6 +22,7 @@ markup: "adoc"  # or "pdc" or "md"
 // After blank line, BEGIN asciidoc
 
 Tôn Tử binh pháp (chữ Hán: 孫子兵法 / 孙子兵法; Pinyin: Sūnzĭ Bīngfǎ; WG: Sun1 Tzu3 Ping1 Fa3;) soạn thảo vào năm 512 TCN đời Xuân Thu.
+https://vi.wikipedia.org/wiki/Binh_ph%C3%A1p_T%C3%B4n_T%E1%BB%AD[wikipedia]
 
 Tôn tử binh pháp 13 thiên gồm: 
 
@@ -43,7 +44,7 @@ ___
 
 
 ## Kế sách thiên (始計)
-
+Tôn Tử viết:: "Binh giả, quốc chi đại sự. Tử sinh chi địa, tồn vong chi đạo, bất khả bất sát dã.
 Tào Tháo viết:: Kế giả, tuyển tướng, lượng địch, độ địa, liệu tốt, viễn cận, hiểm dị, kế vu miếu đường dã.
 
 ___
@@ -65,6 +66,14 @@ Hán Việt:: Cố kinh chi dĩ ngũ sự , hiệu chi dĩ kế nhi sách kỳ t
 * _Tướng_ giả, trí(智), tín(信), nhân(仁), dũng(勇), nghiêm(严) dã . 
 * _Pháp_ giả, khúc chế(曲制) ,quan đạo(官道) , chủ dụng dã . 
 
+Phàm thử ngũ giả, tướng mạc bất văn, tri chi giả thắng, bất tri giả bất thắng. Cố hiệu chi dĩ kế, nhi sách kỳ tình. 
+
+Viết: Chủ thục hữu đạo? Tướng thục hữu năng? Thiên địa thục đắc? Pháp lệnh thục hành? Binh chúng thực cường? Sĩ tốt thục luyện? Thưởng phạt thục minh? Ngô dĩ thử tri thắng phụ hĩ.
+
+Tướng thính ngô kế, dụng chi tất thắng, lưu chi. Tướng bất thính ngô kế, dụng chi tất bại, khứ chi.
+
+Kế lợi dĩ thính, nãi vị chi thế, dĩ tá kỳ ngoại; thế giả, nhân lợi nhi chế quyền dã.
+
 Tào tháo viết:: Tướng nghi ngũ đức bị dã
 
 Tào tháo viết chú:: Làm tướng phải có đầy đủ ngũ đức theo như Tôn Tử. Đó là: Trí, Tín, Nhân, Dũng, Nghiêm.
@@ -74,7 +83,7 @@ ___
 
 Nguyên văn:: 兵者，诡道也。故能而示之不能，用而示之不用，近而示之远，远而示之近；利而诱之，乱而取之，实而备之，强而避之，怒而挠之，卑而骄之，佚而劳之，亲而离之。攻其无备，出其不意。
  
-Hán Việt:: Binh(兵) giả , quỷ(诡) đạo dã . cố năng nhi thị(示) chi bất năng , dụng(用) nhi thị chi bất dụng , cận(近) nhi thị chi viễn(远) , viễn nhi thị chi cận ；lợi(利) nhi dụ(诱) chi , loạn(乱) nhi thủ(取) chi , thực(实) nhi bị(备) chi , cường(强)  nhi tỵ(避) chi , nộ(怒) nhi náo(挠) chi , ti(卑) nhi kiêu(骄) chi , dật(佚) nhi lao(劳) chi , thân(亲) nhi li(离) chi . công(攻) kỳ vô bị , xuất kỳ bất ý.
+Hán Việt:: Binh(兵) giả , quỷ(诡) đạo dã . cố năng nhi thị(示) chi bất năng , dụng(用) nhi thị chi bất dụng , cận(近) nhi thị chi viễn(远) , viễn nhi thị chi cận ；lợi(利) nhi dụ(诱) chi , loạn(乱) nhi thủ(取) chi , thực(实) nhi bị(备) chi , cường(强)  nhi tỵ(避) chi , nộ(怒) nhi náo(挠) chi , ti(卑) nhi kiêu(骄) chi , dật(佚) nhi lao(劳) chi , thân(亲) nhi li(离) chi . công(攻) kỳ vô bị , xuất kỳ bất ý. Thủ binh gia chi thắng, bất khả tiên truyền dã. 
 
 Nổi bật::
 
@@ -105,3 +114,9 @@ Nguyên văn:: 故兵贵胜，不贵久。
 Hán Việt::  Cố binh quý thắng , bất quý cửu. ( Việc nhà binh quý thắng lợi và tốc độ chứ không quý việc đánh lâu dài ).
 
 ___
+
+Phàm thử ngũ giả, tướng mạc bất văn, tri chi giả thắng, bất tri giả bất thắng. Cố hiệu chi dĩ kế, nhi sách kỳ tình. Viết: Chủ thục hữu đạo? Tướng thục hữu năng? Thiên địa thục đắc? Pháp lệnh thục hành? Binh chúng thực cường? Sĩ tốt thục luyện? Thưởng phạt thục minh? Ngô dĩ thử tri thắng phụ hĩ.
+
+Tướng thính ngô kế, dụng chi tất thắng, lưu chi. Tướng bất thính ngô kế, dụng chi tất bại, khứ chi.
+
+Kế lợi dĩ thính, nãi vị chi thế, dĩ tá kỳ ngoại; thế giả, nhân lợi nhi chế quyền dã.
