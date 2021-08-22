@@ -1,0 +1,31 @@
+---
+# draft: true
+title: Pandoc Test
+date: 2021-08-21
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - meta
+  - math
+  - literature
+  - philo
+markup: pandoc 
+categories: ["pdc"] # "md" "pdc" "viet" "hanyu"
+math: true  # mathjax by js
+
+---
+
+___
+## mathjax :
+`$$ \cos \frac{\pi}{4} = \frac {\sqrt 2}{2} $$ :`
+
+$$ \cos \frac{\pi}{4} = \frac {\sqrt 2}{2} $$
+
+___
+`#$$ \pi (x) \approx \frac {x}{log x} $$ :`
+
+$$ \pi (x) \approx \frac {x}{log x} $$
+
+___
+
+

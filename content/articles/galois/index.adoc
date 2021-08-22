@@ -1,0 +1,39 @@
+---
+## Important: If this is a draft, next line should NOT begin with #
+# draft: true
+title: Galois
+date: 2021-08-19
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - meta
+  - math
+  - literature
+  - philo
+markup: "adoc"  # or "pdc" or "md"
+categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
+math: true  # true for mathjax
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+:icons: font
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+// After blank line, BEGIN asciidoc
+
+### What Galois theory can prove ...
+
+. insolubility by radicals of a specific _quintic_ polynomial with integer coefficients
+. duplicating the Cube
+. trisecting the angle
+. squarring the circle
+. construction of regular polygons (17-gon)
+. solution of cubic and quartic equations
+. structure of finite fields
+. the Fundamental theorem of algebra
+. trancendence of $ \pi $
+

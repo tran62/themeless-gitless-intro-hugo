@@ -12,7 +12,8 @@ tags:
   - philo
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
-math: false  # true for mathjax rendering
+math: false  # true for mathjax
+
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -29,8 +30,28 @@ math: false  # true for mathjax rendering
 image::sunset.jpg[Sunset] 
 Sunset from `articles/asciidoc-test/`` local directory
 
+
 == Asciidoctor Demo
 
+
+
+== Abbreviations
+___
+include::acronymns.txt[]
+___
+
+{afaik} {html} is a publishing language.
+
+{imho}  {IMHO}
+{hateoas} {HATEOAS}
+{rest} {REST}
+{rgpd} {RGPD}
+{gdpr} {GDPR}
+
+
+
+
+___
 [[first,First Steps]]
 == First Steps with http://asciidoc.org[AsciiDoc]
 
@@ -63,6 +84,11 @@ You can write text http://example.com[with inline links], optionally{sp}using an
 If you want to break a line +
 just end it in a {plus} sign +
 and continue typing on the next line.
+
+=== abbreviations
+
+*[HTML]: Hyper Text Markup Language
+*[W3C]:  World Wide Web Consortium
 
 === Lists Upon Lists
 

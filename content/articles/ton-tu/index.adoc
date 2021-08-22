@@ -21,18 +21,19 @@ markup: "adoc"  # or "pdc" or "md"
 :note-caption: 🔖Note
 // After blank line, BEGIN asciidoc
 
-Tôn Tử binh pháp (chữ Hán: 孫子兵法 / 孙子兵法; Pinyin: Sūnzĭ Bīngfǎ; WG: Sun1 Tzu3 Ping1 Fa3;) soạn thảo vào năm 512 TCN đời Xuân Thu.
-https://vi.wikipedia.org/wiki/Binh_ph%C3%A1p_T%C3%B4n_T%E1%BB%AD[wikipedia]
+## Tôn Tử binh pháp 
+(_chữ Hán:_ 孫子兵法 / 孙子兵法; _Pinyin:_ Sūnzĭ Bīngfǎ; _WG:_ Sun1 Tzu3 Ping1 Fa3;) soạn thảo vào năm 512 TCN đời Xuân Thu.
+https://vi.wikipedia.org/wiki/Binh_ph%C3%A1p_T%C3%B4n_T%E1%BB%AD[wikipedia link]
 
 Tôn tử binh pháp 13 thiên gồm: 
 
-* Thiên thứ nhất: Kế sách (始計，始计)
+* Thiên thứ nhất: Kế sách (計索，计索)
 * Thiên thứ hai: Tác chiến (作戰，作战)
 * Thiên thứ ba: Mưu công (謀攻， 谋攻)
-* Thiên thứ tư: Quân Hình (軍形， 军形)
+* Thiên thứ tư: Quân Hình (軍形，军形)
 * Thiên thứ năm: Binh Thế (兵勢，兵势)
 * Thiên thứ sáu: Hư thực (虛實，虚实) 
-* Thiên thứ bảy: Quân tranh (軍爭， 军争)
+* Thiên thứ bảy: Quân tranh (軍爭，军争)
 * Thiên thứ tám: Cửu biến (九變，九变) 
 * Thiên thứ chín: Hành quân (行軍，行军)
 * Thiên thứ mười: Địa hình (地形)
@@ -43,22 +44,25 @@ Tôn tử binh pháp 13 thiên gồm:
 ___
 
 
-## Kế sách thiên (始計)
-Tôn Tử viết:: "Binh giả, quốc chi đại sự. Tử sinh chi địa, tồn vong chi đạo, bất khả bất sát dã.
+## Kế sách thiên (計索篇)
+
 Tào Tháo viết:: Kế giả, tuyển tướng, lượng địch, độ địa, liệu tốt, viễn cận, hiểm dị, kế vu miếu đường dã.
 
 ___
 
+Nguyên văn:: 
+孫子曰：兵者，國之大事，死生之地，存亡之道，不可不察也
+故经之以五事，校之以计而索其情：一曰道，二曰天，三曰地，四曰将，五曰法。道者，令民与上同意也，故可以与之死，可以与之生，而不畏危。天者，阴阳、寒暑、时制也。地者，远近、险易、广狭、死生也。将者，智、信、仁、勇、严也。法者，曲制、官道、主用也。
 
-Nguyên văn:: 故经之以五事，校之以计而索其情：一曰道，二曰天，三曰地，四曰将，五曰法。道者，令民与上同意也，故可以与之死，可以与之生，而不畏危。天者，阴阳、寒暑、时制也。地者，远近、险易、广狭、死生也。将者，智、信、仁、勇、严也。法者，曲制、官道、主用也。
+Hán Việt:: 
+Tôn Tử viết:: Binh giả, quốc chi đại sự. Tử sinh chi địa, tồn vong chi đạo, bất khả bất sát dã.
+Cố kinh chi dĩ ngũ sự , hiệu chi dĩ kế nhi sách kỳ tình: 
 
-Hán Việt:: Cố kinh chi dĩ ngũ sự , hiệu chi dĩ kế nhi sách kỳ tình ：
-. nhất viết _đạo_ (道),
-. nhị viết _thiên_ (天),
-. tam viết _địa_ (地),
-. tứ viết _tướng_ (将),
-. ngũ viết _pháp_ (法).
-
+  . nhất viết _đạo_ (道),
+  . nhị viết _thiên_ (天),
+  . tam viết _địa_ (地),
+  . tứ viết _tướng_ (将),
+  . ngũ viết _pháp_ (法).
 
 * _Đạo_ giả, lệnh(令) dân dữ thượng đồng ý dã , cố khả  dĩ dữ chi tử , khả dĩ dữ chi sinh , nhi bất uý nguy(危) . 
 * _Thiên_ giả, âm dương(阴阳), hàn thử(寒暑), thời chế(时制) dã . 
@@ -66,17 +70,41 @@ Hán Việt:: Cố kinh chi dĩ ngũ sự , hiệu chi dĩ kế nhi sách kỳ t
 * _Tướng_ giả, trí(智), tín(信), nhân(仁), dũng(勇), nghiêm(严) dã . 
 * _Pháp_ giả, khúc chế(曲制) ,quan đạo(官道) , chủ dụng dã . 
 
+凡此五者，將莫不聞，知之者勝，不知之
+者不勝。故校之以計，而索其情。
+
 Phàm thử ngũ giả, tướng mạc bất văn, tri chi giả thắng, bất tri giả bất thắng. Cố hiệu chi dĩ kế, nhi sách kỳ tình. 
+
+曰：主孰有道？將孰有能？天地孰得？法令孰
+行？兵眾孰強？士卒孰練？賞罰孰明？吾以此知勝負矣。
 
 Viết: Chủ thục hữu đạo? Tướng thục hữu năng? Thiên địa thục đắc? Pháp lệnh thục hành? Binh chúng thực cường? Sĩ tốt thục luyện? Thưởng phạt thục minh? Ngô dĩ thử tri thắng phụ hĩ.
 
+將聽吾計，用之必勝，留之﹔將不聽吾計，用之必敗，去之。
+
 Tướng thính ngô kế, dụng chi tất thắng, lưu chi. Tướng bất thính ngô kế, dụng chi tất bại, khứ chi.
+
+計利以聽，乃為之勢，以佐其外。勢者，因利而制權也。
 
 Kế lợi dĩ thính, nãi vị chi thế, dĩ tá kỳ ngoại; thế giả, nhân lợi nhi chế quyền dã.
 
 Tào tháo viết:: Tướng nghi ngũ đức bị dã
 
 Tào tháo viết chú:: Làm tướng phải có đầy đủ ngũ đức theo như Tôn Tử. Đó là: Trí, Tín, Nhân, Dũng, Nghiêm.
+
+Viết:: Phàm thử ngũ giả, tướng mạc bất văn, tri chi giả thắng, bất tri giả bất thắng. Cố hiệu chi dĩ kế, nhi sách kỳ tình.
+
+Viết:: Chủ thục hữu đạo? Tướng thục hữu năng? Thiên địa thục đắc? Pháp lệnh thục hành? Binh chúng thực cường? Sĩ tốt thục luyện? Thưởng phạt thục minh? Ngô dĩ thử tri thắng phụ hĩ.
+
+___
+
+Nguyên văn:: 將聽吾計，用之必勝，留之﹔將不聽吾計，用之必敗，去之。
+
+Tướng thính ngô kế, dụng chi tất thắng, lưu chi. Tướng bất thính ngô kế, dụng chi tất bại, khứ chi.
+
+Nguyên văn:: 計利以聽，乃為之勢，以佐其外。勢者，因利而制權也。
+
+Kế lợi dĩ thính, nãi vị chi thế, dĩ tá kỳ ngoại; thế giả, nhân lợi nhi chế quyền dã.
 
 ___
 
@@ -114,9 +142,3 @@ Nguyên văn:: 故兵贵胜，不贵久。
 Hán Việt::  Cố binh quý thắng , bất quý cửu. ( Việc nhà binh quý thắng lợi và tốc độ chứ không quý việc đánh lâu dài ).
 
 ___
-
-Phàm thử ngũ giả, tướng mạc bất văn, tri chi giả thắng, bất tri giả bất thắng. Cố hiệu chi dĩ kế, nhi sách kỳ tình. Viết: Chủ thục hữu đạo? Tướng thục hữu năng? Thiên địa thục đắc? Pháp lệnh thục hành? Binh chúng thực cường? Sĩ tốt thục luyện? Thưởng phạt thục minh? Ngô dĩ thử tri thắng phụ hĩ.
-
-Tướng thính ngô kế, dụng chi tất thắng, lưu chi. Tướng bất thính ngô kế, dụng chi tất bại, khứ chi.
-
-Kế lợi dĩ thính, nãi vị chi thế, dĩ tá kỳ ngoại; thế giả, nhân lợi nhi chế quyền dã.

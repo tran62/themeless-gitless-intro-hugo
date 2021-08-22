@@ -14,6 +14,10 @@ markup: "md"
 
 ![tiger from static/iamges](/images/tiger.png)Tiger - static/images/tiger.png
 
+### abbreviations
+
+*[HTML]: Hyper Text Markup Language
+*[W3C]:  World Wide Web Consortium
 *Thanks to [markdown-it](https://github.com/markdown-it/markdown-it)
 for most of the content of this file! --nm*
 

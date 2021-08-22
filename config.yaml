@@ -5,6 +5,10 @@ math: false
 #theme: antora-default-ui-hugo-theme
 #theme: foo-dogsquared
 markup:
+  preserveTOC: false
+  workingFolderCurrent: false  # default is false
+  extensions: ["acronym","citation-abbreviations"]
+
   goldmark:
     extensions:
       definitionList: true
@@ -26,7 +30,7 @@ markup:
       xhtml: false
 
   asciidocExt:
-    preserveTOC: true
+    preserveTOC: false
     workingFolderCurrent: false  # default is false
     backend: html5
     extensions: []
@@ -46,3 +50,8 @@ markup:
       huri-site-vars: https://gohugo.io/variables/site/
       huri-file-vars: https://gohugo.io/variables/files/
       imagesdir: 
+  pandoc:
+    mathjax: false
+defaultMarkdownHandler: "adoc"
+citation-abbreviations: true
+abbreviations: true

@@ -1,0 +1,86 @@
+---
+## Important: If this is a draft, next line should NOT begin with #
+# draft: true
+title: Thu Hung
+date: 2021-08-18
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - meta
+  - math
+  - literature
+  - philo
+markup: "adoc"  # or "pdc" or "md"
+categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
+math: false  # true for mathjax rendering
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+:icons: font
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+// After blank line, BEGIN asciidoc
+
+## Thu hứng 秋興
+• Cảm xúc mùa thu
+玉露凋傷楓樹林，
+Ngọc lộ điêu thương phong thụ lâm,
+
+Trong rừng phong, móc ngọc tơi bời,
+
+巫山巫峽氣蕭森。
+Vu sơn, Vu giáp khí tiêu sâm.
+
+Nơi núi Vu và kẽm Vu, khí ảm đạm hiu hắt.
+
+江間波浪兼天湧，
+Giang gian ba lãng kiêm thiên dũng,
+
+Dưới lòng sông, sóng và trời (soi bóng) cùng dâng trào,
+
+塞上風雲接地陰。
+Tái thượng phong vân tiếp địa âm.
+
+Ngoài ải, gió và mây tiếp nối với đất che mờ mịt.
+
+叢菊兩開他日淚，
+Tùng cúc lưỡng khai tha nhật lệ,
+
+Khóm cúc.footnote:1["Tùng cúc" nghĩa là bụi hay khóm cúc. Có lẽ đó không phải là bụi cúc trồng ở vườn xưa, mà là một bụi cúc chở theo trên thuyền đã hai năm, cứ mỗi lần nở lại làm chủ thuyền nhớ nhà rơi lệ.]  dày đã hai lần nở chảy ra dòng lệ ngày trước,
+
+孤舟一繫故園心。
+Cô chu nhất hệ cố viên tâm.
+
+Con thuyền lẻ loi vẫn buộc chặt nỗi lòng nhớ quê nhà.
+
+寒衣處處催刀尺，
+Hàn y xứ xứ thôi đao xích.footnote:2["Đao xích" nghĩa là kéo và thước may, theo Hán Việt từ điển của Đào Duy Anh. Vậy "đao" đây là "tiễn đao", tức là cái kéo.],
+
+Nơi nơi giục giã dao thước may áo rét,
+
+白帝城高急暮砧。
+Bạch Đế thành cao cấp mộ châm.
+
+Thành cao Bạch Đế tiếng chày đập áo lúc chiều tối dồn dập.footnote:3[Người Tàu xưa giặt áo, giặt vải bằng cách đặt lên một tảng đá rồi dùng chày mà nện. Khi rét về, cần áo ấm, có thể giặt áo cũ hoặc giặt vải để cắt may áo mới.]
+
+
+(Năm 766)
+
+___
+
+[quote, Bản dịch của Nguyễn Công Trứ]
+
+____
+ Lác đác rừng phong hạt móc sa,
+ Ngàn non hiu hắt, khí thu mờ.
+ Lưng trời sóng gợn lòng sông  thẳm,
+ Mặt đất mây đùn cửa ải xa.
+ Khóm cúc tuôn thêm dòng lệ cũ,
+ Con thuyền buộc chặt mối tình già.
+ Lạnh lùng giục kẻ tay đao thước,
+ Thành Bạch chầy vang bóng ác tà.
+____
