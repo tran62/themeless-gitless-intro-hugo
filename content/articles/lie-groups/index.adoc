@@ -1,0 +1,71 @@
+---
+## Important: If this is a draft, next line should NOT begin with #
+# draft: true
+title: Lie Groups
+date: 2021-08-22
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - meta
+  - math
+  - literature
+  - philo
+markup: "adoc"  # or "pdc" or "md"
+categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
+math: true  # true for mathjax
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+:icons: font
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+// After blank line, BEGIN asciidoc
+
+___
+== Definition and examples
+
+A Lie group is a _group_ (set with an operation of composition) and a _topological manifold_ (space that locally resembles Euclidian space, but which may be curved or distorted on the global level ), such that the law of composition is _continuous_ (small changes in the elements being composed produce small changes in the result).
+
+. Simplest example: set of all rotations of a circle.
+
+. More challenging example: group of all rotations of tri-dimensional space that preserve a fixed origin.
+
+== History
+
+_Ideas of Lie:_
+
+. The solution of differential equations by classical methods of integration was possible only because the equations remained unchanged under a continuous family of transformations.
+
+. Infinitesimal transformations derived from a given continuous group are not closed under composition; instead, they are closed under an operation known as the _bracket_, written [x,y]. The _bracket_ operation satisfies two basic identities:
+
+$ [y,x]= -[x,y] $
+
+$ [x,[y,z]] + [y,[z,x]] + [z,[x,y]] = 0    $   (Jacobi identity)
+
+== Wilhem Killing and Elie Cartan
+
+Killing associate with eaxh simple Lie algebra a geometric structure known as a root system. He uses methods of linear algebra, in particular the characteristic equation of a linear transformation, to study and classify root systems, and then derived the structure of the corresponding Lie algebra from that of the root system.
+Cartan extends Killing's ideas to the theory of representation of simple Lie algebras - the different ways of producing the same algebra as an algebra of matrices.
+
+== Modern work
+
+THe global structure of Lie groups took a major step forward with the work of:
+
+- Hermann Weyl(1939) - proof of the complete reducibility from a special class, the _irreducible_ representation.
+- Claude Chevalley (1957) - finite Lie groupq
+- Simon Donaldson (1989) - 4-dimensional Euclidian spaces possesses non standard differentiable structures because of unusual feature of the Lie group of all rotations in that space.
+
+___
+Bibliography:
+------------
+
+[bibliography]
+
+. [[[stewart]]]  Ian Stewart, Lie groups,
+_Companion Encyclopedia of the History and Philosophy of the Mathematical Sciences_ Edited by I. GRATTAN-GUINNESS, §6.5, p761. http://external.dandelon.com/download/attachments/dandelon/ids/DE0049479CF003B96ABB8C12579A9005E91ED.pdf[pdf]
+. [[[lie]]] Sophus Lie & Friedrich Engel 1888-93, _Theorie der Transformationsgruppen_, Leibzig: Teubner
+. [[[fano]]] Fano, G. 1907, _Kontinuierliche geometrische Gruppen_, in _Encyklopâdie der mathematischen Wissenschaften_
