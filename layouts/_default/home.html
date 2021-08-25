@@ -1,14 +1,14 @@
 {{ define "main" }}
-<h1 class="title">{{ .Title }}</h1>
-<ul class="posts">
-  {{ range (where .Site.RegularPages "Section" "articles")  | first 20 }}
+  <h1 class="title">{{ .Title }}</h1>
+  <ul class="posts">
+    {{ range (where .Site.RegularPages "Section" "articles")  | first 7 }}
   
-  <li class="post">
-    <a href="{{ .Permalink }}">
-      <date>{{ .Date.Format "02.01.2006" }}</date>
-      <span {{ if .Draft }}style="background-color: rebeccapurple;"{{ end }}>{{ .Title }}</span>
-    </a>
-  </li>
-  {{ end }}
-</ul>
+    <li class="post">
+      <a href="{{ .Permalink }}">
+        <date>{{ .Date.Format "02.01.2006" }}</date>
+        <span {{ if .Draft }}style="background-color: rebeccapurple;"{{ end }}>{{ .Title }}</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
 {{ end }}

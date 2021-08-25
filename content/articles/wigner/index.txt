@@ -1,8 +1,8 @@
 ---
 ## Important: If this is a draft, next line should NOT begin with #
-draft: false
-title: Wigner on Mathematics
-date: 2021-08-12
+#draft: false
+title: Eugene Wigner on Math
+date: 2021-08-12T13:00:00
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
 tags:
@@ -12,7 +12,7 @@ tags:
   - philo
 markup: "adoc"  # or "pdc" or "md"
 categories: "adoc" # "md" "pdc" "viet" "hanyu"
-math: false  # true for mathjax rendering
+math: false  # true for mathjax
 
 ---
 // BEGIN AsciiDoc Document Header
@@ -27,51 +27,27 @@ math: false  # true for mathjax rendering
 :toc:
 // After blank line, BEGIN asciidoc
 
-## The Unreasonable Effectiveness of Mathematics in the Natural Sciences
-by Eugene Wigner https://math.dartmouth.edu/~matc/MathDrama/reading/Wigner.html[Darmouth College - Reading List]
+
+== The Unreasonable Effectiveness of Mathematics in the Natural Sciences
+
+=== by Eugene Wigner
+https://math.dartmouth.edu/~matc/MathDrama/reading/Wigner.html[Darmouth College - Reading List]
 
 
 _The Unreasonable Effectiveness of Mathematics in the Natural Sciences_, in _Communications in Pure and Applied Mathematics_, vol. 13, No. I (February 1960). New York: John Wiley & Sons, Inc. Copyright © 1960 by John Wiley & Sons, Inc.
 
 ___
+
 [quote, Bertrand Russell, Study of Mathematics]
 ____
-
-*Mathematics, rightly viewed, possesses not only truth, but supreme beauty, a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show. The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry.*
+Mathematics, rightly viewed, possesses not only truth, but supreme beauty, a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show. The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry.
 ____
+
 ___
 
-[quote, Albert Einstein,Sidelights on Relativity (1920), 28]
-____
-*Pure mathematics is, in its way, the poetry of logical ideas. One seeks the most general ideas of operation which will bring together in simple, logical and unified form the largest possible circle of formal relationships. In this effort toward logical beauty spiritual formulas are discovered necessary for the deeper penetration into the laws of nature.*
+THERE IS A STORY about two friends, who were classmates in high school, talking about their jobs. One of them became a statistician and was working on population trends. He showed a reprint to his former classmate. The reprint started, as usual, with the Gaussian distribution and the statistician explained to his former classmate the meaning of the symbols for the actual population, for the average population, and so on. His classmate was a bit incredulous and was not quite sure whether the statistician was pulling his leg. "How can you know that?" was his query. "And what is this symbol here?" "Oh," said the statistician, "this is pi." "What is that?" "The ratio of the circumference of the circle to its diameter." "Well, now you are pushing your joke too far," said the classmate, "surely the population has nothing to do with the circumference of the circle."
 
-*It is mathematics that offers the exact natural sciences a certain measure of security which, without mathematics, they could not attain.*
-
-*How can it be that mathematics, being after all a product of human thought which is independent of experience, is so admirably appropriate to the objects of reality ? Is human reason, then, without experience, merely by taking thought, able to fathom the properties of real things ?*
-
-*Insofar as mathematics is about reality, it is not certain, and insofar as it is certain, it is not about reality.*
-
-*The formulation of a problem is often more essential than its solution, which may be merely a matter of mathematical or experimental skill. To raise new questions, new possibilities, to regard old problems from a new angle requires creative imagination and marks real advances in science.*
-
-*… how the real proof should run. The main thing is the content, not the mathematics. With mathematics one can prove anything.*
-____
-[quote, Albert Einstein, A offhand remark when discussing the rigid rules of mathematics in a café conversation with engineer Gustave Ferrière]
-____
-
-
-*I don't believe in mathematics !*
-
-____
-
-[quote,Albert Einstein, On the Generalized Theory of Gravitation - Scientific American (Apr 1950)]
-
-____
-*There exists a passion for comprehension, just as there exists a passion for music. That passion is rather common in children but gets lost in most people later on. Without this passion, there would be neither mathematics nor natural science.*
-____
-___
-**THERE IS A** story about two friends, who were classmates in high school, talking about their jobs. One of them became a statistician and was working on population trends. He showed a reprint to his former classmate. The reprint started, as usual, with the Gaussian distribution and the statistician explained to his former classmate the meaning of the symbols for the actual population, for the average population, and so on. His classmate was a bit incredulous and was not quite sure whether the statistician was pulling his leg. "How can you know that?" was his query. "And what is this symbol here?" "Oh," said the statistician, "this is pi." "What is that?" "The ratio of the circumference of the circle to its diameter." "Well, now you are pushing your joke too far," said the classmate, "surely the population has nothing to do with the circumference of the circle."
-
-Naturally, we are inclined to smile about the simplicity of the classmate's approach. Nevertheless, when I heard this story, I had to admit to an eerie feeling because, surely, the reaction of the classmate betrayed only plain common sense. I was even more confused when, not many days later, someone came to me and expressed his bewilderment.footnote:werner[The remark to be quoted was made by F. Werner when he was a student in Princeton.] with the fact that we make a rather narrow selection when choosing the data on which we test our theories. "How do we know that, if we made a theory which focuses its attention on phenomena we disregard and disregards some of the phenomena now commanding our attention, that we could not build another theory which has little in common with the present one but which, nevertheless, explains just as many phenomena as the present theory?" It has to be admitted that we have no definite evidence that there is no such theory.
+Naturally, we are inclined to smile about the simplicity of the classmate's approach. Nevertheless, when I heard this story, I had to admit to an eerie feeling because, surely, the reaction of the classmate betrayed only plain common sense. I was even more confused when, not many days later, someone came to me and expressed his bewilderment.footnote:[The remark to be quoted was made by F. Werner when he was a student in Princeton.] with the fact that we make a rather narrow selection when choosing the data on which we test our theories. "How do we know that, if we made a theory which focuses its attention on phenomena we disregard and disregards some of the phenomena now commanding our attention, that we could not build another theory which has little in common with the present one but which, nevertheless, explains just as many phenomena as the present theory?" It has to be admitted that we have no definite evidence that there is no such theory.
 
 The preceding two stories illustrate the two main points which are the subjects of the present discourse. The first point is that _mathematical concepts turn up in entirely unexpected connections_. Moreover, they often permit an unexpectedly close and accurate description of the phenomena in these connections. Secondly, just because of this circumstance, and because we do not understand the reasons of their usefulness, we _cannot_ know whether a theory formulated in terms of mathematical concepts is uniquely appropriate. We are in a position similar to that of a man who was provided with a bunch of keys and who, having to open several doors in succession, always hit on the right key on the first or second trial. He became skeptical concerning the uniqueness of the coordination between keys and doors.
 
@@ -143,8 +119,7 @@ A much more difficult and confusing situation would arise if we could, some day,
 Let me end on a more cheerful note. The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve. We should be grateful for it and hope that it will remain valid in future research and that it will extend, for better or for worse, to our pleasure, even though perhaps also to our bafflement, to wide branches of learning.
 
 ---
+Footnotes:
+---------
 
-FOOTNOTES:
-
----
-
+[footnotes]

@@ -29,12 +29,9 @@ math: false  # true for mathjax
 ## The Unreasonable Effectiveness of Mathematics
 ### R. W. HAMMING
 
-___
+Reprinted From: The American Mathematical Monthly
+Volume 87 Number 2 February 1980
 
- Reprinted From: The American Mathematical Monthly
-  Volume 87 Number 2 February 1980
-
-___
 
 == Prologue
 It is evident from the title that this is a philosophical discussion. I shall not apologize for the philosophy, though I am well aware that most scientists, engineers, and mathematicians have little regard for it; instead, I shall give this short prologue to justify the approach.

@@ -13,6 +13,7 @@ tags:
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
 math: true  # true for mathjax
+s9: true # show social share widgets
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

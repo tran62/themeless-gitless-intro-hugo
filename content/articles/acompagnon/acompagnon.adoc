@@ -9,6 +9,7 @@ tags:
   - literature
   - philo
 markup: "adoc"
+s9: true
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

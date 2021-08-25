@@ -1,13 +1,14 @@
-baseURL: https://optimistic-archimedes.netlify.app/
+#baseURL: https://optimistic-archimedes.netlify.app/
+baseURL: http://localhost:1313
 languageCode: en-us
-title: TQA themeless
+title: TQA Asciidoc
 math: false
-#theme: antora-default-ui-hugo-theme
+s9: true
+theme: antora-default-ui-hugo-theme
 #theme: foo-dogsquared
 markup:
   preserveTOC: false
   workingFolderCurrent: false  # default is false
-  extensions: ["acronym","citation-abbreviations"]
 
   goldmark:
     extensions:
@@ -42,7 +43,7 @@ markup:
     verbose: false
 
     attributes:
-      toc: macro
+      toc: auto
       hide-uri-scheme: true@  # trailing @ means ok to override
       sectlinks: true
       huri-config-vars: https://gohugo.io/getting-started/configuration/
@@ -53,5 +54,3 @@ markup:
   pandoc:
     mathjax: false
 defaultMarkdownHandler: "adoc"
-citation-abbreviations: true
-abbreviations: true
