@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html{{ with .Site.LanguageCode }} lang="{{ . }}"{{ end }}>
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     
-    {{ partial "resources-css-in-header.html" . }}
     {{ partial "head.html" . }}
+    {{ partial "resources-css-in-header.html" . }}
     {{ partial "s9-widget-in-header.html" . }}
   </head>
   <body class="article">
