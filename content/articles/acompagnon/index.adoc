@@ -5,6 +5,7 @@ title: La littérature pour quoi faire?
 date: 2021-07-17
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
+categories: ["adoc"] # "md" "pdc" "viet"
 tags:
   - literature
   - philo
@@ -30,7 +31,6 @@ https://books.openedition.org/cdf/524[_La littérature, pour quoi faire ?
 - Leçon inaugurale prononcée le jeudi 30 novembre 2006 au Collège de
 France._ (texte intégral)]
 
-'''''
 
 image::antoine-compagnon.jpeg[Antoine Compagnon]
 

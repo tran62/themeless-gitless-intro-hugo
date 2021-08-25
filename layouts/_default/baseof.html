@@ -1,29 +1,24 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html{{ with .Site.LanguageCode }} lang="{{ . }}"{{ end }}>
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    {{ $styles := resources.Get "style.scss" | toCSS  }}
-    <link rel="stylesheet" href="{{ $styles.Permalink }}" type="text/css" />
-    <title>{{ .Title }}</title>
+    
+    {{ partial "resources-css-in-header.html" . }}
+    {{ partial "head.html" . }}
+    {{ partial "s9-widget-in-header.html" . }}
   </head>
-  <body>
-    <header class='header'>
-      <a class="logo" href="/">home</a>
-      <nav>
-        <a href="https://www.github.com/tran62">github</a>
-        <a href="https://app.netlify.com/teams/tran62/overview">deploy</a>
-        <a href="/about/">about</a>
-
-      </nav>
-      <!-- ... -->
-        {{ if or .Params.s9 .Site.Params.s9 }}
-        {{ partial "s9-widget-in-header.html" . }}
-        {{ end }}
-      <!-- ... -->
-    </header>
-    
-    {{ block "main" . }}{{ end }}
-    
+  <body class="article">
+    {{ partial "header.html" . }}
+    <div class="body">
+      {{ partial "nav.html" . }}
+      <main class="article">
+        {{ partial "toolbar.html" . }}
+        <div class="content">
+          {{ block "main" . }}
+          {{ end }}
+          {{ partial "toc.html" . }}
+        </div>
+      </main>
+    </div>
+    {{ partial "footer.html" . }}
   </body>
 </html>

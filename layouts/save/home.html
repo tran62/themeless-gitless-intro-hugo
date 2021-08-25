@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1 class="title">{{ .Title }}</h1>
+  <h3 class="title">{{ .Title }}</h3>
   <ul class="posts">
     {{ range (where .Site.RegularPages "Section" "articles")  | first 7 }}
   
@@ -9,6 +9,7 @@
         <span {{ if .Draft }}style="background-color: rebeccapurple;"{{ end }}>{{ .Title }}</span>
       </a>
     </li>
+    
     {{ end }}
   </ul>
 {{ end }}

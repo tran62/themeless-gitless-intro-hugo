@@ -1,0 +1,6 @@
+<!-- layouts/partials/resources-css-in-header.html -->
+
+{{ $styles := resources.Get "style.scss" | toCSS  }}
+<link rel="stylesheet" href="{{ $styles.Permalink }}" type="text/css" />
+
+<!-- end layouts/partials/resources-css-in-header.html -->

@@ -1,10 +1,11 @@
 ---
 title: Francis Bacon
 date: "2021-06-27"
-tags: ["literature","markdown"]
+tags: ["literature","philo","markdown"]
 category: literature
 draft: false
-status: draft
+markup: "md"
+s9: true
 ---    
 
 [*Of Studies – Francis Bacon (src link):*](https://mastanappa.blogspot.com/2017/08/of-studies-francis-bacon.html)   

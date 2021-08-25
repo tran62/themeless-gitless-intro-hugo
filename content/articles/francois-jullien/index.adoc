@@ -5,6 +5,8 @@ title: Francois Jullien
 date: 2021-07-17
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
+categories: ["adoc"] # "md" "pdc" "viet"
+s9: true
 tags:
   - literature
   - philo

@@ -10,5 +10,6 @@ tags:
   - philo
 markup: "md"  # or "pdc" or "md"
 categories: ["md"] # "md" "pdc" "viet" "hanyu"
-math: false  # no mathjax rendering
+math: false  # no mathjax 
+s9: true
 ---

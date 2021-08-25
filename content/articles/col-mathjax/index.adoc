@@ -2,8 +2,9 @@
 title: Page de couverture du Colmez
 date: "2021-03-12"
 tags: ["math "]
-category: science
+categories: ["adoc"] # "md" "pdc" "viet"
 math: true
+s9: true
 ---
 image::pierrecolmez.jpeg[p.1 de couv]  
 _1^ère^ de couverture du cours de Pierre Colmez à l'X (absolute path)_

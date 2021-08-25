@@ -5,10 +5,12 @@ title: Tôn Tử Binh Pháp
 date: 2021-08-09
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
+categories: ["viet"] # "md" "pdc" "viet"
 tags:
   - literature
   - philo
 markup: "adoc"  # or "pdc" or "md"
+s9: true
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

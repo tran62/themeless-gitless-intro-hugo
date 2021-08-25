@@ -6,10 +6,7 @@ date: 2021-08-19
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
 tags:
-  - meta
   - math
-  - literature
-  - philo
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
 math: true  # true for mathjax

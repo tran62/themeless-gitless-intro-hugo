@@ -5,10 +5,13 @@ title: Trà Kinh
 date: 2021-07-28
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
+categories:
+  - viet
 tags:
   - literature
   - philo
 markup: "adoc"  # or "pdc" or "md"
+s9: true # social share
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

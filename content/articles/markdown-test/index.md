@@ -5,11 +5,13 @@ title: Markdown Experiments
 date: "2019-05-29"
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
+categories: ["md"] # "md" "pdc" "viet"
 tags:
   - markdown
   - meta
   - test
 markup: "md"
+s9: true
 ---
 
 ![tiger from static/iamges](/images/tiger.png)Tiger - static/images/tiger.png

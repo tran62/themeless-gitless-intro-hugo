@@ -6,14 +6,12 @@ date: 2021-08-12T13:00:00
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
 tags:
-  - meta
   - math
-  - literature
   - philo
 markup: "adoc"  # or "pdc" or "md"
 categories: "adoc" # "md" "pdc" "viet" "hanyu"
 math: false  # true for mathjax
-
+s9: true
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

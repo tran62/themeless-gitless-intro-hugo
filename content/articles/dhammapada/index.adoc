@@ -5,10 +5,12 @@ title: Dhammapuda
 date: 2021-07-26
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
+categories: ["adoc"] # "md" "pdc" "viet"
 tags:
   - literature
   - philo
 markup: "adoc"  # or "pdc" or "md"
+s9: true
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

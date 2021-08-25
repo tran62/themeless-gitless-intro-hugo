@@ -6,13 +6,11 @@ date: 2021-08-22
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
 tags:
-  - meta
   - math
-  - literature
-  - philo
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
 math: true  # true for mathjax
+s9: true # social share 
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -56,7 +54,7 @@ Cartan extends Killing's ideas to the theory of representation of simple Lie alg
 THe global structure of Lie groups took a major step forward with the work of:
 
 - Hermann Weyl(1939) - proof of the complete reducibility from a special class, the _irreducible_ representation.
-- Claude Chevalley (1957) - finite Lie groupq
+- Claude Chevalley (1957) - finite Lie groups
 - Simon Donaldson (1989) - 4-dimensional Euclidian spaces possesses non standard differentiable structures because of unusual feature of the Lie group of all rotations in that space.
 
 ___

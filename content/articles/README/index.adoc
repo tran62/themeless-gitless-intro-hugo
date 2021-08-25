@@ -8,6 +8,7 @@ subtitle:
 tags:
   - meta
 markup: "adoc"  # or "pdc" or "md"
+categories: ["adoc"] # "md" "pdc" "viet"
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

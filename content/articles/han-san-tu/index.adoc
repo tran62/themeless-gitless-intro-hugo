@@ -5,9 +5,11 @@ title: Hàn San Tự
 date: 2021-07-17
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
+categories: ["viet"] # "md" "pdc" "viet"
 tags:
   - literature
   - philo
+s9: true
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
