@@ -1,6 +1,6 @@
-baseURL: https://optimistic-archimedes.netlify.app/
-#baseURL: "/"
-languageCode: en-us
+#baseURL: https://optimistic-archimedes.netlify.app/
+baseURL: "http://localhost"
+languageCode: fr
 title: TQA Asciidoc
 math: false
 s9: true
