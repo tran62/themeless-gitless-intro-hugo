@@ -5,7 +5,7 @@ title: TQA Asciidoc
 math: false
 s9: true
 theme: antora-default-ui-hugo-theme
-#theme: foo-dogsquared
+#theme: hugo-theme-arch-terminal
 markup:
   preserveTOC: false
   workingFolderCurrent: false  # default is false

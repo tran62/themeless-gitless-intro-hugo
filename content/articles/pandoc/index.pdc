@@ -20,7 +20,7 @@ ___
 $$ \cos \frac{\pi}{4} = \frac {\sqrt 2}{2} $$
 
 ___
-`#$$ \pi (x) \approx \frac {x}{log x} $$ gives:`
+`$$ \pi (x) \approx \frac {x}{log x} $$ gives:`
 
 $$ \pi (x) \approx \frac {x}{log x} $$
 

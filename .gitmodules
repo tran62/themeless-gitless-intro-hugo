@@ -4,3 +4,6 @@
 [submodule "themes/hugo-theme-arch-terminal"]
 	path = themes/hugo-theme-arch-terminal
 	url = https://github.com/foo-dogsquared/hugo-theme-arch-terminal.git
+[submodule "themes/hugo-mod-simple-icons"]
+	path = themes/hugo-mod-simple-icons
+	url = https://github.com/foo-dogsquared/hugo-mod-simple-icons.git
