@@ -1,17 +1,29 @@
 ---
+
 title: Francis Bacon
-date: "2021-06-27"
-tags: ["literature","philo","markdown"]
+date: 2021-06-27
+tags: ["literature","philo"]
 category: literature
-draft: false
-markup: "md"
+draft: true
+markup: "adoc"
 s9: true
----    
 
-[*Of Studies – Francis Bacon (src link):*](https://mastanappa.blogspot.com/2017/08/of-studies-francis-bacon.html)   
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+:icons: font
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+// After blank line, BEGIN asciidoc  
 
-### Of Studies – Francis Bacon (Text)      
-![Francis Bason on studies](bacon-on-studies.jpeg)   
+== Of Studies – Francis Bacon (Text)
+
+image::bacon-on-studies.jpeg[Francis Bason on studies]
+To spend too much time in studies is sloth
 
 > Studies serve for delight, for ornament, and for ability. Their chief use for delight, is in privateness and retiring;   for ornament, is in discourse; and for ability, is in the judgement and disposition of business.    
 > For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best from those that are learned.   
@@ -25,13 +37,13 @@ s9: true
 > Histories make men wise; poets witty; the mathematics subtile; natural philosophy deep; moral grave; logic and rhetoric able to contend. *Abeunt Studia in mores:* [Studies pass into character.]  
 
 >  Nay there is no stond on impediment in the wit, but may be wrought out by fit studies: like as disease of the body may have appropriate exercises. Bowling is good for the stone and reins; shooting for the lungs and breast; gentle walking for the stomach; riding for the head; and the like. 
-![Francis Bason on math](/images/bacon-on-math.jpeg)    
+images::bacon-on-math.jpeg[Francis Bason on math]   
 > So if a man’s wit be wandering, let him study the mathematics; for in demonstrations, if his wit be called away never so little, he must begin again. If his wit be not apt to distinguish or find differences, let him study the schoolmen;   for they are *cymini sectors*[hairs splitters].    
  > If he be not apt to beat over matters, and to call up one thing to prove and illustrate another, let him study the lawyers’ cases. So every defect of the mind may have a special receipt.   
-![Francis Bason on science](/images/bacon-on-science.jpeg)  
+image::bacon-on-science.jpeg[Francis Bason on science]
 ---   
   
-#### On Studies by Samuel Johnson (1753)  
+== On Studies by Samuel Johnson (1753)  
 *[1700 words] first appeared, untitled, in number 85 of The Adventurer, August 28, 1753.*   
 
 > It is observed by Bacon, that "reading makes a full man, conversation a ready man, and writing an exact man."   
@@ -74,9 +86,16 @@ s9: true
  ![Francis Bason on revenge](/images/bacon-on-revenge.jpeg)  
 > To read, write, and converse in due proportions is, therefore, the business of a man of letters.   
 > For all these there is not often equal opportunity; excellence, therefore, is not often attainable: and most men fail in one or other of the ends proposed, and are full without readiness, or ready without exactness.   
-> Some deficiency must be forgiven all, because all are men; and more must be allowed to pass uncensured in the greater part of the world, because none can confer upon himself abilities, and few have the choice of situations proper for the improvement of those which nature has bestowed: it is, however, reasonable, to have perfection in our eye; that we may always advance towards it, though we know it never can be reached.   
-***
-![Celui qui fait une bête de lui-même se débarrasse de la douleur d'être humain](/images/samuel-johnson-citation.jpeg)  
+> Some deficiency must be forgiven all, because all are men; and more must be allowed to pass uncensured in the greater part of the world, because none can confer upon himself abilities, and few have the choice of situations proper for the improvement of those which nature has bestowed: it is, however, reasonable, to have perfection in our eye; that we may always advance towards it, though we know it never can be reached.
 
-[Samuel Johnson - Genius without learning - link: pdf](https://www.wheelersburg.net/Downloads/JohnsonGeniuswithoutLearning.pdf)   
-[Comments by Steve Draper - Dept Psychology of Glasgow Univ.](https://www.psy.gla.ac.uk/~steve/best/triad3.php)
+___
+image::samuel-johnson-citation.jpeg[]
+_"Celui qui fait une bête de lui-même se débarrasse de la douleur d'être humain"_
+
+=== Links
+
+- https://mastanappa.blogspot.com/2017/08/of-studies-francis-bacon.html[Francis Bacon - Of Studies – (blogspot)]
+
+- https://www.wheelersburg.net/Downloads/JohnsonGeniuswithoutLearning.pdf[Samuel Johnson - Genius without learning - (pdf)] 
+
+- https://www.psy.gla.ac.uk/~steve/best/triad3.php[Comments by Steve Draper - Dept Psychology of Glasgow Univ.- (psy.gla.ac.uk)]

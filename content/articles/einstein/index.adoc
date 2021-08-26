@@ -1,6 +1,6 @@
 ---
 ## Important: If this is a draft, next line should NOT begin with #
-# draft: true
+draft: true
 title: Albert Einstein on Math
 date: 2021-08-24
 ## below are user-defined parameters (lower case keys recommended)

@@ -26,7 +26,9 @@ s9: true # social share
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
 
-### Trà Kinh - gs Vũ Thế Ngọc
+## Vũ Thế Ngọc - Trà Kinh
+Nghệ thuật thưởng trà trong lịch-sử và văn hoá Đông phương
+
 image::tra-kinh.jpeg[hình bìa Trà Kinh]
  "Dân tộc Việt Nam là một trong những dân tộc đã biết đến cây trà đầu tiên trong lịch sử loài người.
   Người Việt Nam đã uống trà từ ngàn năm nay, nhưng có lẽ đây là quyển sách đầu tiên viết về nghệ thuật uống trà của Đông phương
@@ -42,41 +44,40 @@ image::tra-kinh.jpeg[hình bìa Trà Kinh]
 
 image::thu-choi-tra-cua-nguoi-xua-va-nay.jpeg[]
 
-Tẩu bút tạ Mạnh gián nghị ký tân trà 走筆謝孟諫議寄新茶 •
+## Tẩu bút tạ Mạnh gián nghị ký tân trà 走筆謝孟諫議寄新茶 •
 Thư viết nhanh tạ ơn quan gián nghị họ Mạnh gửi trà mới
 
 Thơ » Trung Quốc » Trung Đường » Lư Đồng
 
-
- 
 ☆☆☆☆☆
 [NOTE]
-Ngôn ngữ: Chữ Hán
-Thể thơ: Cổ phong (cổ thể)
+_Thể thơ:_ Cổ phong (cổ thể)
 Thời kỳ: Trung Đường
-1 bài trả lời: 1 bản dịch
-1 người thích
-Từ khoá: trà (9)
- Chia sẻ trên Facebook
- Trả lời
- In bài thơ
- Một số bài cùng từ khoá
+_Từ khoá:_ trà (9)
+_Chia sẻ_ trên Facebook
+_Đăng bởi Vanachi_
+https://www.thivien.net/L%C6%B0-%C4%90%E1%BB%93ng/T%E1%BA%A9u-b%C3%BAt-t%E1%BA%A1-M%E1%BA%A1nh-gi%C3%A1n-ngh%E1%BB%8B-k%C3%BD-t%C3%A2n-tr%C3%A0/poem-cwd22cTED0FtlMGOAisk5w[thivien.net]
+[NOTE]
+ _Một số bài cùng từ khoá_
 - Sơ thức trà hoa (Trần Dư Nghĩa)
 - Huệ trà kiêm trình giải đáp chi (Jingak Hyesim)
 - Vị minh tiểu kệ đồng Phan sinh dạ toạ (Cao Bá Quát)
 - Uống trà (Lê Minh Quốc)
 - Còn một vị trà (Đỗ Quốc Thuấn)
- Một số bài cùng tác giả
+[NOTE]
+ _Một số bài cùng tác giả (Lô Đồng)_
 - Hữu sở tư
 - Lâu thượng nữ nhi khúc
 - Thu mộng hành
 - Tống Thiệu binh tào quy Giang Nam
 - Nhân nhật lập xuân
-Đăng bởi Vanachi vào 19/11/2007 13:59, đã sửa 1 lần, lần cuối bởi Vanachi vào 10/06/2019 22:48
 
-走筆謝孟諫議寄新茶  
-Tẩu bút tạ Mạnh gián nghị ký tân trà
-Thư viết nhanh tạ ơn quan gián nghị họ Mạnh gửi trà mới
+
+=== 走筆謝孟諫議寄新茶  
+**Tẩu bút tạ Mạnh gián nghị ký tân trà**
+
+**Thư viết nhanh tạ ơn quan gián nghị họ Mạnh gửi trà mới**
+
 日高丈五睡正濃，
 Nhật cao ngũ trượng thuỵ chính nùng,
 Mặt trời lên cao trượng rưỡi, đang lúc ta ngủ say.
