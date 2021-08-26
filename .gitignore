@@ -7,7 +7,6 @@
 # hugo files
 .cache/
 public/
-hugo*
 *_
 
 # Mac files
