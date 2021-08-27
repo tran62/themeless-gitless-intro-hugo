@@ -32,11 +32,11 @@ Sunset from `articles/asciidoc-test/`` local directory
 == Asciidoctor Demo
 
 == Footnotes
-fnote1.footnote:one[footnote n°1 blabla]
-(fnote1.footnote:one\[footnote n°1 blabla])
+fnote1.footnote:one[Text of footnote n°1 blabla]
+(fnote1.footnote:one\[Text footnote n°1 blabla])
 
-fnote2.footnote:[footnote n° 2 blablabla]
-(fnote2.footnote:\[footnote n° 2 blablabla])
+fnote2.footnote:[Text of footnote n° 2 blablabla]
+(fnote2.footnote:\[Text of footnote n° 2 blablabla])
 
 fnote3.footnote:one[]
 (fnote3.footnote:one\[])
@@ -44,6 +44,17 @@ fnote3.footnote:one[]
 == Abbreviations
 ___
 include::acronymns.txt[]
+
+`include` command coded:
+
+`include::acronymns.txt[]`
+containing:
+
+  :afaik: pass:[<abbr title="As far as I know">AFAIK</abbr>]
+  :hateoas: pass:[<abbr title="Hypermedia as the Engine of Application State ">HATEOAS</abbr>]
+  :html: pass:[<abbr title="HyperText Markup Language">HTML</abbr>]
+  ...
+
 ___
 
 {afaik} {html} is a publishing language.
@@ -101,10 +112,6 @@ If you want to break a line +
 just end it in a {plus} sign +
 and continue typing on the next line.
 
-=== more abbreviations
-
-{html} : Hyper Text Markup Language
-(w3c):  World Wide Web Consortium
 
 === Lists Upon Lists
 
@@ -277,3 +284,51 @@ Bibliography:
 
 . [[[one]]]  E. P. Wigner, The unreasonable effectiveness of mathematics in the natural sciences, Comm. Pure Appl. Math., 13 (Feb. 1960). https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences[Wikipedia]
 . [[[two]]] Author name, Title, Editor, date-of-publication
+
+### Subscript / Superscript
+
+- 19^th^ coded: `19\^th^`
+- H~2~O  coded: `H\~2~O`
+
+
+### Citations
+
+Citation.footnote:cita[
+John Doe, "Frogs," *Journal of Amphibians* 44 (1999); Susan Smith, "Flies," *Journal of Insects* (2000); Susan Smith, "Bees," *Journal of Insects* (2004).]
+
+Citation1.footnote:cita[@doe99]
+
+citation2.footnote:cita[@smith2000]
+
+citation3:footnote:cita[@smith2004].
+
+___
+### Definition lists
+Term 1 
+:   Definition 1
+with lazy continuation.
+
+Term 2
+:   Definition 2 with *inline markup*
+
+        { some code, part of Definition 2 }
+
+    Third paragraph of definition 2.
+
+coded:
+
+Term 1
+
+\:   Definition 1
+with lazy continuation.
+
+Term 2
+
+\:   Definition 2 with *inline markup*
+
+        { some code, part of Definition 2 }
+
+    Third paragraph of definition 2.
+
+***
+*** End test text ***
