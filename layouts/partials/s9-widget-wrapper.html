@@ -1,7 +1,5 @@
 <!-- layouts/partials/s9-widget-wrapper.html -->
-
-<hr>
-{{ i18n  "shareThisArticle" }}
-<div class="s9-widget-wrapper"></div>
-
-<!--  end of s9-widget-wrapper -->
+{{ if or .Params.s9 .Site.Params.s9 }}
+    {{ i18n  "shareThisArticle" }}
+    <div class="s9-widget-wrapper"></div>
+{{ end }}

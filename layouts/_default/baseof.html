@@ -2,9 +2,16 @@
 <html{{ with .Site.LanguageCode }} lang="{{ . }}"{{ end }}>
   <head>
     {{ partial "head.html" . }}
+    <!-- themeless/assets/style.scss -->
+    {{/* $styles := resources.Get "scss/style.scss" | toCSS  */}}
+    {{ $styles := resources.Get "css/asciidoc-classic.css" | toCSS }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" type="text/css" />
+    {{ partial "s9-widget-in-header.html" . }}
   </head>
   <body class="article">
     {{ partial "header.html" . }}
+    {{ partial "math.html" . }}
+    
     <div class="body">
       {{ partial "nav.html" . }}
       <main class="article">
@@ -16,6 +23,7 @@
         </div>
       </main>
     </div>
+    {{ partial "s9-widget-wrapper.html" . }}
     {{ partial "footer.html" . }}
   </body>
 </html>
