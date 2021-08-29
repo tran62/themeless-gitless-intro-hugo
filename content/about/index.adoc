@@ -8,12 +8,12 @@ image::oscar-wilde.jpeg[Oscar Wilde]
 
 [quote, Oscar Wilde]
 ____
-Hard work is simply the refuge of people who has nothing to do
+Hard work is simply the refuge of people who have nothing to do
 ____
 
 ---
 
-Experiments with Asciidoc format and Static Site Generator.
+Experiments with Asciidoc format and Hugo Static Site Generator.
 
 
 

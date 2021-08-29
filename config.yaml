@@ -1,9 +1,9 @@
-#baseURL: https://optimistic-archimedes.netlify.app/
-baseURL: "http://localhost"
-languageCode: fr
+baseURL: https://optimistic-archimedes.netlify.app/
+#baseURL: "http://localhost"
+languageCode: fr-FR
 title: TQA Asciidoc
 math: false
-s9: true
+s9: false
 theme: antora-default-ui-hugo-theme
 #theme: hugo-theme-arch-terminal
 markup:
@@ -52,5 +52,5 @@ markup:
       huri-file-vars: https://gohugo.io/variables/files/
       imagesdir: 
   pandoc:
-    mathjax: false
+    mathjax: true
 defaultMarkdownHandler: "adoc"
