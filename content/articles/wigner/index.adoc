@@ -9,7 +9,7 @@ tags:
   - math
   - philo
 markup: "adoc"  # or "pdc" or "md"
-categories: "adoc" # "md" "pdc" "viet" "hanyu"
+categories:
 math: false  # true for mathjax
 s9: true
 ---
@@ -24,7 +24,6 @@ s9: true
 :note-caption: 🔖Note
 :toc:
 // After blank line, BEGIN asciidoc
-
 
 == The Unreasonable Effectiveness of Mathematics in the Natural Sciences
 

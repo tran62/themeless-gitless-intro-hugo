@@ -28,7 +28,7 @@
   --monospace-font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
   --monospace-font-weight-bold: 500;
   /* base */
-  --body-background: var(--color-yellow);
+  --body-background: var(--color-white);
   --panel-background: var(--color-smoke-30);
   --panel-border-color: var(--color-smoke-90);
   --scrollbar-thumb-color: var(--color-gray-10);

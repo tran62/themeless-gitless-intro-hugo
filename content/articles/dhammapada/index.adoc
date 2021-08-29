@@ -25,14 +25,14 @@ s9: true
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
 
-[quote, Lê Đống, Préface _Dhammapada, La voie du Bouddha_ (Pháp Cú)]
+[quote, Lê Đống, Préface de "Dhammapada - La voie du Bouddha" (Pháp Cú)]
 
 ____
 Si l'on doit ne retenir qu'un seul thème et désigner celui qui soutient tout l'ouvrage, ce ne peut être que le _nirvana_, l'extinction des désirs qui conduit à la libération définitive.
 
 La foi doit être une conviction fondée sur une compréhension approfondie de la voie choisie.
 
-== thèmes fondateurs de l'enseignement bouddhique:
+**Thèmes fondateurs de l'enseignement bouddhique:**
 
 1 Le caractère impermanent et illusoire du monde.
 
@@ -47,7 +47,7 @@ La foi doit être une conviction fondée sur une compréhension approfondie de l
 6 La possibilité de se délivrer de la souffrance.
 ____
 
-[quote, Phong-Tuân Nghiêm, recension JR 2002]
+[quote, Phong-Tuân Nghiêm, recension dans JR N°579 (novembre 2002)]
 
 ____
 
@@ -69,7 +69,7 @@ Les notes à la fin de l’ouvrage éclairent le sens de certains mots, qui ne s
 
 On peut lire ce petit livre (182 pages, format 11 x 18) en une soirée pour se faire une idée de la pensée bouddhique, ou tout simplement le lire et le relire pour la beauté de la langue française telle qu’on l’aime dans le monde.
 
-https://www.lajauneetlarouge.com/dhammapada-la-voie-du-bouddha/[src: Recension publiée dans "La Jaune et la Rouge" - novembre 2002]
+https://www.lajauneetlarouge.com/dhammapada-la-voie-du-bouddha/[Src: Recension publiée dans "La Jaune et la Rouge" - novembre 2002]
 
 
 ____
