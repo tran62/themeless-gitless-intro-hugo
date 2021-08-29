@@ -1,0 +1,31 @@
+# Contenu
+- id: contents
+  translation: "Contenu de la page"
+- id: continueReading
+  translation: "Lire plus &ldquo;{{ . }}&rdquo; &hellip;"
+- id: dateFormat
+  translation: "2 Janvier, 2006"
+- id: editThisPage
+  translation: "Editer cette page"
+- id: in
+  translation: "dans"
+- id: lastModified
+  translation: "(Date dernière modif {{ . }})"
+- id: postedOnDate
+  translation: "Posté le {{ . }}"
+- id: taggedWith
+  translation: "Etiqueté avec"
+- id: shareThisArticle
+  translation: "Partager cet article avec"
+
+
+# 404 page
+- id: pageNotFoundLink
+  translation: 'La page que vous cherchez est inconnue. Elle a été déplacée. Vous pourriez retourner à <a href="{{ .RelPermalink }}">home page</a> or follow one of the links in the navigation to the left.'
+- id: pageNotFoundAction
+  translation: 'Si vous arrivez à cette page en cliquant sur un lien, merci d''informer le propriétaire du site que le lien est cassé. Si vous avez entré cet URL de  page manuellement, vérifiez si vous avez entré une adresse correcte.'
+
+
+# Footer
+- id: poweredBy
+  translation: 'Cette page était construite avec <a href="https://gohugo.io/">Hugo {{ . }}</a> utilisant  <a href="https://github.com/basil/antora-default-ui-hugo-theme">Hugo port</a> de <a href="https://gitlab.com/antora/antora-ui-default">Antora default UI</a>. Te code source de cette  UI est sous licence <a href="https://www.mozilla.org/en-US/MPL/2.0/">Mozilla Public License, Version 2.0</a> (MPL-2.0).'
