@@ -12,6 +12,7 @@ tags:
   - philo
 markup: "adoc"  # or "pdc" or "md"
 s9: true # social share
+img: tra-kinh.jpeg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

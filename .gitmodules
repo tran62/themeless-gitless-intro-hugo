@@ -1,3 +1,9 @@
 [submodule "themes/antora-default-ui-hugo-theme"]
 	path = themes/antora-default-ui-hugo-theme
 	url = https://github.com/tran62/antora-default-ui-hugo-theme
+[submodule "hugo-cards"]
+	path = hugo-cards
+	url = https://github.com/tran62/hugo-cards.git
+[submodule "themes/hugo-theme-arch-terminal"]
+	path = themes/hugo-theme-arch-terminal
+	url = https://github.com/foo-dogsquared/hugo-theme-arch-terminal.git

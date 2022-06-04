@@ -13,7 +13,216 @@ ____
 
 ---
 
-Experiments with Asciidoc format and Hugo Static Site Generator.
+== Installation of this site:
+
+===  Install Hugo
+[source, shell]
+----
+>git clone https://github.com/gohugo.io/hugo.git
+>cd hugo
+>brew install go
+>go install --tags extended
+----
+  
+=== Install InfiniteInk/themeless-gitless-intro-hugo
+[source, shell]
+----
+>git clone https://github.com/infiniteink/themesless-gitless-intro-hugo.git
+>hugo server -D --gc --disableFastRenderer
+----
+=== Install Asciidoctor
+----
+>brew install Asciidoctor
+>brew install ruby
+>brew install brew-gem
+
+----
+. create asciidoctor executable shell
+----
+#!/bin/bash
+if [ -f /usr/local/bin/asciidoctor ]; then
+  ad="/usr/local/bin/asciidoctor"
+else
+  ad="/usr/bin/asciidoctor"
+fi
+
+$ad -B . -r asciidoctor-diagram -a icons=font -a docinfo=shared -a nofooter -a sectanchors -a experimental=true -a figure-caption! -a source-highlighter=highlightjs -a toc-title! -a stem=mathjax - | sed -E -e "s/img src=\"([^/]+)\"/img src=\"\/diagram\/\1\"/"
+
+mkdir -p static/diagram
+
+if ls *.svg >/dev/null 2>&1; then
+  mv -f *.svg static/diagram
+fi
+
+if ls *.png >/dev/null 2>&1; then
+  mv -f *.png static/diagram
+fi
+----
+=== Install Pandoc
+----
+brew install pandoc
+brew install library python homebrew /cask/basictex
+tlmgr install collection-fontsrecommended
+----
+. create hugo executable shell
+----
+!/bin/bash
+
+export PANDOC_ORIGINAL=$(which pandoc)
+
+# Overrides pandoc.
+PATH=$PWD/bin:$PATH
+
+hugo "$@"
+----
+=== Install Antora-default-ui-hugo-theme
+   gives the main group of  _default and partial templates 
+----
+$ git submodule add github.com/basil/antora-default-ui-hugo-theme.git themes/antora-default-ui-hugo-theme
+or alternatively
+$ git clone https://github.com/tran62/antora-default-ui-hugo-theme
+move away (to save for ex) baseof.html, list.html, single.html from layouts/_default/
+copy partials/head-scripts.html and header-scripts.html from themes/antora-default.../ to /layouts/partials/
+----
+
+=== adapt config.yaml file
+----
+baseURL: http://localhost:1313/
+languageCode: fr-fr
+title: TQA Asciidoc
+math: false
+s9: false
+theme: antora-default-ui-hugo-theme
+#theme: hugo-theme-arch-terminal
+
+markup:
+  preserveTOC: false
+  workingFolderCurrent: false  # default is false
+
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: false
+      xhtml: false
+
+  asciidocExt:
+    preserveTOC: false
+    workingFolderCurrent: false  # default is false
+    backend: html5
+    extensions: []
+    failureLevel: fatal
+    noHeaderOrFooter: true
+    safeMode: safe
+    sectionNumbers: false
+    trace: false
+    verbose: false
+
+    attributes:
+      toc: auto
+      hide-uri-scheme: true@  # trailing @ means ok to override
+      sectlinks: true
+      huri-config-vars: https://gohugo.io/getting-started/configuration/
+      huri-page-vars: https://gohugo.io/variables/page/
+      huri-site-vars: https://gohugo.io/variables/site/
+      huri-file-vars: https://gohugo.io/variables/files/
+      imagesdir: 
+  pandoc:
+    mathjax: false
+defaultMarkdownHandler: "adoc"
+
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$', '^pandoc$']
+    osEnv: ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+
+  funcs:
+    getenv: ['^HUGO_']
+
+  http:
+    methods: ['(?i)GET|POST']
+    urls: ['.*']
+----
+
+=== add S9 Sharebuttons panel
+ - add partials/s9-widget-wrapper.html
+----
+<!-- layouts/partials/s9-widget-wrapper.html -->
+<!-- the following script is to be put in the head part of the html -->
+<!-- script id="s9-sdk" async defer 
+content="33fbf926f45e4d42afe4e864df7e1fda" 
+src="//cdn.social9.com/js/socialshare.min.js">
+</script -->
+
+{{ if or .Params.s9 .Site.Params.s9 }}
+    {{ i18n  "shareThisArticle" }}
+    <div class="s9-widget-wrapper"></div>
+{{ end }}
+----
+ - add s9 variable to config.yaml
+ - add s9-sdk script to partials/head-scripts.html
+ - add s9-wrapper to partials/header-scripts.html
+
+=== create Mathjax partial file
+----
+<!-- layouts/partials/math.html -->
+{{ if or .Params.math .Site.Params.math }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_SVG"></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+            showMathMenu: false, //disables context menu
+            tex2jax: {
+            inlineMath: [ ['$','$'], ['\\(','\\)'] ]
+           }
+    });
+</script>
+{{ end }}
+----
+ - add invoking script in partial/header-scripts.html
+ - add invoking script in partials/post-preview.html
+ - add math variable in config.yaml
+
+=== Add Webjeda theme
+----
+$ cd themes
+$ git submodule add https://github.com/tran62/hugo-cards.git
+forked from /bul-ikana/hugo-cards (for hugo) from /sharu725/cards
+get the custom.css to transfer from hugo-cards to main site
+----
+
+=== Add Arch-terminal theme
+----
+$ cd themes
+$ git submodule add https://github.com/foo-dogsquared/hugo-theme-arch-terminal.git
+get the custom.css to transfer from arch-terminal to main site
+----
+
+=== Add Showhide partial block feature
+----
+
+----
+
+=== Add Hover term definition feature
+----
+----
+=== Add Embed-pdf feature
+----
+----
+
 
 
 

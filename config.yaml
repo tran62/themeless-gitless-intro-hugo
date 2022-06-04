@@ -1,11 +1,12 @@
-baseURL: https://optimistic-archimedes.netlify.app/
-#baseURL: http://localhost
+#baseURL: https://optimistic-archimedes.netlify.app/
+baseURL: http://localhost:1313/
 languageCode: fr-fr
 title: TQA Asciidoc
-math: true
+math: false
 s9: false
 theme: antora-default-ui-hugo-theme
 #theme: hugo-theme-arch-terminal
+
 markup:
   preserveTOC: false
   workingFolderCurrent: false  # default is false
@@ -54,3 +55,16 @@ markup:
   pandoc:
     mathjax: false
 defaultMarkdownHandler: "adoc"
+
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$', '^pandoc$']
+    osEnv: ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+
+  funcs:
+    getenv: ['^HUGO_']
+
+  http:
+    methods: ['(?i)GET|POST']
+    urls: ['.*']
