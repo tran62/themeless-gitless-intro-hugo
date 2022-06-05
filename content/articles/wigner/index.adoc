@@ -12,6 +12,7 @@ markup: "adoc"  # or "pdc" or "md"
 categories:
 math: false  # true for mathjax
 s9: true
+img: cristaux-wigner.jpg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -24,6 +25,9 @@ s9: true
 :note-caption: 🔖Note
 :toc:
 // After blank line, BEGIN asciidoc
+
+image::tomography.jpg[]
+_Tomography_
 
 == The Unreasonable Effectiveness of Mathematics in the Natural Sciences
 
@@ -51,6 +55,9 @@ The preceding two stories illustrate the two main points which are the subjects 
 Most of what will be said on these questions will not be new; it has probably occurred to most scientists in one form or another. My principal aim is to illuminate it from several sides. The first point is that the enormous usefulness of mathematics in the natural sciences is something bordering on the mysterious and that there is no rational explanation for it. Second, it is just this uncanny usefulness of mathematical concepts that raises the question of the uniqueness of our physical theories. In order to establish the first point, that mathematics plays an unreasonably important role in physics, it will be useful to say a few words on the question, <<_what_is_mathematics>>, then, <<_what_is_physics>>, then, how mathematics enters physical theories(<<_the_role_of_mathematics_in_physical_theories>>), and last, why the success of mathematics in its role in physics appears so baffling (<<_is_the_success_of_physical_theories_truly_surprising>>).
 
 Much less will be said on the second point: <<_the_uniqueness_of_the_theories_of_physics>>. A proper answer to this question would require elaborate experimental and theoretical work which has not been undertaken to date.
+
+image::wigner-fonctions.jpg[]
+_Wigner functions_
 
 === WHAT IS MATHEMATICS ?
 

@@ -1,5 +1,5 @@
 ---
-draft: true
+#draft: true
 title: README Themes
 date: 2021-08-29
 ## below are user-defined parameters (lower case keys recommended)
@@ -21,7 +21,7 @@ Implement and test :
 - new article: 
   `hugo new articles/new-aticle.adoc`
 - custom stylesheets:
-  - assets/css/custom.css
+  - assets/css/custom.css ?
   - layouts/partials/head-scripts.html
 - add common images:
   - statics/images/new-image.png

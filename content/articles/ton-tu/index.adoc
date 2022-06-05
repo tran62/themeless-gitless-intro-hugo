@@ -24,6 +24,8 @@ img: tontu-binhphap.jpeg
 :note-caption: 🔖Note
 // After blank line, BEGIN asciidoc
 
+image::the-art-of-war-319.jpg[]
+
 ## Tôn Tử binh pháp 
 (_chữ Hán:_ 孫子兵法 / 孙子兵法; _Pinyin:_ Sūnzĭ Bīngfǎ; _WG:_ Sun1 Tzu3 Ping1 Fa3;) soạn thảo vào năm 512 TCN đời Xuân Thu.
 https://vi.wikipedia.org/wiki/Binh_ph%C3%A1p_T%C3%B4n_T%E1%BB%AD[wikipedia link]
@@ -46,6 +48,7 @@ Tôn tử binh pháp 13 thiên gồm:
 
 ___
 
+image::the-art-of-war.jpg[]
 
 ## Kế sách thiên (計索篇)
 
@@ -72,6 +75,8 @@ Cố kinh chi dĩ ngũ sự , hiệu chi dĩ kế nhi sách kỳ tình:
 * _Địa_ giả, viễn cận, hiểm dị(险易) , quảng hiệp(广狭), tử sinh dã . 
 * _Tướng_ giả, trí(智), tín(信), nhân(仁), dũng(勇), nghiêm(严) dã . 
 * _Pháp_ giả, khúc chế(曲制) ,quan đạo(官道) , chủ dụng dã . 
+
+image::ancient-china-warrior.jpg[]
 
 凡此五者，將莫不聞，知之者勝，不知之
 者不勝。故校之以計，而索其情。
@@ -145,3 +150,5 @@ Nguyên văn:: 故兵贵胜，不贵久。
 Hán Việt::  Cố binh quý thắng , bất quý cửu. ( Việc nhà binh quý thắng lợi và tốc độ chứ không quý việc đánh lâu dài ).
 
 ___
+image::Battle-of-Gaixia.jpg[]
+_Battle of Gaixia_

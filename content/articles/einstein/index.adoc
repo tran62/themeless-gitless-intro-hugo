@@ -8,6 +8,9 @@ subtitle:
 tags:
   - math
   - philo
+  - meta
+  - literature
+  - viet
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
 math: false  # true for mathjax rendering

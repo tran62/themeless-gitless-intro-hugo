@@ -9,10 +9,10 @@ tags:
   - meta
   - test
 markup: "adoc"  # or "pdc" or "md"
-categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
+categories: ["adoc"] # "md" "pdc"
 math: false  # true for mathjax
 s9: true
-img: tiger.png
+img: sunset.jpg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

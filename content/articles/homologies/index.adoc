@@ -11,6 +11,7 @@ markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
 math: false  # true for mathjax rendering
 s9: true
+img: molecular-homology.jpg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -23,7 +24,19 @@ s9: true
 :note-caption: 🔖Note
 // After blank line, BEGIN asciidoc
 
+
+image::quantam.jpg[quantic homology] 
+_quantam_
+
+---
+
+image::YhSzm.png[YhSzm]
+_YhSzm_
+
 ## links
 
 - https://mathworld.wolfram.com/Homology.html[on Wolfram]
 - https://fr.wikipedia.org/wiki/Homologie_(math%C3%A9matiques)[en français sur Wikipedia]
+
+image::structures.png[Structures]
+_Homologous structures_

@@ -9,12 +9,15 @@ categories: ["md"] # "adoc" "pdc" "viet"
 tags:
   - markdown
   - meta
+  - math
+  - literature
   - test
 markup: "md"
 s9: true
+img: markdown.png
 ---
 
-![tiger from static/iamges](/images/tiger.png)Tiger - static/images/tiger.png
+![tiger from static/images](/images/tiger.png)Tiger - static/images/tiger.png
 
 *Thanks to [markdown-it](https://github.com/markdown-it/markdown-it)
 for most of the content of this file! --nm*

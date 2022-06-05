@@ -11,6 +11,7 @@ tags:
   - philo
 markup: "adoc"  # or "pdc" or "md"
 s9: true
+img: dhammapada-sous-l-eau.jpg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -25,6 +26,7 @@ s9: true
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
 
+image:switchen.jpg[]
 [quote, Lê Đống, Préface de "Dhammapada - La voie du Bouddha" (Pháp Cú)]
 
 ____
@@ -46,6 +48,8 @@ La foi doit être une conviction fondée sur une compréhension approfondie de l
 
 6 La possibilité de se délivrer de la souffrance.
 ____
+
+image:Dhammapada-201-Original.jpg[]
 
 [quote, Phong-Tuân Nghiêm, recension dans JR N°579 (novembre 2002)]
 
@@ -71,5 +75,6 @@ On peut lire ce petit livre (182 pages, format 11 x 18) en une soirée pour se f
 
 https://www.lajauneetlarouge.com/dhammapada-la-voie-du-bouddha/[Src: Recension publiée dans "La Jaune et la Rouge" - novembre 2002]
 
+image:namo-buddha.jpg[Photo Richard Mathieu]
 
 ____

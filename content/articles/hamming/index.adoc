@@ -1,6 +1,6 @@
 ---
 ## Important: If this is a draft, next line should NOT begin with #
-draft: true
+#draft: true
 title: Hamming on Math
 date: 2021-08-12T12:00:00
 ## below are user-defined parameters (lower case keys recommended)
@@ -12,6 +12,7 @@ markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
 math: false  # true for mathjax
 s9: true
+img: hamming-distance.png
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -24,6 +25,8 @@ s9: true
 :note-caption: 🔖Note
 :toc:
 // After blank line, BEGIN asciidoc
+
+image::richardHamming.jpg[Richard Hamming]
 
 ## The Unreasonable Effectiveness of Mathematics
 ### R. W. HAMMING
@@ -48,6 +51,8 @@ Mathematicians working in the foundations of mathematics are concerned mainly wi
 Once I had organized the main outline, I had then to consider how best to communicate my ideas and opinions to others. Experience shows that I am not always successful in this matter. It finally occurred to me that the following preliminary remarks would help.
 
 In some respects this discussion is highly theoretical. I have to mention, at least slightly, various theories of the general activity called mathematics, as well as touch on selected parts of it. Furthermore, there are various theories of applications. Thus, to some extent, this leads to a theory of theories. What may surprise you is that I shall take the experimentalist's approach in discussing things. Never mind what the theories are supposed to be, or what you think they should be, or even what the experts in the field assert they are; let us take the scientific attitude and look at what they are. I am well aware that much of what I say, especially about the nature of mathematics, will annoy many mathematicians. My experimental approach is quite foreign to their mentality and preconceived beliefs. So be it!
+
+image::hamming-code.png[Hamming code]
 
 The inspiration for this article came from the similarly entitled article, "The Unreasonable Effectiveness of Mathematics in the Natural Sciences" <<wig>>, by E. P. Wigner. It will be noticed that I have left out part of the title, and by those who have already read it that I do not duplicate much of his material (I do not feel I can improve on his presentation). On the other hand, I shall spend relatively more time trying to explain the implied question of the title. But when all my explanations are over, the residue is still so large as to leave the question essentially unanswered.
 
@@ -74,6 +79,7 @@ Science is composed of laws which were originally based on a small, carefully se
 During my thirty years of practicing mathematics in industry, I often worried about the predictions I made. From the mathematics that I did in my office I confidently (at least to others) predicted some future events-if you do so and so, you will see such and such-and it usually turned out that I was right. How could the phenomena know what I had predicted (based on human-made mathematics) so that it could support my predictions? It is ridiculous to think that is the way things go. No, it is that mathematics provides, somehow, a reliable model for much of what happens in the universe. And since I am able to do only comparatively simple mathematics, how can it be that simple mathematics suffices to predict so much?
 
 I could go on citing more examples illustrating the unreasonable effectiveness of mathematics, but it would only be boring. Indeed, I suspect that many of you know examples that I do not. Let me, therefore, assume that you grant me a very long list of successes, many of them as spectacular as the prediction of a new planet, of a new physical phenomenon, of a new artifact. With limited time, I want to spend it attempting to do what I think Wigner evaded-to give at least some partial answers to the implied question of the title.
+image:hamming-distance.png[Hamming distance]
 
 **What is mathematics?** Having looked at the effectiveness of mathematics, we need to look at the question,"_What is Mathematics?_" This is the title of a famous book by Courant and Robbins <<courant>>. In it they do not attempt to give a formal definition, rather they are content to show what mathematics is by giving many examples. Similarly, I shall not give a comprehensive definition. But I will come closer than they did to discussing certain salient features of mathematics as I see them.
 
@@ -124,6 +130,7 @@ The idea that theorems follow from the postulates does not correspond to simple 
 How do we decide in a "crisis" what parts of mathematics to keep and what parts to abandon? Usefulness is one main criterion, but often it is usefulness in creating more mathematics rather than in the applications to the real world! So much for my discussion of mathematics.
 
 Some Partial Explanations. I will arrange my explanations of the unreasonable effectiveness of mathematics under four headings.
+image::hamming-distance.png[Hamming distance]
 
 ### 1. We see what we look for 
 No one is surprised if after putting on blue tinted glasses the world appears bluish. I propose to show some examples of how much this is true in current science. To do this I am again going to violate a lot of widely, passionately held beliefs. But hear me out.
@@ -151,6 +158,7 @@ Having given four widely different examples of nontrivial situations where it tu
 In recent years it was Einstein who most loudly proclaimed the simplicity of the laws of physics, who used mathematics so exclusively as to be popularly known as a mathematician. When examining his special theory of relativity paper <<holt>> one has the feeling that one is dealing with a scholastic philosopher's approach. He knew in advance what the theory should look like. and he explored the theories with mathematical tools, not actual experiments. He was so confident of the rightness of the relativity theories that, when experiments were done to check them, he was not much interested in the outcomes, saying that they had to come out that way or else the experiments were wrong. And many people believe that the two relativity theories rest more on philosophical grounds than on actual experiments.
 
 Thus my first answer to the implied question about the unreasonable effectiveness of mathematics is that we approach the situations with an intellectual apparatus so that we can only find what we do in many cases. It is both that simple, and that awful. What we were taught about the basis of science being experiments in the real world is only partially true. Eddington went further than this; he claimed that a sufficiently wise mind could deduce all of physics. I am only suggesting that a surprising amount can be so deduced. Eddington gave a lovely parable to illustrate this point. He said, "Some men went fishing in the sea with a net, and upon examining what they caught they concluded that there was a minimum size to the fish in the sea."
+image::hamming-distance.png[Hamming distance]
 
 === 2. We select the kind of mathematics to use
 
@@ -159,6 +167,8 @@ Mathematics does not always work. When we found that scalars did not work for fo
   1+1=0.
 
 Thus my second explanation is that we select the mathematics to fit the situation, and it is simply not true that the same mathematics works every place.
+
+image::hamming-distance.png[Hamming distance]
 
 === 3. Science in fact answers comparatively few problems.
 We have the illusion that science has answers to most of our questions, but this is not so. From the earliest of times man must have pondered over what Truth, Beauty, and Justice are. But so far as I can see science has contributed nothing to the answers, nor does it seem to me that science will do much in the near future. So long as we use a mathematics in which the whole is the sum of the parts we are not likely to have mathematics as a major tool in examining these famous three questions.
@@ -185,6 +195,7 @@ ____
 On the other hand, I feel like thousands of people should be reading this. It is the most profound essay I have seen regarding philosophy of science; important, significant, in fact, for our whole understanding of thought, of knowing, or reality.
 
 Drop me a note if you have any comments. Larry Frazier
+
 
 ____
 

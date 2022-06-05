@@ -8,10 +8,12 @@ subtitle:
 tags:
   - literature
   - philo
+  - viet
 markup: "adoc"  # or "pdc" or "md"
 categories: ["viet"] # "md" "pdc" "viet" "hanyu"
 math: false  # true for mathjax rendering
 s9: true
+img: thu-hung.jpg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -23,6 +25,8 @@ s9: true
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
 // After blank line, BEGIN asciidoc
+
+image::cam-xuc-mua-thu.dms[]
 
 ## Thu hứng 秋興
 • Cảm xúc mùa thu
@@ -70,6 +74,7 @@ Thành cao Bạch Đế tiếng chày đập áo lúc chiều tối dồn dập.
 
 (Năm 766)
 
+image::longho-vinhlong.jpg[Long Hô - Vinh Long]
 ___
 
 [quote, Bản dịch của Nguyễn Công Trứ]

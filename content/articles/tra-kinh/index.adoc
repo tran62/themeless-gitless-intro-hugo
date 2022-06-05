@@ -6,10 +6,11 @@ date: 2021-07-28
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
 categories:
-  - viet
+  - adoc
 tags:
   - literature
   - philo
+  - viet
 markup: "adoc"  # or "pdc" or "md"
 s9: true # social share
 img: tra-kinh.jpeg

@@ -11,6 +11,8 @@ markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
 math: true  # true for mathjax
 s9: true # show social share widgets
+img: galois.jpg
+
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -35,3 +37,4 @@ s9: true # show social share widgets
 . the Fundamental theorem of algebra
 . trancendence of $ \pi $
 
+image::galois.jpg[]

@@ -2,7 +2,7 @@
 
 title: Francis Bacon
 date: 2021-06-27
-tags: ["literature","philo"]
+tags: ["literature","philo","math"]
 category: literature
 draft: true
 markup: "adoc"

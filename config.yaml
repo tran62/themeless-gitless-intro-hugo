@@ -1,9 +1,12 @@
 baseURL: https://optimistic-archimedes.netlify.app/
 #baseURL: http://localhost:1313/
 languageCode: fr-fr
-title: TQA Asciidoc
-math: false
-s9: false
+title: TQA Hugo dev site
+math: true
+s9: true
+params:
+  defaultImage: images/go-logo.png
+  paginate: 9
 theme: 
     - antora-default-ui-hugo-theme
     - hugo-cards

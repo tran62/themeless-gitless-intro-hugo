@@ -10,7 +10,8 @@ tags:
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
 math: true  # true for mathjax
-s9: true # social share 
+s9: true # social share
+img: lie-group.png
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -22,6 +23,8 @@ s9: true # social share
 :warning-caption: 🧨Warning
 :note-caption: 🔖Note
 // After blank line, BEGIN asciidoc
+
+image::Sophus_Lie_1896.jpg[Sophus Lie - 1896]
 
 ___
 == Definition and examples
@@ -58,6 +61,8 @@ THe global structure of Lie groups took a major step forward with the work of:
 - Simon Donaldson (1989) - 4-dimensional Euclidian spaces possesses non standard differentiable structures because of unusual feature of the Lie group of all rotations in that space.
 
 ___
+image::demystifying-lie-groups.jpg[]
+
 Bibliography:
 ------------
 
