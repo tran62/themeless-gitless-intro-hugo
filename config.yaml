@@ -1,16 +1,17 @@
-#baseURL: https://optimistic-archimedes.netlify.app/
-baseURL: http://localhost:1313/
+baseURL: https://optimistic-archimedes.netlify.app/
+#baseURL: http://localhost:1313/
 languageCode: fr-fr
 title: TQA Asciidoc
 math: false
 s9: false
-theme: antora-default-ui-hugo-theme
+theme: 
+    - antora-default-ui-hugo-theme
+    - hugo-cards
 #theme: hugo-theme-arch-terminal
 
 markup:
   preserveTOC: false
   workingFolderCurrent: false  # default is false
-
   goldmark:
     extensions:
       definitionList: true

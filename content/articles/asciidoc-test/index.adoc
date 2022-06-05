@@ -12,6 +12,7 @@ markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
 math: false  # true for mathjax
 s9: true
+img: tiger.png
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

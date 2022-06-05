@@ -3,6 +3,7 @@ title: "About.adoc"
 date: 2021-07-31T19:07:25+02:00
 draft: false
 s9: false
+img: oscar-wide.jpeg
 ---
 image::oscar-wilde.jpeg[Oscar Wilde]
 

@@ -7,7 +7,7 @@ category: literature
 draft: true
 markup: "adoc"
 s9: true
-
+img: bacon-on-studies.jpeg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

@@ -10,6 +10,7 @@ tags:
   - literature
   - philo
 s9: true
+img: han-san-tu-cac.jpg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

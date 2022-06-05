@@ -9,6 +9,7 @@ tags:
   - meta
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet"
+img: qa-profile-pic.png
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

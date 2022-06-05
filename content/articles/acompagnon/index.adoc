@@ -11,6 +11,7 @@ tags:
   - philo
 markup: "adoc"
 s9: true
+img: antoine-compagnon.jpeg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:

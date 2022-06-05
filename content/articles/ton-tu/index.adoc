@@ -11,6 +11,7 @@ tags:
   - philo
 markup: "adoc"  # or "pdc" or "md"
 s9: true
+img: tontu-binhphap.jpeg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
