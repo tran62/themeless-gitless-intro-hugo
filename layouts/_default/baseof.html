@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
-
-  {{ partial "head.html" .}}
-
+  {{ partial "head.html" . }}
   <body>
-
     {{ partial "header.html" . }}
-
+    {{/* partial "nav.html" . */}}
+    {{/* partial "toolbar.html" . */}}
     <div class="container">
       <div class="wrapper">
         {{ block "main" . }} {{ end }}

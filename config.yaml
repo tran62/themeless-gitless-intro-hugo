@@ -5,8 +5,10 @@ title: TQA Hugo dev site
 math: true
 s9: true
 params:
-  defaultImage: images/go-logo.png
+  defaultImage: go-logo.png
   paginate: 9
+  css: 
+    - css/custom.css
 theme: 
     - antora-default-ui-hugo-theme
     - hugo-cards
