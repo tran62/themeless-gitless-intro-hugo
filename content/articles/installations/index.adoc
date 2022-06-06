@@ -16,7 +16,7 @@ ____
 
 ---
 
-== Installation of this site:
+== Installation of this site
 
 ===  Install Hugo
 [source, shell]
@@ -27,13 +27,13 @@ ____
 >go install --tags extended
 ----
   
-=== Install InfiniteInk/themeless-gitless-intro-hugo
+=== Install InfiniteInk's _themeless-gitless-intro-hugo_
 [source, shell]
 ----
 >git clone https://github.com/infiniteink/themesless-gitless-intro-hugo.git
 >hugo server -D --gc --disableFastRenderer
 ----
-=== Install Asciidoctor
+=== Install _Asciidoctor_
 ----
 >brew install Asciidoctor
 >brew install ruby
@@ -61,7 +61,8 @@ if ls *.png >/dev/null 2>&1; then
   mv -f *.png static/diagram
 fi
 ----
-=== Install Pandoc
+
+=== Install _Pandoc¨
 ----
 brew install pandoc
 brew install library python homebrew /cask/basictex
@@ -78,17 +79,21 @@ PATH=$PWD/bin:$PATH
 
 hugo "$@"
 ----
-=== Install Antora-default-ui-hugo-theme
-   gives the main group of  _default and partial templates 
+=== Install _Antora-default-ui-hugo-theme_
+   gives templates and css for toc and nav bars.
 ----
 $ git submodule add github.com/basil/antora-default-ui-hugo-theme.git themes/antora-default-ui-hugo-theme
-or alternatively
-$ git clone https://github.com/tran62/antora-default-ui-hugo-theme
-move away (to save for ex) baseof.html, list.html, single.html from layouts/_default/
-copy partials/head-scripts.html and header-scripts.html from themes/antora-default.../ to /layouts/partials/
 ----
+or alternatively
+----
+$ git clone https://github.com/tran62/antora-default-ui-hugo-theme
+----
+- move away (to layouts/save/ for ex) baseof.html, list.html, single.html from layouts/_default/
+- copy partials/head-scripts.html and header-scripts.html from themes/antora-default.../ to /layouts/partials/
+- enable antora css specific scripts
+- update theme: Site.params in config.yaml
 
-=== adapt config.yaml file
+=== Adapt _config.yaml_ file
 ----
 baseURL: http://localhost:1313/
 languageCode: fr-fr
@@ -200,19 +205,27 @@ src="//cdn.social9.com/js/socialshare.min.js">
  - add math variable in config.yaml
 
 === Add Webjeda theme
+to set posts into visual Cards
 ----
 $ cd themes
 $ git submodule add https://github.com/tran62/hugo-cards.git
-forked from /bul-ikana/hugo-cards (for hugo) from /sharu725/cards
-get the custom.css to transfer from hugo-cards to main site
 ----
+- theme forked from /bul-ikana/hugo-cards (for hugo) from /sharu725/cards (Webjeda)
+- put hugo-cards theme as first theme in config.yaml
+- enable scss in assets/sass in scripts in _partials/head-scripts.html_ template
+- enable bootstrap.js in head-scripts.html template
+----
+<script src="js/bootstrap.min.js"></script>
+----
+
 
 === Add Arch-terminal theme
 ----
 $ cd themes
 $ git submodule add https://github.com/foo-dogsquared/hugo-theme-arch-terminal.git
-get the custom.css to transfer from arch-terminal to main site
 ----
+get the custom.css to transfer from arch-terminal to main site
+
 
 === Add Showhide partial block feature
 ----

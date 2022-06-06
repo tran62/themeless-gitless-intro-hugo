@@ -6,8 +6,8 @@
 {{/* $antora_styles := resources.Get "css/antora_styles.css" */}}
 <!--link rel="stylesheet" href="{{/* $antora_styles.Permalink */}}" type="text/css" /-->
 
-{{ $cards_styles := resources.Get "sass/main.scss" | toCSS  }}
-<link rel="stylesheet" href="{{ $cards_styles.Permalink }}" type="text/css" />
+{{/* $main := resources.Get "sass/main.scss" | toCSS  */}}
+<!--link rel="stylesheet" href="{{/* $main.Permalink */}}" type="text/css" /-->
 
 {{ $bootstrap_styles := resources.Get "sass/_bootstrap-readable.scss" | toCSS  }}
 <link rel="stylesheet" href="{{ $bootstrap_styles.Permalink }}" type="text/css" />

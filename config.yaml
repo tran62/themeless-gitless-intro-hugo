@@ -1,7 +1,7 @@
 baseURL: https://optimistic-archimedes.netlify.app/
 #baseURL: http://localhost:1313/
 languageCode: fr-fr
-title: TQA Hugo dev site
+title: TQA Hugo Experiments
 math: true
 s9: true
 params:
@@ -9,10 +9,11 @@ params:
   paginate: 9
   css: 
     - css/custom.css
+    - css/antora_styles.css
 theme: 
-    - antora-default-ui-hugo-theme
     - hugo-cards
-#theme: hugo-theme-arch-terminal
+    - antora-default-ui-hugo-theme
+    #- hugo-theme-arch-terminal
 
 markup:
   preserveTOC: false
