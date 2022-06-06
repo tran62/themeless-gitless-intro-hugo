@@ -1,18 +1,35 @@
 baseURL: https://optimistic-archimedes.netlify.app/
 #baseURL: http://localhost:1313/
-languageCode: fr-fr
-title: TQA Hugo Experiments
+languageCode: en-en
+title: TQA Hugo Xsite
 math: true
 s9: true
 params:
+  themesDir: "../.."
   defaultImage: go-logo.png
   paginate: 9
-  css: 
+  custom_css: 
+    #- css/antora_styles.css
     - css/custom.css
-    - css/antora_styles.css
+  builtBy: tran62
+  defaultImage: gopher.jpg
+
+  facebook: "https://facebook.com/qatran75"
+  quora: 
+  twitter: "https://twitter.com/qatran"
+  github: "https://github.com/tran62"
+  email: qat@melix.net
+
+  fbLikeBox: 
+  fbAppId: 
+  fbPageUrl: 
+  fbPageTitle: 
+
+  disqus: 
+
 theme: 
     - hugo-cards
-    - antora-default-ui-hugo-theme
+    #- antora-default-ui-hugo-theme
     #- hugo-theme-arch-terminal
 
 markup:

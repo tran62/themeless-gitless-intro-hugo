@@ -6,19 +6,6 @@
 {{/* $antora_styles := resources.Get "css/antora_styles.css" */}}
 <!--link rel="stylesheet" href="{{/* $antora_styles.Permalink */}}" type="text/css" /-->
 
-{{/* $main := resources.Get "sass/main.scss" | toCSS  */}}
-<!--link rel="stylesheet" href="{{/* $main.Permalink */}}" type="text/css" /-->
-
-{{ $bootstrap_styles := resources.Get "sass/_bootstrap-readable.scss" | toCSS  }}
-<link rel="stylesheet" href="{{ $bootstrap_styles.Permalink }}" type="text/css" />
-
-{{ $custom_styles := resources.Get "sass/_custom.scss" | toCSS  }}
-<link rel="stylesheet" href="{{ $custom_styles.Permalink }}" type="text/css" />
-
-{{ $highlighting_styles := resources.Get "sass/_syntax-highlighting.scss" | toCSS  }}
-<link rel="stylesheet" href="{{ $highlighting_styles.Permalink }}" type="text/css" />
-
-
 {{ if or .Params.s9 .Site.Params.s9 }}
 <script id="s9-sdk" async defer content="33fbf926f45e4d42afe4e864df7e1fda" src="//cdn.social9.com/js/socialshare.min.js"></script>
 {{ end }}
