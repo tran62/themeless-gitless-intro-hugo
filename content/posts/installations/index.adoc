@@ -32,7 +32,7 @@ ____
 [source, shell]
 ----
 >git clone https://github.com/infiniteink/themesless-gitless-intro-hugo.git
->hugo server -D --gc --disableFastRenderer
+>hugo server -D --gc --disableFastRender
 ----
 === Install _Asciidoctor_
 ----
@@ -241,7 +241,8 @@ get the custom.css to transfer from arch-terminal to main site
 ----
 
 === Add Search feature
-from link:https://victoria.dev/blog/add-search-to-hugo-static-sites-with-lunr/[victoria.dev/blog search to hugo with lunr]
+from link:https://victoria.dev/blog/add-search-to-hugo-static-sites-with-lunr/[victoria.dev/blog/add-search-to-hugo-static-sites-with-lunr/]
+
 . add search-form.html to layouts/partials/
 . include shortcode to other templates
 . create layouts/search/list.html search page
