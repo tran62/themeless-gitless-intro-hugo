@@ -14,7 +14,7 @@ tags:
   - histoire
 markup: "adoc"  # or "pdc" or "md"
 s9: true
-img: tontu-binhphap.jpeg
+img: taothao-binhphap.jpg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -35,33 +35,46 @@ https://vi.wikipedia.org/wiki/Binh_ph%C3%A1p_T%C3%B4n_T%E1%BB%AD[wikipedia link]
 
 Tôn tử binh pháp 13 thiên gồm: 
 
-* Thiên thứ nhất: Kế sách (計索，计索)
-* Thiên thứ hai: Tác chiến (作戰，作战)
-* Thiên thứ ba: Mưu công (謀攻， 谋攻)
-* Thiên thứ tư: Quân Hình (軍形，军形)
-* Thiên thứ năm: Binh Thế (兵勢，兵势)
-* Thiên thứ sáu: Hư thực (虛實，虚实) 
-* Thiên thứ bảy: Quân tranh (軍爭，军争)
-* Thiên thứ tám: Cửu biến (九變，九变) 
-* Thiên thứ chín: Hành quân (行軍，行军)
-* Thiên thứ mười: Địa hình (地形)
-* Thiên thứ mười một: Cửu địa (九地) 
-* Thiên thứ mười hai: Hỏa công (火攻) 
-* Thiên thứ mười ba: Dụng gián (用間，用间)
+* Thiên thứ nhất: Kế sách (計 索，计索)
+* Thiên thứ hai: Tác chiến (作 戰，作战)
+* Thiên thứ ba: Mưu công (謀 攻， 谋攻)
+* Thiên thứ tư: Quân Hình (軍 形，军形)
+* Thiên thứ năm: Binh Thế (兵 勢，兵势)
+* Thiên thứ sáu: Hư thực (虛 實，虚实) 
+* Thiên thứ bảy: Quân tranh (軍 爭，军争)
+* Thiên thứ tám: Cửu biến (九 變，九变) 
+* Thiên thứ chín: Hành quân (行 軍，行军)
+* Thiên thứ mười: Địa hình (地 形)
+* Thiên thứ mười một: Cửu địa (九 地) 
+* Thiên thứ mười hai: Hỏa công (火 攻) 
+* Thiên thứ mười ba: Dụng gián (用 間，用间)
 
 ___
 
 image::the-art-of-war.jpg[]
 
-## Kế sách thiên (計索篇)
+## Kế sách thiên (計 索 篇)
 
 Tào Tháo viết:: Kế giả, tuyển tướng, lượng địch, độ địa, liệu tốt, viễn cận, hiểm dị, kế vu miếu đường dã.
 
 ___
 
 Nguyên văn:: 
-孫子曰：兵者，國之大事，死生之地，存亡之道，不可不察也
-故经之以五事，校之以计而索其情：一曰道，二曰天，三曰地，四曰将，五曰法。道者，令民与上同意也，故可以与之死，可以与之生，而不畏危。天者，阴阳、寒暑、时制也。地者，远近、险易、广狭、死生也。将者，智、信、仁、勇、严也。法者，曲制、官道、主用也。
+孫子曰：兵 者，國 之 大 事，死 生 之 地，
+存 亡 之 道，不 可 不 察 也 故 经 之 以 五 事，
+校 之 以 计 而 索 其 情：
+一 曰 道，
+二 曰 天，
+三 曰 地，
+四 曰 将，
+五 曰 法。
+道 者，令 民 与 上 同 意 也，
+故 可 以 与 之 死，可 以 与 之 生，
+而 不 畏 危。天 者，阴 阳、寒 暑、
+时 制 也。地 者，远 近、险 易、
+广 狭、死 生 也。
+将 者，智、信、仁、勇、严 也。
+法 者，曲 制、官 道、主 用 也。
 
 Hán Việt:: 
 Tôn Tử viết:: Binh giả, quốc chi đại sự. Tử sinh chi địa, tồn vong chi đạo, bất khả bất sát dã.
@@ -79,23 +92,25 @@ Cố kinh chi dĩ ngũ sự , hiệu chi dĩ kế nhi sách kỳ tình:
 * _Tướng_ giả, trí(智), tín(信), nhân(仁), dũng(勇), nghiêm(严) dã . 
 * _Pháp_ giả, khúc chế(曲制) ,quan đạo(官道) , chủ dụng dã . 
 
-image::ancient-china-warrior.jpg[]
+image::ngua-xich-tho-quan-vu.jpg[]
 
-凡此五者，將莫不聞，知之者勝，不知之
-者不勝。故校之以計，而索其情。
+凡 此 五 者，將 莫 不 聞，知 之 者 勝，不 知 之
+者 不 勝。故 校 之 以 計，而 索 其 情。
 
 Phàm thử ngũ giả, tướng mạc bất văn, tri chi giả thắng, bất tri giả bất thắng. Cố hiệu chi dĩ kế, nhi sách kỳ tình. 
 
-曰：主孰有道？將孰有能？天地孰得？法令孰
-行？兵眾孰強？士卒孰練？賞罰孰明？吾以此知勝負矣。
+曰：主 孰 有 道？將 孰 有 能 ？天 地 孰 得 ？法 令 孰 行？
+兵 眾 孰 強 ？士 卒 孰 練 ？
+賞 罰 孰 明 ？吾 以 此 知 勝 負 矣。
 
 Viết: Chủ thục hữu đạo? Tướng thục hữu năng? Thiên địa thục đắc? Pháp lệnh thục hành? Binh chúng thực cường? Sĩ tốt thục luyện? Thưởng phạt thục minh? Ngô dĩ thử tri thắng phụ hĩ.
 
-將聽吾計，用之必勝，留之﹔將不聽吾計，用之必敗，去之。
+將 聽 吾 計，用 之 必 勝，留 之 ﹔
+將 不 聽 吾 計，用 之 必 敗，去 之 。
 
 Tướng thính ngô kế, dụng chi tất thắng, lưu chi. Tướng bất thính ngô kế, dụng chi tất bại, khứ chi.
 
-計利以聽，乃為之勢，以佐其外。勢者，因利而制權也。
+計 利 以 聽，乃 為 之 勢，以 佐 其 外。勢 者，因 利 而 制 權 也。
 
 Kế lợi dĩ thính, nãi vị chi thế, dĩ tá kỳ ngoại; thế giả, nhân lợi nhi chế quyền dã.
 
@@ -109,18 +124,35 @@ Viết:: Chủ thục hữu đạo? Tướng thục hữu năng? Thiên địa t
 
 ___
 
-Nguyên văn:: 將聽吾計，用之必勝，留之﹔將不聽吾計，用之必敗，去之。
+image::Battle-of-Gaixia.jpg[]
+_Battle of Gaixia_
+
+Nguyên văn:: 
+將 聽 吾 計，用 之 必 勝，留 之﹔
+將 不 聽 吾 計，用 之 必 敗，去之。
 
 Tướng thính ngô kế, dụng chi tất thắng, lưu chi. Tướng bất thính ngô kế, dụng chi tất bại, khứ chi.
 
-Nguyên văn:: 計利以聽，乃為之勢，以佐其外。勢者，因利而制權也。
+Nguyên văn:: 
+計 利 以 聽，乃 為 之 勢，以 佐 其 外 。
+勢 者 ，因 利 而 制 權 也 。
 
 Kế lợi dĩ thính, nãi vị chi thế, dĩ tá kỳ ngoại; thế giả, nhân lợi nhi chế quyền dã.
 
 ___
 
 
-Nguyên văn:: 兵者，诡道也。故能而示之不能，用而示之不用，近而示之远，远而示之近；利而诱之，乱而取之，实而备之，强而避之，怒而挠之，卑而骄之，佚而劳之，亲而离之。攻其无备，出其不意。
+Nguyên văn:: 
+兵 者，诡 道 也。
+故 能 而 示 之 不 能 ，
+用 而 示 之 不 用 ，
+近 而 示 之 远 ，
+远 而 示 之 近 ；
+利 而 诱 之 ，乱 而 取 之 ，
+实 而 备 之 ，强 而 避 之 ，
+怒 而 挠 之 ，卑 而 骄 之 ，
+佚 而 劳 之 ，亲 而 离 之 。
+攻 其 无 备 ，出 其 不 意 。
  
 Hán Việt:: Binh(兵) giả , quỷ(诡) đạo dã . cố năng nhi thị(示) chi bất năng , dụng(用) nhi thị chi bất dụng , cận(近) nhi thị chi viễn(远) , viễn nhi thị chi cận ；lợi(利) nhi dụ(诱) chi , loạn(乱) nhi thủ(取) chi , thực(实) nhi bị(备) chi , cường(强)  nhi tỵ(避) chi , nộ(怒) nhi náo(挠) chi , ti(卑) nhi kiêu(骄) chi , dật(佚) nhi lao(劳) chi , thân(亲) nhi li(离) chi . công(攻) kỳ vô bị , xuất kỳ bất ý. Thủ binh gia chi thắng, bất khả tiên truyền dã. 
 
@@ -130,10 +162,15 @@ Nổi bật::
 
 - Công kỳ vô bị, Xuất kỳ bất ý::  Công địch lúc không phòng bị, xuất binh khi địch không để ý. 
 
+image::nguy-vu-de-binh-phap.jpg[]
 ___
 
-
-Nguyên văn:: 夫未战而庙算胜者，得算多也；未战而庙算不胜者，得算少也。多算胜，少算不胜，而况于无算乎！吾以此观之，胜负见矣。
+Nguyên văn:: 
+夫 未 战 而 庙 算 胜 者 ，
+得 算 多 也 ；未 战 而 庙 算 不 胜 者 ，
+得 算 少 也 。多 算 胜 ，
+少 算 不 胜 ，而 况 于 无 算 乎 ！
+吾 以 此 观 之 ，胜 负 见 矣 。
 
 Hán Việt:: Phù vị chiến nhi miếu toán(庙算) thắng(胜) giả , đắc toán đa dã ；vị chiến nhi miếu toán bất thắng giả , đắc toán thiểu dã . Đa toán thắng , thiểu toán bất thắng , nhi (况) ư vô toán hồ ！ngô dĩ thử quan chi , thắng phụ kiến hĩ.
 
@@ -143,15 +180,18 @@ Nổi bật::
 - Đa toán thắng thiểu toán bất thắng ( 多算胜，少算不胜)::
  Dòng này thâu tóm ý nghĩa chính của binh pháp. Trước khi tiến hành một việc gì phải tính toán, mưu sự thật kỹ các tình huống có thể xảy ra và chuẩn bị kĩ cho từng tình huống.
 
-- Thắng(胜) binh tiên thắng, nhi hậu(后) cầu chiến(战). Bại(败) binh tiên chiến, nhi hậu cầu thắng - (胜兵先胜而后求战，败兵先战而后求胜) _(Thiên 4: Quân Hình )_::
+- Thắng(胜) binh tiên thắng, nhi hậu(后) cầu chiến(战). Bại(败) binh tiên chiến, nhi hậu cầu thắng 
+- (胜 兵 先 胜 而 后 求 战，败 兵 先 战 而 后 求 胜) 
+_(Thiên 4: Quân Hình )_::
 Người chiến thắng trước tiên tính toán thấy thắng lợi rồi mới lâm trận, người bại trước tiên lâm trận rồi mới mong chiến thắng.  
 
 ___
 
-Nguyên văn:: 故兵贵胜，不贵久。
+Nguyên văn:: 故 兵 贵 胜 ，不 贵 久 。
 
 Hán Việt::  Cố binh quý thắng , bất quý cửu. ( Việc nhà binh quý thắng lợi và tốc độ chứ không quý việc đánh lâu dài ).
 
 ___
-image::Battle-of-Gaixia.jpg[]
-_Battle of Gaixia_
+
+image::tontu-binhphap.jpeg[Binh-pháp Tôn Tử]
+_Tôn Tử Binh Pháp_
