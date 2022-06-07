@@ -5,6 +5,7 @@ title: TQA Hugo Xsite
 math: true
 s9: true
 params:
+  search: true
   themesDir: "../.."
   defaultImage: go-logo.png
   paginate: 9

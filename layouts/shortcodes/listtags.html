@@ -1,0 +1,14 @@
+{{ define "main" -}}
+{{ $taxo := "tags" }}
+<div class="post">
+  <ul id="{{ $taxo }}">
+  <h1>{{ .Title }}</h1>
+  <time datetime={{ .Date.Format "2006-01-02T15:04:05Z0700" }} class="post-date">{{ .Date.Format "2006-01-02" }}</time><li><a href="{{ .Permalink }}">{{ $taxo }}</a></li>
+  {{ .Content }}
+</div>
+{{ if .Site.DisqusShortname -}}
+<hr>
+<h2>Comments</h2>
+{{ template "_internal/disqus.html" . }}
+{{- end }}
+{{- end }}

@@ -11,3 +11,7 @@
 {{ end }}
 
 <script src="js/bootstrap.min.js"></script>
+
+{{ if or .Params.search .Site.Params.search }}
+     {{ partial "search-form.html" . }}
+{{ end }}
