@@ -14,7 +14,7 @@ tags:
   - chine
 markup: "adoc"  # or "pdc" or "md"
 s9: true # social share
-img: tra-kinh.jpeg
+img: thu-choi-tra.jpeg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -45,10 +45,11 @@ image::tra-kinh.jpeg[hình bìa Trà Kinh]
   nhưng đan xen và ẩn sau tầng nghĩa bề mặt đó cũng chính là những câu chuyện về văn hóa,
   về nguồn cội.
 
-image::thu-choi-tra-cua-nguoi-xua-va-nay.jpeg[]
+image::thu-choi-tra.jpeg[]
 
-## Tẩu bút tạ Mạnh gián nghị ký tân trà 走筆謝孟諫議寄新茶 •
-Thư viết nhanh tạ ơn quan gián nghị họ Mạnh gửi trà mới
+## Tẩu bút tạ Mạnh gián nghị ký tân trà 
+## 走 筆 謝 孟 諫 議 寄 新 茶 
+_**Thư viết nhanh tạ ơn quan gián nghị họ Mạnh gửi trà mới**_
 
 Thơ » Trung Quốc » Trung Đường » Lư Đồng
 
@@ -67,6 +68,7 @@ https://www.thivien.net/L%C6%B0-%C4%90%E1%BB%93ng/T%E1%BA%A9u-b%C3%BAt-t%E1%BA%A
 - Vị minh tiểu kệ đồng Phan sinh dạ toạ (Cao Bá Quát)
 - Uống trà (Lê Minh Quốc)
 - Còn một vị trà (Đỗ Quốc Thuấn)
+
 [NOTE]
  _Một số bài cùng tác giả (Lô Đồng)_
 - Hữu sở tư
@@ -75,42 +77,44 @@ https://www.thivien.net/L%C6%B0-%C4%90%E1%BB%93ng/T%E1%BA%A9u-b%C3%BAt-t%E1%BA%A
 - Tống Thiệu binh tào quy Giang Nam
 - Nhân nhật lập xuân
 
+___
 
-走筆謝孟諫議寄新茶
+**走 筆 謝 孟 諫 議 寄 新 茶**
 
 **Tẩu bút tạ Mạnh gián nghị ký tân trà**
 
 === Thư viết nhanh tạ ơn quan gián nghị họ Mạnh gửi trà mới
 
-日高丈五睡正濃，
+----
+日 高 丈 五 睡 正 濃，
 Nhật cao ngũ trượng thuỵ chính nùng,
 Mặt trời lên cao trượng rưỡi, đang lúc ta ngủ say.
 
-軍將打門驚周公。
+軍 將 打 門 驚 周 公。
 Quân tướng khấn môn kinh Châu Công.
 Bỗng quân lính đập cửa làm kinh động Chu công
 
-口云諫議送書信，
+口 云 諫 議 送 書 信，
 Khấu vân Gián Nghị Tống thư tín,
 Nói có thư của quan gián nghị.
 
-白絹斜封三道印。
+白 絹 斜 封 三 道 印。
 Bạch quyên tà phong tam đạo ấn.
 Gói lụa trắng có ba dấu niêm phong.
 
-開緘宛見諫議面，
+開 緘 宛 見 諫 議 面，
 Khai giam uyển kiến Gián Nghị diện,
 Mở gói như thấy dung mạo ông gián nghị
 
-手閱月團三百片。
+手 閱 月 團 三 百 片。
 Thủ duyệt nguyệt đồ tam bách phiến.
 Tự tay lựa ba trăm lá trà hình trăng non.
 
-聞道新年入山裡，
+聞 道 新 年 入 山 裡，
 Văn đạo tân niên nhập sơn lý,
 Nghe nói đầu năm mới vào tận rừng sâu
 
-蟄蟲驚動春風起。
+蟄 蟲 驚 動 春 風 起。
 Côn trùng kinh động xuân phong khởi.
 Côn trùng kinh động, gió xuân nổi lên
 
@@ -118,13 +122,13 @@ Côn trùng kinh động, gió xuân nổi lên
 Thiên tử vị thưởng Dương Tiến trà,
 Nhà vua ban cho trà thơm Thường Dương
 
-百草不敢先開花。
+百 草 不 敢 先 開 花。
 Bách thảo bất cảm tiên khai hoa.
 Trăm loài cỏ không dám nở hoa trước.
 
  
 
-仁風暗結珠琲瓃，
+仁 風 暗 結 珠 琲 瓃，
 Nhân phong ám kết châu bội lôi,
 Gió lành ngầm kết thành chuỗi ngọc
 
@@ -132,119 +136,120 @@ Gió lành ngầm kết thành chuỗi ngọc
 Tiên xuân trừu xuất hoàng kim nha.
 Trước mùa xuân, nảy mầm non màu vàng pha.
 
-摘鮮焙芳旋封裹，
+摘 鮮 焙 芳 旋 封 裹，
 Trích tiên bồi phương toàn phong lý,
 Hái tươi, ướp thơm và gói kỹ
 
-至精至好且不奢。
+至 精 至 好 且 不 奢。
 Chí tình chí hảo thả bất xa.
 Cực tinh tuý, cực tốt lành mà không xa xỉ.
 
-至尊之餘合王公，
+至 尊 之 餘 合 王 公，
 Chí tôn chí dự hợp vương công,
 Ơn thừa của vua, chỉ có ở nơi các vương công
 
-何事便到山人家。
+何 事 便 到 山 人 家。
 Hà sự tiện đáo sơn nhân gia.
 Sao hôm nay lại tới nhà của kẻ nơi rừng rú?
 
  
 
-柴門反關無俗客，
+柴 門 反 關 無 俗 客，
 Sài môn phản quan vô tục khách,
 Khép cổng tre không tiếp khách tục
 
-紗帽籠頭自煎喫。
+紗 帽 籠 頭 自 煎 喫。
 Sa mạo long đầu tự tiễn khuyết.
 Đội mũ mão nghiêm chỉnh, tự tay đun nước.
 
-碧雲引風吹不斷，
+碧 雲 引 風 吹 不 斷，
 Bích vân dẫn phong xuy bất đoạn,
 Mây xanh lùa gió thổi không ngớt
 
-白花浮光凝碗面。
+白 花 浮 光 凝 碗 面。
 Bạch hoa phù quang ngưng oản diện.
 Ánh sáng bồng bềnh màu hoa trắng ngưng kết trên mặt chén trà.
 
  
 
-一碗喉吻潤，
+一碗 喉 吻 潤，
 Nhất oản hầu vẫn nhuận,
 Chén thứ nhất trơn miệng thông họng.
 
-兩碗破孤悶。
+兩 碗 破 孤 悶。
 Nhị oản phá cô sầu.
 Chén thứ hai xua tan sự cô đơn phiền muộn.
 
-三碗搜枯腸，
+三 碗 搜 枯 腸，
 Tam oản sưu khô trường,
 Chén thứ ba dốc sạch nỗi lòng
 
-唯有文字五千卷。
+唯 有 文 字 五 千 卷。
 Duy hữu văn tự ngũ thiên quyển.
 Chỉ còn năm nghìn cuốn sách
 
-四碗發輕汗，
+四 碗 發 輕 汗，
 Tứ oản phát khinh hạn,
 Chén thứ tư toát mồ hôi
 
-平生不平事，
+平 生 不 平 事，
 Bình sinh bất bình sự,
 Mọi nỗi bất bình trong đời
 
-盡向毛孔散。
+盡 向 毛 孔 散。
 Tận hướng mao khổng tán.
 Thoát hết ra ngoài theo lỗ chân lông.
 
-五碗肌骨清，
+五 碗 肌 骨 清，
 Ngũ oản cơ phu thanh,
 Chén thứ năm xương thịt đều trong sạch.
 
-六碗通仙靈。
+六 碗 通 仙 靈。
 Lục oản thông tiên linh.
 Chén thứ sáu thông lên cõi tiên.
 
-七碗喫不得也，
+七 碗 喫 不 得 也，
 Thất oản khiết bất đắc dã,
 Chén thứ bảy không nhấp nổi
 
-唯覺兩腋習習清風生。
+唯 覺 兩 腋 習 習 清 風 生。
 Duy giác lưỡng dịch tập tập thanh phong sinh.
 Chỉ thấy lớp lớp gió mát sinh ra từ hai bên nách.
 
  
 
-蓬來山，在何處？
+蓬 來 山，在 何 處？
 Bồng Lai sơn tại hà xứ?
 Núi Bồng Lai ở đâu?
 
-玉川子，乘此清風欲歸去。
+玉 川 子，乘 此 清 風 欲 歸 去。
 Ngọc Xuyên Tử, thừa thử thanh phong dục quy khứ.
 Ngọc Xuyên Tử cưỡi gió này sắp đến đó.
 
-山上群仙司下土，
+山 上 群 仙 司 下 土，
 Sơn thượng quần tiên ty hạ thổ,
 Các vị tiên trên núi xa nơi hạ giới
 
-地位清高隔風雨。
+地 位 清 高 隔 風 雨。
 Địa vị thanh cao cách phong vũ.
 Địa vị thanh cao cách biệt mưa gió.
 
-安得知百萬億蒼生命，
+安 得 知 百 萬 億 蒼 生 命，
 An đắc tri bách vạn thương sinh mệnh,
 Đâu biết trăm vạn muôn số phận chúng sinh
 
-墮在巔崖受辛苦。
+墮 在 巔 崖 受 辛 苦。
 Đoạ tại điên nhai thụ tân khổ.
 Rơi xuống ngục sâu chịu đau khổ.
 
-便為諫議問蒼生，
+便 為 諫 議 問 蒼 生，
 Tiện tùng Gián Nghị vấn thương sinh.
 Nhân đây xin hỏi quan gián nghị:
 
-到頭還得蘇息否？
+到 頭 還 得 蘇 息 否？
 Đáo đầu hoàn đắc tô tức phủ?
 Dân chúng có được hưởng sung sướng chăng?
+----
 
 image::thu-choi-tra-cua-nguoi-xua.jpeg[]
 Bài này còn được chép với tên Trà ca 茶歌.

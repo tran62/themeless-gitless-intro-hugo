@@ -12,7 +12,7 @@ markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"]
 math: true  #  mathjax
 s9: true # social share
-img: lie-group.png
+img: Sophus_Lie_1896.jpg
 ---
 // BEGIN AsciiDoc Document Header
 :sectlinks:
@@ -25,7 +25,9 @@ img: lie-group.png
 :note-caption: 🔖Note
 // After blank line, BEGIN asciidoc
 
-image::Sophus_Lie_1896.jpg[Sophus Lie - 1896]
+//image::Sophus_Lie_1896.jpg[Sophus Lie - 1896]
+
+image::lie-group.png[Lie Group]
 
 ___
 == Definition and examples
