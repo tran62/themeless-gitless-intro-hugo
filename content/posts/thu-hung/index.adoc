@@ -9,6 +9,7 @@ tags:
   - literature
   - philo
   - viet
+  - chine
 markup: "adoc"  # or "pdc" or "md"
 categories: ["viet"] # "md" "pdc" "viet" "hanyu"
 math: false  # true for mathjax rendering

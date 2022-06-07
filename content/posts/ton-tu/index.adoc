@@ -9,6 +9,9 @@ categories: ["viet"] # "md" "pdc" "viet"
 tags:
   - literature
   - philo
+  - chine
+  - viet
+  - histoire
 markup: "adoc"  # or "pdc" or "md"
 s9: true
 img: tontu-binhphap.jpeg

@@ -9,7 +9,7 @@ tags:
   - math
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
-math: false  # true for mathjax rendering
+math: true  # true for mathjax rendering
 s9: true
 img: molecular-homology.jpg
 ---

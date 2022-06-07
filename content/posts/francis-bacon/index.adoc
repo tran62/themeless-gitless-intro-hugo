@@ -3,8 +3,8 @@
 title: Francis Bacon
 date: 2021-06-27
 tags: ["literature","philo","math"]
-category: literature
-draft: true
+category: ["adoc"]
+#draft: true
 markup: "adoc"
 s9: true
 img: bacon-on-studies.jpeg

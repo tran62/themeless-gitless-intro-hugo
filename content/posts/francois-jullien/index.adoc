@@ -10,6 +10,7 @@ s9: true
 tags:
   - literature
   - philo
+  - chine
 img: francois-jullien.jpeg
 ---
 // BEGIN AsciiDoc Document Header

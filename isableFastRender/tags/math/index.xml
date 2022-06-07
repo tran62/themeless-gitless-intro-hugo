@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>math  on TQA Hugo Xsite</title>
+    <link>http://localhost:1313/tags/math/</link>
+    <description>Recent content in math  on TQA Hugo Xsite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albert Einstein on Math</title>
+      <link>http://localhost:1313/posts/einstein/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/einstein/</guid>
+      <description>Pure mathematics is, in its way, the poetry of logical ideas.
+One seeks the most general ideas of operation which will bring together in simple, logical and unified form the largest possible circle of formal relationships.
+In this effort toward logical beauty spiritual formulas are discovered necessary for the deeper penetration into the laws of nature.
+It is mathematics that offers the exact natural sciences a certain measure of security which, without mathematics, they could not attain.</description>
+    </item>
+    
+    <item>
+      <title>Lie Groups</title>
+      <link>http://localhost:1313/posts/lie-groups/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/lie-groups/</guid>
+      <description>Definition and examples A Lie group is a group (set with an operation of composition) and a topological manifold (space that locally resembles Euclidian space, but which may be curved or distorted on the global level ), such that the law of composition is continuous (small changes in the elements being composed produce small changes in the result).
+Simplest example: set of all rotations of a circle.
+More challenging example: group of all rotations of tri-dimensional space that preserve a fixed origin.</description>
+    </item>
+    
+    <item>
+      <title>Théories Homologiques</title>
+      <link>http://localhost:1313/posts/homologies/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/homologies/</guid>
+      <description>quantam
+YhSzm
+links on Wolfram
+en français sur Wikipedia
+Homologous structures</description>
+    </item>
+    
+    <item>
+      <title>Pandoc Test</title>
+      <link>http://localhost:1313/posts/pandoc/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/pandoc/</guid>
+      <description>
+mathjax : \cos \frac{\pi}{4} = \frac {\sqrt 2}{2} gives:
+\[ \cos \frac{\pi}{4} = \frac {\sqrt 2}{2} \]
+pandoc workflow </description>
+    </item>
+    
+    <item>
+      <title>Galois</title>
+      <link>http://localhost:1313/posts/galois/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/galois/</guid>
+      <description>What Galois theory can prove …​ insolubility by radicals of a specific quintic polynomial with integer coefficients
+duplicating the Cube
+trisecting the angle
+squarring the circle
+construction of regular polygons (17-gon)
+solution of cubic and quartic equations
+structure of finite fields
+the Fundamental theorem of algebra
+trancendence of $ \pi $</description>
+    </item>
+    
+    <item>
+      <title>Eugene Wigner on Math</title>
+      <link>http://localhost:1313/posts/wigner/</link>
+      <pubDate>Thu, 12 Aug 2021 13:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/wigner/</guid>
+      <description>Tomography
+The Unreasonable Effectiveness of Mathematics in the Natural Sciences by Eugene Wigner Darmouth College - Reading List
+The Unreasonable Effectiveness of Mathematics in the Natural Sciences, in Communications in Pure and Applied Mathematics, vol. 13, No. I (February 1960). New York: John Wiley &amp;amp; Sons, Inc. Copyright © 1960 by John Wiley &amp;amp; Sons, Inc.
+Mathematics, rightly viewed, possesses not only truth, but supreme beauty, a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show.</description>
+    </item>
+    
+    <item>
+      <title>Hamming on Math</title>
+      <link>http://localhost:1313/posts/hamming/</link>
+      <pubDate>Thu, 12 Aug 2021 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hamming/</guid>
+      <description>The Unreasonable Effectiveness of Mathematics R. W. HAMMING Reprinted From: The American Mathematical Monthly Volume 87 Number 2 February 1980
+Prologue It is evident from the title that this is a philosophical discussion. I shall not apologize for the philosophy, though I am well aware that most scientists, engineers, and mathematicians have little regard for it; instead, I shall give this short prologue to justify the approach.
+Man, so far as we know, has always wondered about himself, the world around him, and what life is all about.</description>
+    </item>
+    
+    <item>
+      <title>Francis Bacon</title>
+      <link>http://localhost:1313/posts/francis-bacon/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/francis-bacon/</guid>
+      <description>Of Studies – Francis Bacon (Text) To spend too much time in studies is sloth
+Studies serve for delight, for ornament, and for ability. Their chief use for delight, is in privateness and retiring; for ornament, is in discourse; and for ability, is in the judgement and disposition of business. For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best from those that are learned.</description>
+    </item>
+    
+    <item>
+      <title>Page de couverture du Colmez</title>
+      <link>http://localhost:1313/posts/col-mathjax/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/col-mathjax/</guid>
+      <description>1ère de couverture du cours de Pierre Colmez à l’X (absolute path)
+Lagrange 1771: (à 5h du groupe de photos) $ |G| = |H|.|G/H| $
+(Colmez p.41: Le cardinal de G groupe fini est multiple du cardinal du sous-groupe H et du quotient G/H )
+Fourier 1811: (à 9h)
+$ \phi(t) = \int e^{2i\pi t x}\hat\phi(x) dx $ ( p.335 - $ \hat\phi $ transformée de Fourier de $ \phi \in \mathscr L^1 (R^m) $ pour tout x,t $ \in R^m $)</description>
+    </item>
+    
+    <item>
+      <title>Markdown Tests</title>
+      <link>http://localhost:1313/posts/markdown-test/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/markdown-test/</guid>
+      <description>Tiger - static/images/tiger.png
+Thanks to markdown-it for most of the content of this file! &amp;ndash;nm
+h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements (c) (C) (r) (R) (tm) (TM) (p) (P) +-
+&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;
+Emphasis This is bold text fr:&amp;quot;**This is bold text**&amp;quot;
+This is bold text fr:&amp;quot;__This is bold text__&amp;quot;
+This is italic text fr:&amp;quot;*This is italic text*&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>

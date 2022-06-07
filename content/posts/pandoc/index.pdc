@@ -9,7 +9,7 @@ tags:
   - math
   - literature
 markup: pandoc 
-categories: ["pdc"] # "md" "pdc" "viet" "hanyu"
+categories: ["pdc"]
 math: true  # mathjax by js
 s9: true # show s9 social share widgets
 img: pan-doc.png

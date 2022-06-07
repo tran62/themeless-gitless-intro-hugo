@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TQA Hugo Xsite</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on TQA Hugo Xsite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albert Einstein on Math</title>
+      <link>http://localhost:1313/posts/einstein/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/einstein/</guid>
+      <description>Pure mathematics is, in its way, the poetry of logical ideas.
+One seeks the most general ideas of operation which will bring together in simple, logical and unified form the largest possible circle of formal relationships.
+In this effort toward logical beauty spiritual formulas are discovered necessary for the deeper penetration into the laws of nature.
+It is mathematics that offers the exact natural sciences a certain measure of security which, without mathematics, they could not attain.</description>
+    </item>
+    
+    <item>
+      <title>Lie Groups</title>
+      <link>http://localhost:1313/posts/lie-groups/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/lie-groups/</guid>
+      <description>Definition and examples A Lie group is a group (set with an operation of composition) and a topological manifold (space that locally resembles Euclidian space, but which may be curved or distorted on the global level ), such that the law of composition is continuous (small changes in the elements being composed produce small changes in the result).
+Simplest example: set of all rotations of a circle.
+More challenging example: group of all rotations of tri-dimensional space that preserve a fixed origin.</description>
+    </item>
+    
+    <item>
+      <title>Théories Homologiques</title>
+      <link>http://localhost:1313/posts/homologies/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/homologies/</guid>
+      <description>quantam
+YhSzm
+links on Wolfram
+en français sur Wikipedia
+Homologous structures</description>
+    </item>
+    
+    <item>
+      <title>Pandoc Test</title>
+      <link>http://localhost:1313/posts/pandoc/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/pandoc/</guid>
+      <description>
+mathjax : \cos \frac{\pi}{4} = \frac {\sqrt 2}{2} gives:
+\[ \cos \frac{\pi}{4} = \frac {\sqrt 2}{2} \]
+pandoc workflow </description>
+    </item>
+    
+    <item>
+      <title>Galois</title>
+      <link>http://localhost:1313/posts/galois/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/galois/</guid>
+      <description>What Galois theory can prove …​ insolubility by radicals of a specific quintic polynomial with integer coefficients
+duplicating the Cube
+trisecting the angle
+squarring the circle
+construction of regular polygons (17-gon)
+solution of cubic and quartic equations
+structure of finite fields
+the Fundamental theorem of algebra
+trancendence of $ \pi $</description>
+    </item>
+    
+    <item>
+      <title>Thu Hứng</title>
+      <link>http://localhost:1313/posts/thu-hung/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/thu-hung/</guid>
+      <description>Thu hứng 秋興 Cảm xúc mùa thu 玉露凋傷楓樹林， Ngọc lộ điêu thương phong thụ lâm, Trong rừng phong, móc ngọc tơi bời, 巫山巫峽氣蕭森。 Vu sơn, Vu giáp khí tiêu sâm. Nơi núi Vu và kẽm Vu, khí ảm đạm hiu hắt. 江間波浪兼天湧， Giang gian ba lãng kiêm thiên dũng, Dưới lòng sông, sóng và trời (soi bóng) cùng dâng trào, 塞上風雲接地陰。 Tái thượng phong vân tiếp địa âm. Ngoài ải, gió và mây tiếp nối với đất che mờ mịt.</description>
+    </item>
+    
+    <item>
+      <title>Asciidoc Test</title>
+      <link>http://localhost:1313/posts/asciidoc-test/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/asciidoc-test/</guid>
+      <description>Sunset from articles/asciidoc-test/` local directory
+Asciidoctor Demo Footnotes fnote1.[1] (fnote1.footnote:one\[Text footnote n°1 blabla])
+fnote2.[2] (fnote2.footnote:\[Text of footnote n° 2 blablabla])
+fnote3.[1] (fnote3.footnote:one\[])
+Abbreviations include command coded:
+include::acronymns.txt[] containing:
+:afaik: pass:[&amp;lt;abbr title=&amp;#34;As far as I know&amp;#34;&amp;gt;AFAIK&amp;lt;/abbr&amp;gt;] :hateoas: pass:[&amp;lt;abbr title=&amp;#34;Hypermedia as the Engine of Application State &amp;#34;&amp;gt;HATEOAS&amp;lt;/abbr&amp;gt;] :html: pass:[&amp;lt;abbr title=&amp;#34;HyperText Markup Language&amp;#34;&amp;gt;HTML&amp;lt;/abbr&amp;gt;] ... AFAIK HTML is a publishing language.
+IMHO or IMHO it’s non case-sensitive.
+HATEOAS
+REST
+RGPD en français
+GDPR in english</description>
+    </item>
+    
+    <item>
+      <title>Eugene Wigner on Math</title>
+      <link>http://localhost:1313/posts/wigner/</link>
+      <pubDate>Thu, 12 Aug 2021 13:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/wigner/</guid>
+      <description>Tomography
+The Unreasonable Effectiveness of Mathematics in the Natural Sciences by Eugene Wigner Darmouth College - Reading List
+The Unreasonable Effectiveness of Mathematics in the Natural Sciences, in Communications in Pure and Applied Mathematics, vol. 13, No. I (February 1960). New York: John Wiley &amp;amp; Sons, Inc. Copyright © 1960 by John Wiley &amp;amp; Sons, Inc.
+Mathematics, rightly viewed, possesses not only truth, but supreme beauty, a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show.</description>
+    </item>
+    
+    <item>
+      <title>Hamming on Math</title>
+      <link>http://localhost:1313/posts/hamming/</link>
+      <pubDate>Thu, 12 Aug 2021 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hamming/</guid>
+      <description>The Unreasonable Effectiveness of Mathematics R. W. HAMMING Reprinted From: The American Mathematical Monthly Volume 87 Number 2 February 1980
+Prologue It is evident from the title that this is a philosophical discussion. I shall not apologize for the philosophy, though I am well aware that most scientists, engineers, and mathematicians have little regard for it; instead, I shall give this short prologue to justify the approach.
+Man, so far as we know, has always wondered about himself, the world around him, and what life is all about.</description>
+    </item>
+    
+    <item>
+      <title>Tôn Tử Binh Pháp</title>
+      <link>http://localhost:1313/posts/ton-tu/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ton-tu/</guid>
+      <description>Tôn Tử binh pháp (chữ Hán: 孫子兵法 / 孙子兵法; Pinyin: Sūnzĭ Bīngfǎ; WG: Sun1 Tzu3 Ping1 Fa3;) soạn thảo vào năm 512 TCN đời Xuân Thu. wikipedia link
+Tôn tử binh pháp 13 thiên gồm:
+Thiên thứ nhất: Kế sách (計索，计索)
+Thiên thứ hai: Tác chiến (作戰，作战)
+Thiên thứ ba: Mưu công (謀攻， 谋攻)
+Thiên thứ tư: Quân Hình (軍形，军形)
+Thiên thứ năm: Binh Thế (兵勢，兵势)
+Thiên thứ sáu: Hư thực (虛實，虚实)</description>
+    </item>
+    
+    <item>
+      <title>Installations</title>
+      <link>http://localhost:1313/posts/installations/</link>
+      <pubDate>Sat, 31 Jul 2021 19:07:25 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/installations/</guid>
+      <description>Hard work is simply the refuge of people who have nothing to do
+— Oscar Wilde Installation of this site Install Hugo &amp;gt;git clone https://github.com/gohugo.io/hugo.git &amp;gt;cd hugo &amp;gt;brew install go &amp;gt;go install --tags extended Install InfiniteInk’s themeless-gitless-intro-hugo &amp;gt;git clone https://github.com/infiniteink/themesless-gitless-intro-hugo.git &amp;gt;hugo server -D --gc --disableFastRender Install Asciidoctor &amp;gt;brew install Asciidoctor &amp;gt;brew install ruby &amp;gt;brew install brew-gem create asciidoctor executable shell
+#!/bin/bash if [ -f /usr/local/bin/asciidoctor ]; then ad=&amp;#34;/usr/local/bin/asciidoctor&amp;#34; else ad=&amp;#34;/usr/bin/asciidoctor&amp;#34; fi $ad -B .</description>
+    </item>
+    
+    <item>
+      <title>Trà Kinh</title>
+      <link>http://localhost:1313/posts/tra-kinh/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tra-kinh/</guid>
+      <description>Vũ Thế Ngọc - Trà Kinh Nghệ thuật thưởng trà trong lịch-sử và văn hoá Đông phương
+&amp;#34;Dân tộc Việt Nam là một trong những dân tộc đã biết đến cây trà đầu tiên trong lịch sử loài người. Người Việt Nam đã uống trà từ ngàn năm nay, nhưng có lẽ đây là quyển sách đầu tiên viết về nghệ thuật uống trà của Đông phương bằng Việt ngữ tương đối đầy đủ hơn cả.</description>
+    </item>
+    
+    <item>
+      <title>README</title>
+      <link>http://localhost:1313/posts/readme/</link>
+      <pubDate>Mon, 26 Jul 2021 11:24:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/readme/</guid>
+      <description>Activate server on localhost:1313 : %hugo server -D --gc --disableFastRender For creating a new article in adoc : %hugo new articles/title-article.adoc Update git remote repo and web: %git add . %git commit -m &amp;#34;comment&amp;#34; %git push hugo is the main command, used to build your Hugo site.
+Hugo is a Static Site Generator built by spf13 and friends in Go.
+Complete documentation is available at gohugo.io/.
+Usage:
+hugo [flags] hugo [command] Available Commands:</description>
+    </item>
+    
+    <item>
+      <title>Dhammapada</title>
+      <link>http://localhost:1313/posts/dhammapada/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/dhammapada/</guid>
+      <description>Si l’on doit ne retenir qu’un seul thème et désigner celui qui soutient tout l’ouvrage, ce ne peut être que le nirvana, l’extinction des désirs qui conduit à la libération définitive.
+La foi doit être une conviction fondée sur une compréhension approfondie de la voie choisie.
+Thèmes fondateurs de l’enseignement bouddhique:
+1 Le caractère impermanent et illusoire du monde.
+2 La nature douloureuse de l’existence
+3 La vanité des attachements et des désirs.</description>
+    </item>
+    
+    <item>
+      <title>Francois Jullien</title>
+      <link>http://localhost:1313/posts/francois-jullien/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/francois-jullien/</guid>
+      <description>Car, en concevant :
+une efficacité qui ne procède pas par modélisation, Traité de l’efficacité
+une sagesse pour qui avancer une idée est déjà verser dans la partialité Un sage est sans idée
+une image qui soit moins mimétique que vectrice d’énergie La Grande Image n’a pas de forme
+un &amp;#34;mal&amp;#34; qui ne soit qu’obstruction du cours du monde comme de la vie Du Mal/du Négatif
+aussi bien qu’un &amp;#34;vivre&amp;#34; qui ne soit plus suspendu au bonheur Nourrir Sa Vie</description>
+    </item>
+    
+    <item>
+      <title>Hàn San Tự</title>
+      <link>http://localhost:1313/posts/han-san-tu/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/han-san-tu/</guid>
+      <description>Hàn San Tự Các
+Lắng biết mọi người đã ngủ yên cả, vị thần tử của giang sơn Trung Hoa vắt chân chữ ngũ, khe khẽ ngâm một bài thơ cổ, qua nỗi xúc động đột nhiên tụ lại trong người:
+Uỵt loọc, vú thày sướng mủn thín,
+(Nguyệt lạc, ô đề sương mãn thiên)
+Coóng phống, dì phố, tui sàu mìn.
+(Giang phong, ngư hoả, đối sầu miên)</description>
+    </item>
+    
+    <item>
+      <title>La littérature pour quoi faire?</title>
+      <link>http://localhost:1313/posts/acompagnon/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/acompagnon/</guid>
+      <description>Antoine Compagnon 🔖Note La littérature, pour quoi faire ? - Leçon inaugurale prononcée le jeudi 30 novembre 2006 au Collège de France. (texte intégral) Extraits choisis : Quitter l’éloquence pour les mathématiques, c’est d’être dégoûté d’une maîtresse de dix-huit ans et devenir amoureux d’une vieille Jean-Louis Guez de Balzac, lettre à M. de Tissandier, 23 mars 1628.
+Valéry ne pensait rien de bon des historiens de la littérature:
+Ces messieurs ne servent à rien, ne disent rien.</description>
+    </item>
+    
+    <item>
+      <title>Francis Bacon</title>
+      <link>http://localhost:1313/posts/francis-bacon/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/francis-bacon/</guid>
+      <description>Of Studies – Francis Bacon (Text) To spend too much time in studies is sloth
+Studies serve for delight, for ornament, and for ability. Their chief use for delight, is in privateness and retiring; for ornament, is in discourse; and for ability, is in the judgement and disposition of business. For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best from those that are learned.</description>
+    </item>
+    
+    <item>
+      <title>Page de couverture du Colmez</title>
+      <link>http://localhost:1313/posts/col-mathjax/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/col-mathjax/</guid>
+      <description>1ère de couverture du cours de Pierre Colmez à l’X (absolute path)
+Lagrange 1771: (à 5h du groupe de photos) $ |G| = |H|.|G/H| $
+(Colmez p.41: Le cardinal de G groupe fini est multiple du cardinal du sous-groupe H et du quotient G/H )
+Fourier 1811: (à 9h)
+$ \phi(t) = \int e^{2i\pi t x}\hat\phi(x) dx $ ( p.335 - $ \hat\phi $ transformée de Fourier de $ \phi \in \mathscr L^1 (R^m) $ pour tout x,t $ \in R^m $)</description>
+    </item>
+    
+    <item>
+      <title>Markdown Tests</title>
+      <link>http://localhost:1313/posts/markdown-test/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/markdown-test/</guid>
+      <description>Tiger - static/images/tiger.png
+Thanks to markdown-it for most of the content of this file! &amp;ndash;nm
+h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements (c) (C) (r) (R) (tm) (TM) (p) (P) +-
+&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;
+Emphasis This is bold text fr:&amp;quot;**This is bold text**&amp;quot;
+This is bold text fr:&amp;quot;__This is bold text__&amp;quot;
+This is italic text fr:&amp;quot;*This is italic text*&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description>Hugo cards is a Bootstrap based theme ported from the Jekyll theme Webjeda-cards. Any Bootstrap element can be used in the theme.
+For more themes, visit Hugo Themes
+Does the theme deserve a star?
+Star</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/pages/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/contact/</guid>
+      <description>For Hugo Cards theme visit Hugo Aguirra site</description>
+    </item>
+    
+  </channel>
+</rss>

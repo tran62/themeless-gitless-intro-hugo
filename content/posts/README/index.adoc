@@ -7,6 +7,8 @@ date: 2021-07-26T11:24:00
 subtitle:
 tags:
   - meta
+  - tech
+  - coding
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc" "viet"
 img: qa_2016-10-23_tokyo.jpg

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>viet on TQA Hugo Xsite</title>
+    <link>http://localhost:1313/tags/viet/</link>
+    <description>Recent content in viet on TQA Hugo Xsite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/viet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albert Einstein on Math</title>
+      <link>http://localhost:1313/posts/einstein/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/einstein/</guid>
+      <description>Pure mathematics is, in its way, the poetry of logical ideas.
+One seeks the most general ideas of operation which will bring together in simple, logical and unified form the largest possible circle of formal relationships.
+In this effort toward logical beauty spiritual formulas are discovered necessary for the deeper penetration into the laws of nature.
+It is mathematics that offers the exact natural sciences a certain measure of security which, without mathematics, they could not attain.</description>
+    </item>
+    
+    <item>
+      <title>Thu Hứng</title>
+      <link>http://localhost:1313/posts/thu-hung/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/thu-hung/</guid>
+      <description>Thu hứng 秋興 Cảm xúc mùa thu 玉露凋傷楓樹林， Ngọc lộ điêu thương phong thụ lâm, Trong rừng phong, móc ngọc tơi bời, 巫山巫峽氣蕭森。 Vu sơn, Vu giáp khí tiêu sâm. Nơi núi Vu và kẽm Vu, khí ảm đạm hiu hắt. 江間波浪兼天湧， Giang gian ba lãng kiêm thiên dũng, Dưới lòng sông, sóng và trời (soi bóng) cùng dâng trào, 塞上風雲接地陰。 Tái thượng phong vân tiếp địa âm. Ngoài ải, gió và mây tiếp nối với đất che mờ mịt.</description>
+    </item>
+    
+    <item>
+      <title>Trà Kinh</title>
+      <link>http://localhost:1313/posts/tra-kinh/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tra-kinh/</guid>
+      <description>Vũ Thế Ngọc - Trà Kinh Nghệ thuật thưởng trà trong lịch-sử và văn hoá Đông phương
+&amp;#34;Dân tộc Việt Nam là một trong những dân tộc đã biết đến cây trà đầu tiên trong lịch sử loài người. Người Việt Nam đã uống trà từ ngàn năm nay, nhưng có lẽ đây là quyển sách đầu tiên viết về nghệ thuật uống trà của Đông phương bằng Việt ngữ tương đối đầy đủ hơn cả.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,10 +5,12 @@ title: Hàn San Tự
 date: 2021-07-17
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
-categories: ["viet"] # "md" "pdc" "viet"
+categories: ["adoc"] # "md" "pdc" "viet"
 tags:
   - literature
   - philo
+  - viet
+  - chine
 s9: true
 img: han-san-tu-cac.jpg
 ---

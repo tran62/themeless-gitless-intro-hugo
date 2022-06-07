@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html>
+
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Asciidoc Test - TQA Hugo Xsite</title>
+<meta name="description" content="Sunset from articles/asciidoc-test/` local directory
+Asciidoctor Demo Footnotes fnote1.[1] (fnote1.footnote:one\[Text footnote n°1 blabla])
+fnote2.[2] (fnote2.footnote:\[Text of footnote n° 2 blablabla])
+fnote3.[1] (fnote3.footnote:one\[])
+Abbreviations include command coded:
+include::acronymns.txt[] containing:
+:afaik: pass:[&amp;lt;abbr title=&amp;#34;As far as I know&amp;#34;&amp;gt;AFAIK&amp;lt;/abbr&amp;gt;] :hateoas: pass:[&amp;lt;abbr title=&amp;#34;Hypermedia as the Engine of Application State &amp;#34;&amp;gt;HATEOAS&amp;lt;/abbr&amp;gt;] :html: pass:[&amp;lt;abbr title=&amp;#34;HyperText Markup Language&amp;#34;&amp;gt;HTML&amp;lt;/abbr&amp;gt;] ... AFAIK HTML is a publishing language.
+IMHO or IMHO it’s non case-sensitive.
+HATEOAS
+REST
+RGPD en français
+GDPR in english"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://localhost:1313/posts/asciidoc-test/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Sunset from articles/asciidoc-test/` local directory
+Asciidoctor Demo Footnotes fnote1.[1] (fnote1.footnote:one\[Text footnote n°1 blabla])
+fnote2.[2] (fnote2.footnote:\[Text of footnote n° 2 blablabla])
+fnote3.[1] (fnote3.footnote:one\[])
+Abbreviations include command coded:
+include::acronymns.txt[] containing:
+:afaik: pass:[&amp;lt;abbr title=&amp;#34;As far as I know&amp;#34;&amp;gt;AFAIK&amp;lt;/abbr&amp;gt;] :hateoas: pass:[&amp;lt;abbr title=&amp;#34;Hypermedia as the Engine of Application State &amp;#34;&amp;gt;HATEOAS&amp;lt;/abbr&amp;gt;] :html: pass:[&amp;lt;abbr title=&amp;#34;HyperText Markup Language&amp;#34;&amp;gt;HTML&amp;lt;/abbr&amp;gt;] ... AFAIK HTML is a publishing language.
+IMHO or IMHO it’s non case-sensitive.
+HATEOAS
+REST
+RGPD en français
+GDPR in english" />
+<meta name="twitter:title" content="Asciidoc Test - TQA Hugo Xsite" />
+<meta name="twitter:site" content="https://twitter.com/qatran" />
+<meta name="twitter:creator" content="https://twitter.com/qatran" />
+
+
+<meta property="og:type" content="article" />
+<meta content="Asciidoc Test - TQA Hugo Xsite" property="og:title">
+<meta content="Sunset from articles/asciidoc-test/` local directory
+Asciidoctor Demo Footnotes fnote1.[1] (fnote1.footnote:one\[Text footnote n°1 blabla])
+fnote2.[2] (fnote2.footnote:\[Text of footnote n° 2 blablabla])
+fnote3.[1] (fnote3.footnote:one\[])
+Abbreviations include command coded:
+include::acronymns.txt[] containing:
+:afaik: pass:[&amp;lt;abbr title=&amp;#34;As far as I know&amp;#34;&amp;gt;AFAIK&amp;lt;/abbr&amp;gt;] :hateoas: pass:[&amp;lt;abbr title=&amp;#34;Hypermedia as the Engine of Application State &amp;#34;&amp;gt;HATEOAS&amp;lt;/abbr&amp;gt;] :html: pass:[&amp;lt;abbr title=&amp;#34;HyperText Markup Language&amp;#34;&amp;gt;HTML&amp;lt;/abbr&amp;gt;] ... AFAIK HTML is a publishing language.
+IMHO or IMHO it’s non case-sensitive.
+HATEOAS
+REST
+RGPD en français
+GDPR in english" property="og:description">
+<meta property="og:url" content="http://localhost:1313/posts/asciidoc-test/" />
+<meta property="og:site_name" content="TQA Hugo Xsite" />
+<meta property="article:section" content="adoc" />
+<meta property="article:published_time" content="2021-08-16 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+<script type="application/ld+json">
+{ 
+    "@context": "http://schema.org", 
+    "@type": "BlogPosting",
+    "headline": "Asciidoc Test",
+    "genre": "adoc",  
+    "url": "http:\/\/localhost:1313\/posts\/asciidoc-test\/",
+    "datePublished": "2021-08-16 00:00:00 \u002b0000 UTC",
+    "description": "Sunset from articles\/asciidoc-test\/` local directory\nAsciidoctor Demo Footnotes fnote1.[1] (fnote1.footnote:one\\[Text footnote n°1 blabla])\nfnote2.[2] (fnote2.footnote:\\[Text of footnote n° 2 blablabla])\nfnote3.[1] (fnote3.footnote:one\\[])\nAbbreviations include command coded:\ninclude::acronymns.txt[] containing:\n:afaik: pass:[\u0026lt;abbr title=\u0026#34;As far as I know\u0026#34;\u0026gt;AFAIK\u0026lt;\/abbr\u0026gt;] :hateoas: pass:[\u0026lt;abbr title=\u0026#34;Hypermedia as the Engine of Application State \u0026#34;\u0026gt;HATEOAS\u0026lt;\/abbr\u0026gt;] :html: pass:[\u0026lt;abbr title=\u0026#34;HyperText Markup Language\u0026#34;\u0026gt;HTML\u0026lt;\/abbr\u0026gt;] ... AFAIK HTML is a publishing language.\nIMHO or IMHO it’s non case-sensitive.\nHATEOAS\nREST\nRGPD en français\nGDPR in english",
+    "author": {
+        "@type": "Person",
+        "name": ""
+    }
+ }
+</script>
+
+
+
+
+<link rel="stylesheet" href="/sass/main.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/custom.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://localhost:1313/">TQA Hugo Xsite</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+        <li><a href="http://localhost:1313/pages/about/">About</a></li>
+        <li><a href="http://localhost:1313/pages/contact/">Contact</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Download <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a target="_blank" href="https://github.com/bul-ikana/hugo-cards">Project</a></li>
+            <li><a href="https://github.com/bul-ikana/hugo-cards.git">Download</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a target="_blank" href="https://themes.gohugo.io/">More Themes</a></li>
+          </ul>
+        </li>
+        <li><a href="http://localhost:1313/tags/">Tags</a></li>
+        <li><a href="http://localhost:1313/categories/">Categories</a></li>
+        <li><a href="http://localhost:1313/search/">Search</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</header>
+
+
+    <div class="container">
+      <div class="wrapper">
+        
+<div class="row">
+<div class="col-md-8">
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+          <header class="post-header">
+            <h1 class="post-title" itemprop="name headline">Asciidoc Test</h1>
+            <p class="post-meta"><time datetime='2021-08-16T00:00:00Z' itemprop="datePublished">August 16, 2021</time></p>
+                 
+          </header>
+
+          <div class="post-content" itemprop="articleBody">
+            
+<div class="imageblock">
+<div class="content">
+<img src="sunset.jpg" alt="Sunset"/>
+</div>
+</div>
+<div class="paragraph">
+<p>Sunset from <code>articles/asciidoc-test/`</code> local directory</p>
+</div>
+<div class="sect1">
+<h2 id="_asciidoctor_demo"><a class="anchor" href="#_asciidoctor_demo"></a><a class="link" href="#_asciidoctor_demo">Asciidoctor Demo</a></h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="_footnotes"><a class="anchor" href="#_footnotes"></a><a class="link" href="#_footnotes">Footnotes</a></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>fnote1.<sup class="footnote" id="_footnote_one">[<a id="_footnoteref_1" class="footnote" href="#_footnotedef_1" title="View footnote.">1</a>]</sup>
+(fnote1.footnote:one\[Text footnote n°1 blabla])</p>
+</div>
+<div class="paragraph">
+<p>fnote2.<sup class="footnote">[<a id="_footnoteref_2" class="footnote" href="#_footnotedef_2" title="View footnote.">2</a>]</sup>
+(fnote2.footnote:\[Text of footnote n° 2 blablabla])</p>
+</div>
+<div class="paragraph">
+<p>fnote3.<sup class="footnoteref">[<a class="footnote" href="#_footnotedef_1" title="View footnote.">1</a>]</sup>
+(fnote3.footnote:one\[])</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_abbreviations"><a class="anchor" href="#_abbreviations"></a><a class="link" href="#_abbreviations">Abbreviations</a></h2>
+<div class="sectionbody">
+<hr/>
+<div class="paragraph">
+<p><code>include</code> command coded:</p>
+</div>
+<div class="paragraph">
+<p><code>include::acronymns.txt[]</code>
+containing:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>:afaik: pass:[&lt;abbr title=&#34;As far as I know&#34;&gt;AFAIK&lt;/abbr&gt;]
+:hateoas: pass:[&lt;abbr title=&#34;Hypermedia as the Engine of Application State &#34;&gt;HATEOAS&lt;/abbr&gt;]
+:html: pass:[&lt;abbr title=&#34;HyperText Markup Language&#34;&gt;HTML&lt;/abbr&gt;]
+...</pre>
+</div>
+</div>
+<hr/>
+<div class="paragraph">
+<p><abbr title="As far as I know">AFAIK</abbr> <abbr title="HyperText Markup Language">HTML</abbr> is a publishing language.</p>
+</div>
+<div class="paragraph">
+<p><abbr title="In my humble opinion">IMHO</abbr> or <abbr title="In my humble opinion">IMHO</abbr> it’s non case-sensitive.</p>
+</div>
+<div class="paragraph">
+<p><abbr title="Hypermedia as the Engine of Application State ">HATEOAS</abbr></p>
+</div>
+<div class="paragraph">
+<p><abbr title="Representation State Transfer">REST</abbr></p>
+</div>
+<div class="paragraph">
+<p><abbr title="Règlement Général sur la Protection des Données (en:GDPR)">RGPD</abbr> en français</p>
+</div>
+<div class="paragraph">
+<p><abbr title="General Data Protection Regulation (fr:RGPD)">GDPR</abbr> in english</p>
+</div>
+<hr/>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_bibliography_examples_of_references"><a class="anchor" href="#_bibliography_examples_of_references"></a><a class="link" href="#_bibliography_examples_of_references">Bibliography examples of references</a></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="#one">[one]</a> and <a href="#one">[one]</a> and once more <a href="#one">[one]</a></p>
+</div>
+<div class="paragraph">
+<p><a href="#two">[two]</a> second ref</p>
+</div>
+<hr/>
+<hr/>
+</div>
+</div>
+<div class="sect1">
+<h2 id="first"><a class="anchor" href="#first"></a><a class="link" href="#first">First Steps with </a><a href="http://asciidoc.org">AsciiDoc</a></h2>
+<div class="sectionbody">
+<div class="ulist">
+<div class="title">Inline markup</div>
+<ul>
+<li>
+<p>single quotes around a phrase place &#39;emphasis&#39;</p>
+</li>
+<li>
+<p>astericks around a phrase make the text <strong>bold</strong></p>
+</li>
+<li>
+<p>double astericks around one or more <strong>l</strong>etters in a word make those letters bold</p>
+</li>
+<li>
+<p>double underscore around a <em>sub</em>string in a word emphasize that substring</p>
+</li>
+<li>
+<p>use carrots around characters to make them <sup>super</sup>script</p>
+</li>
+<li>
+<p>use tildes around characters to make them <sub>sub</sub>script</p>
+</li>
+<li>
+<p>to pass through <u>HTML</u> directly, surround the text with triple plus</p>
+</li>
+</ul>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>characters can be escaped using a \</p>
+<div class="ulist">
+<ul>
+<li>
+<p>for instance, you can escape a quote inside emphasized text like &#39;Here&#39;s Johnny!&#39;</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>you can safely use reserved XML characters like &lt;, &gt; and &amp;, which are escaped when rendering</p>
+</li>
+<li>
+<p>force a space between inline elements using the {sp} attribute</p>
+</li>
+<li>
+<p>hold text together with an intrinsic non-breaking space attribute, {nbsp}</p>
+</li>
+<li>
+<p>handle words with unicode characters like in the name Gregory Romé</p>
+</li>
+<li>
+<p>claim your copyright ©, registered trademark ® or trademark ™</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>You can write text <a href="http://example.com">with inline links</a>, optionally using an explicit <a href="http://example.com">link prefix</a>. In either case, the link can have a <a href="http://example.com?foo=bar&amp;lang=en">query string</a>.</p>
+</div>
+<div class="paragraph">
+<p>If you want to break a line<br/>
+just end it in a + sign<br/>
+and continue typing on the next line.</p>
+</div>
+<div class="sect2">
+<h3 id="_lists_upon_lists"><a class="anchor" href="#_lists_upon_lists"></a><a class="link" href="#_lists_upon_lists">Lists Upon Lists</a></h3>
+<div class="ulist">
+<div class="title">Adjacent lists</div>
+<ul>
+<li>
+<p>this list</p>
+</li>
+<li>
+<p>should join</p>
+</li>
+<li>
+<p>to have</p>
+</li>
+<li>
+<p>four items</p>
+</li>
+</ul>
+</div>
+<div id="numbered" class="olist arabic">
+<div class="title">Numbered lists</div>
+<ol class="arabic">
+<li>
+<p>These items</p>
+</li>
+<li>
+<p>will be auto-numbered</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>and can be nested</p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>A numbered list can nest</p>
+<div class="ulist">
+<ul>
+<li>
+<p>unordered</p>
+</li>
+<li>
+<p>list</p>
+</li>
+<li>
+<p>items</p>
+</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<div class="title">Statement</div>
+<p>I swear I left it in &#39;Guy&#39;s&#39; car. Let&#39;s go look for it.</p>
+</div>
+<div id="defs" class="dlist">
+<dl>
+<dt class="hdlist1">term</dt>
+<dd>
+<p>  definition
+line two</p>
+</dd>
+<dt class="hdlist1"><a id="another_term"></a>another term</dt>
+<dd>
+<p>another definition, which can be literal (indented) or regular paragraph</p>
+</dd>
+</dl>
+</div>
+<div class="paragraph">
+<p>This should be a standalone paragraph, not grabbed by the definition list.</p>
+</div>
+<div id="nested" class="ulist">
+<ul>
+<li>
+<p>first level
+written on two lines</p>
+</li>
+<li>
+<p>first level</p>
+<div class="literalblock">
+<div class="content">
+<pre>with this literal text</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>second level</p>
+<div class="ulist">
+<ul>
+<li>
+<p>third level</p>
+<div class="ulist">
+<ul>
+<li>
+<p>fourth level</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>back to<br/>
+first level</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Let’s make a horizontal rule…​</p>
+</div>
+<hr/>
+<div class="paragraph">
+<p>then take a break.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_were_back"><a class="anchor" href="#_were_back"></a><a class="link" href="#_were_back">We’re back!</a></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Want to see a image::/images/tiger.png[Tiger]?</p>
+</div>
+<div class="paragraph">
+<p>Do you feel safer with the tiger in a box?</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="/images/tiger.png" alt="from static/images/"/>
+</div>
+<div class="title">Figure 1. Tiger in a box</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_included_section"><a class="anchor" href="#_included_section"></a><a class="link" href="#_included_section">Included Section</a></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Look, I came from out of the <span class="blue">blue</span>!</p>
+</div>
+<div class="openblock">
+<div class="content">
+<div class="paragraph">
+<p>I’m keepin&#39; it open.</p>
+</div>
+<div class="paragraph">
+<p>An &#39;open block&#39;, like this one, can contain other blocks.</p>
+</div>
+<div class="paragraph">
+<p>It can also act as any other block. (TODO)</p>
+</div>
+</div>
+</div>
+<div class="listingblock">
+<div class="title">Asciidoctor usage example, should contain 3 lines</div>
+<div class="content">
+<pre class="highlight"><code class="language-ruby" data-lang="ruby">doc = Asciidoctor::Document.new(&#34;*This* is it!&#34;, :header_footer =&gt; false)
+
+puts doc.render</code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Here’s what it outputs (using the built-in templates):</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>&lt;div class=&#34;paragraph&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;This&lt;/strong&gt; is it!&lt;/p&gt;
+&lt;/div&gt;</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_quotes"><a class="anchor" href="#_quotes"></a><a class="link" href="#_quotes">``Quotes&#39;&#39;</a></h3>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>AsciiDoc is &#39;so&#39; <strong>powerful</strong>!</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>This verse comes to mind.</p>
+</div>
+<div class="verseblock">
+<pre class="content">La la la</pre>
+</div>
+<div class="paragraph">
+<p>Here’s another quote:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth.</p>
+</div>
+</blockquote>
+<div class="attribution">
+— Sir Arthur Conan Doyle<br/>
+<cite>The Adventures of Sherlock Holmes</cite>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="literally"><a class="anchor" href="#literally"></a><a class="link" href="#literally">Getting Literal</a></h2>
+<div class="sectionbody">
+<div class="literalblock">
+<div class="content">
+<pre>Want to get literal? Just prefix a line with a space (just one will do).</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>I&#39;ll join that party, too.</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>We forgot to mention in <a href="#numbered">Numbered lists</a> that you can change the numbering style.</p>
+</div>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>first item (yeah!)</p>
+</li>
+<li>
+<p>second item, looking <code>so mono</code></p>
+</li>
+<li>
+<p>third item, mono it is!</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="wrapup"><a class="anchor" href="#wrapup"></a><a class="link" href="#wrapup">Wrap-up</a></h2>
+<div class="sectionbody">
+<div class="admonitionblock note">
+<table>
+<tbody><tr>
+<td class="icon">
+<div class="title">🔖Note</div>
+</td>
+<td class="content">
+AsciiDoc is quite cool, you should try it!
+</td>
+</tr>
+</tbody></table>
+</div>
+<div class="admonitionblock tip">
+<table>
+<tbody><tr>
+<td class="icon">
+<div class="title">💡Tip</div>
+</td>
+<td class="content">
+<div class="title">Info</div>
+<div class="paragraph">
+<p>Go to this URL to learn more about it:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://asciidoc.org" class="bare">asciidoc.org</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Or you could return to the <a href="#first">First Steps</a> or <a href="#purpose">Purpose</a>.</p>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div class="paragraph">
+<p>Here’s a reference to the definition of <a href="#another_term">another term</a>, in case you forgot it.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tbody><tr>
+<td class="icon">
+<div class="title">🔖Note</div>
+</td>
+<td class="content">
+One more thing. Happy documenting!
+</td>
+</tr>
+</tbody></table>
+</div>
+<div class="paragraph">
+<p><a id="google"></a>When all else fails, head over to <a href="http://google.com" class="bare">google.com</a>.</p>
+</div>
+<hr/>
+<div class="paragraph">
+<p>Syntax highlighting (js)</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code class="language-js" data-lang="js">var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));</code></pre>
+</div>
+</div>
+<hr/>
+<hr/>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_bibliography"><a class="anchor" href="#_bibliography"></a><a class="link" href="#_bibliography">Bibliography:</a></h2>
+<div class="sectionbody">
+<div class="olist bibliography">
+<ol class="bibliography">
+<li>
+<p><a id="one"></a>[one]  E. P. Wigner, The unreasonable effectiveness of mathematics in the natural sciences, Comm. Pure Appl. Math., 13 (Feb. 1960). <a href="https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences">Wikipedia</a></p>
+</li>
+<li>
+<p><a id="two"></a>[two] Author name, Title, Editor, date-of-publication</p>
+</li>
+</ol>
+</div>
+<div class="sect2">
+<h3 id="_subscript_superscript"><a class="anchor" href="#_subscript_superscript"></a><a class="link" href="#_subscript_superscript">Subscript / Superscript</a></h3>
+<div class="ulist">
+<ul>
+<li>
+<p>19<sup>th</sup> coded: <code>19^th^</code></p>
+</li>
+<li>
+<p>H<sub>2</sub>O  coded: <code>H~2~O</code></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_citations"><a class="anchor" href="#_citations"></a><a class="link" href="#_citations">Citations</a></h3>
+<div class="paragraph">
+<p>Citation.<sup class="footnote" id="_footnote_cita">[<a id="_footnoteref_3" class="footnote" href="#_footnotedef_3" title="View footnote.">3</a>]</sup></p>
+</div>
+<div class="paragraph">
+<p>Citation1.<sup class="footnoteref">[<a class="footnote" href="#_footnotedef_3" title="View footnote.">3</a>]</sup></p>
+</div>
+<div class="paragraph">
+<p>citation2.<sup class="footnoteref">[<a class="footnote" href="#_footnotedef_3" title="View footnote.">3</a>]</sup></p>
+</div>
+<div class="paragraph">
+<p>citation3:<sup class="footnoteref">[<a class="footnote" href="#_footnotedef_3" title="View footnote.">3</a>]</sup>.</p>
+</div>
+<hr/>
+</div>
+<div class="sect2">
+<h3 id="_definition_lists"><a class="anchor" href="#_definition_lists"></a><a class="link" href="#_definition_lists">Definition lists</a></h3>
+<div class="paragraph">
+<p>Term 1
+:   Definition 1
+with lazy continuation.</p>
+</div>
+<div class="paragraph">
+<p>Term 2
+:   Definition 2 with <strong>inline markup</strong></p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>{ some code, part of Definition 2 }</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Third paragraph of definition 2.</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>coded:</p>
+</div>
+<div class="paragraph">
+<p>Term 1</p>
+</div>
+<div class="paragraph">
+<p>\:   Definition 1
+with lazy continuation.</p>
+</div>
+<div class="paragraph">
+<p>Term 2</p>
+</div>
+<div class="paragraph">
+<p>\:   Definition 2 with <strong>inline markup</strong></p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>{ some code, part of Definition 2 }</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Third paragraph of definition 2.</pre>
+</div>
+</div>
+<hr/>
+<div class="ulist">
+<ul>
+<li>
+<p>End test text <strong>*</strong></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footnotes">
+<hr/>
+<div class="footnote" id="_footnotedef_1">
+<a href="#_footnoteref_1">1</a>. Text of footnote n°1 blabla
+</div>
+<div class="footnote" id="_footnotedef_2">
+<a href="#_footnoteref_2">2</a>. Text of footnote n° 2 blablabla
+</div>
+<div class="footnote" id="_footnotedef_3">
+<a href="#_footnoteref_3">3</a>. John Doe, &#34;Frogs,&#34; <strong>Journal of Amphibians</strong> 44 (1999); Susan Smith, &#34;Flies,&#34; <strong>Journal of Insects</strong> (2000); Susan Smith, &#34;Bees,&#34; <strong>Journal of Insects</strong> (2004).
+</div>
+</div>
+
+          </div>
+
+    </article>
+    <div class="row">
+        
+    </div>
+    
+    <div class="row">
+            <ul class="pager">
+             
+                    <li><a class="next" href="http://localhost:1313/posts/thu-hung/">&laquo; Thu Hứng</a></li>
+              
+              
+                <li><a class="previous" href="http://localhost:1313/posts/wigner/">Eugene Wigner on Math &raquo;</a></li>
+              
+            </ul>
+    </div>
+</div>
+
+
+<div class="col-md-4 mt20">
+        <div class="post-img">
+            
+            
+              
+                <img width="100%" src="/posts/asciidoc-test/sunset.jpg" alt="sunset.jpg">
+              
+            
+            
+        </div>
+            
+        
+        <div class="mt10 recent">
+            <h2>Recent articles</h2>        
+             <ul>
+                
+
+                      <li>
+                      <p><a href="http://localhost:1313/posts/einstein/">Albert Einstein on Math</a><small>&nbsp;&nbsp;August 24, 2021</small></p>
+                      </li>
+
+                
+
+                      <li>
+                      <p><a href="http://localhost:1313/posts/lie-groups/">Lie Groups</a><small>&nbsp;&nbsp;August 22, 2021</small></p>
+                      </li>
+
+                
+
+                      <li>
+                      <p><a href="http://localhost:1313/posts/homologies/">Théories Homologiques</a><small>&nbsp;&nbsp;August 22, 2021</small></p>
+                      </li>
+
+                
+              </ul>
+        </div>
+        
+        <br>
+
+</div>
+
+</div>
+
+
+
+
+      </div>
+    </div>
+
+    <footer>
+    <div class="container">
+        <div class="row p20">
+            
+
+            <div class="col-md-4 text-center mt25" >
+                
+                
+                
+            </div>
+            <div class="col-md-4 text-center mt25">
+               
+                <a target="_blank" href="https://facebook.com/qatran75"><li class="social facebook"><i class="fa fa-facebook-square"></i></li></a> 
+                
+               
+               
+                <a target="_blank" href="https://twitter.com/qatran"><li class="social twitter"><i class="fa fa-twitter-square"></i></li></a>
+                
+               
+                <a target="_blank" href="https://github.com/tran62"><li class="social github"><i class="fa fa-github-square"></i></li></a>
+                
+               
+                <a target="_blank" href="mailto:qat@melix.net"><li class="social email"><i class="fa fa-envelope"></i></li></a>
+                
+            </div>
+
+        </div> 
+    </div>
+</footer>
+    
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://localhost:1313//js/bootstrap.min.js"></script>
+  
+  </body>
+
+</html>

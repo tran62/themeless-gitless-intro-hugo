@@ -5,7 +5,7 @@ title: Markdown Tests
 date: "2019-05-29"
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
-categories: ["md"] # "adoc" "pdc" "viet"
+categories: ["md"]
 tags:
   - markdown
   - meta

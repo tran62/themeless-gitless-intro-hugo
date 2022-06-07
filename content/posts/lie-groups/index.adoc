@@ -1,15 +1,16 @@
 ---
 ## Important: If this is a draft, next line should NOT begin with #
-draft: true
+#draft: true
 title: Lie Groups
 date: 2021-08-22
 ## below are user-defined parameters (lower case keys recommended)
 subtitle:
 tags:
   - math
+  - literature
 markup: "adoc"  # or "pdc" or "md"
-categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
-math: true  # true for mathjax
+categories: ["adoc"]
+math: true  #  mathjax
 s9: true # social share
 img: lie-group.png
 ---

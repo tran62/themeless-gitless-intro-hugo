@@ -12,6 +12,10 @@
 
 <script src="js/bootstrap.min.js"></script>
 
+
+
 {{ if or .Params.search .Site.Params.search }}
      {{ partial "search-form.html" . }}
+     <script src="js/lunr.js"></script>
+     <script src="js/search.js"></script>
 {{ end }}
