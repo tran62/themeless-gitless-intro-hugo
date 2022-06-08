@@ -7,8 +7,7 @@ s9: true
 params:
   search: true
   paginate: 9
-  custom_css: 
-    #- css/antora_styles.css
+  custom_css:
     - css/custom.css
   builtBy: tran62
   defaultImage: gopher.jpg
@@ -29,7 +28,7 @@ params:
 theme: 
     - hugo-cards
     #- antora-default-ui-hugo-theme
-    #- hugo-theme-arch-terminal
+    
 
 markup:
   preserveTOC: false
