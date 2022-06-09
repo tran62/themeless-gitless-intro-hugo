@@ -14,3 +14,6 @@ categories: ["pdc"] # "md" "pdc" "viet" "hanyu"
 math: false  # mathjax by js
 s9: true
 ---
+// After blank line, BEGIN pdc
+
+enter text here

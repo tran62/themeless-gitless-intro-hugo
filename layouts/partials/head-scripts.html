@@ -10,12 +10,10 @@
 <script id="s9-sdk" async defer content="33fbf926f45e4d42afe4e864df7e1fda" src="//cdn.social9.com/js/socialshare.min.js"></script>
 {{ end }}
 
-<script src="js/bootstrap.min.js"></script>
-
-
+<script async defer src="js/bootstrap.min.js"></script>
 
 {{ if or .Params.search .Site.Params.search }}
-     {{ partial "search-form.html" . }}
-     <script src='https://unpkg/lunr/lunr.js'></script>
-     <script src="js/search.js"></script>
+     
+<script async defer src="js/lunr.min.js"></script>
+<script src="js/search.min.js"></script>
 {{ end }}
