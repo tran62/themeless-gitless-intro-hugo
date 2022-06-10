@@ -213,17 +213,17 @@ $ git submodule add https://github.com/tran62/hugo-cards.git
 ----
 - theme forked from /bul-ikana/hugo-cards (for hugo) from /sharu725/cards (Webjeda)
 - put hugo-cards theme as first theme in config.yaml
-- enable scss in assets/sass in scripts in _partials/head-scripts.html_ template
-- enable bootstrap.js in head-scripts.html template
+- enable scss in assets/sass in scripts in head-scripts.html partial
+- enable bootstrap.js in head-scripts.html partial
 ----
 <script src="js/bootstrap.min.js"></script>
 ----
 
 
-=== Add Arch-terminal theme
+=== Add Antora ascidoc css theme
 ----
 $ cd themes
-$ git submodule add https://github.com/foo-dogsquared/hugo-theme-arch-terminal.git
+$ git submodule add https://github.com/tran62/antora-default-ui-theme.git themes/antora
 ----
 get the custom.css to transfer from arch-terminal to main site
 

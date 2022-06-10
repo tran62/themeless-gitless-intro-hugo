@@ -1,0 +1,33 @@
+---
+## Important: If this is a draft, next line should NOT begin with #
+draft: true
+title: Test
+date: 2022-06-10
+## below are user-defined parameters (lower case keys recommended)
+subtitle:
+tags:
+  - meta
+  - test
+markup: "adoc"  # or "pdc" or "md"
+categories: ["adoc"] # "md" "pdc" "viet" "hanyu"
+math: true  # true for mathjax rendering
+s9: true # s9 social share widget
+---
+// BEGIN AsciiDoc Document Header
+:sectlinks:
+:sectanchors: before
+:icons: font
+:tip-caption: 💡Tip
+:caution-caption: 🔥Caution
+:important-caption: ❗️Important
+:warning-caption: 🧨Warning
+:note-caption: 🔖Note
+// After blank line, BEGIN asciidoc
+
+{{< tip >}}tooltip: Your word here {{< def >}}Word definition{{< /def >}}{{< /tip >}}
+
+{{< showhide id="demo" >}}
+  {{< figure src="/images/tiger.png" title="title: Lying tiger" caption="caption: lying Tiger" >}}
+{{< /showhide >}}
+
+{{< embed-pdf url="pandocCheatSheat.pdf"  >}}
