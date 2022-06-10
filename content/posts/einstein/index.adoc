@@ -8,6 +8,7 @@ subtitle:
 tags:
   - math
   - philo
+  - literature
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"]
 math: false

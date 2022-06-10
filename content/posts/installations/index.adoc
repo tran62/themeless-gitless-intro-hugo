@@ -4,7 +4,7 @@ date: 2021-07-31T19:07:25+02:00
 #draft: false
 s9: true
 math: true
-tags: ["meta","tech","coding"]
+tags: ["meta","tech","coding","web"]
 categories: ["adoc"]
 img: qa-profile-pic.jpg
 ---
@@ -243,12 +243,13 @@ get the custom.css to transfer from arch-terminal to main site
 === Add Search feature
 from link:https://victoria.dev/blog/add-search-to-hugo-static-sites-with-lunr/[victoria.dev/blog/add-search-to-hugo-static-sites-with-lunr/]
 
-. add search-form.html to layouts/partials/
-. include shortcode to other templates
-. create layouts/search/list.html search page
+. create search-form.html partial
+. include this partial into layouts/search/
+. create layouts/search/list.html template
 . create content/search/_index.md page
-. build search-index shortcode
+. build search-index partial into footer partial
 . create static/js/search.js script file
+. create content/search/_index.md page (frontmatter only)
 
 
 

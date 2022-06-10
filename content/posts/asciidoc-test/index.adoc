@@ -8,6 +8,8 @@ subtitle:
 tags:
   - meta
   - test
+  - web
+  - coding
 markup: "adoc"  # or "pdc" or "md"
 categories: ["adoc"] # "md" "pdc"
 math: false  # true for mathjax

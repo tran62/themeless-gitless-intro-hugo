@@ -5,11 +5,11 @@ tags: ["math "]
 categories: ["adoc"] # "md" "pdc" "viet"
 math: true
 s9: true
-draft: true
+#draft: true
 img: pierrecolmez.jpeg
 ---
 image::pierrecolmez.jpeg[p.1 de couv]  
-_1^ère^ de couverture du cours de Pierre Colmez à l'X (absolute path)_
+_1^ère^ de couverture du cours de Pierre Colmez à l'X_
 
 ___
 

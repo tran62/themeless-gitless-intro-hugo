@@ -8,6 +8,8 @@ tags:
   - meta
   - math
   - literature
+  - web
+  - coding
 markup: pandoc 
 categories: ["pdc"]
 math: true  # mathjax by js
