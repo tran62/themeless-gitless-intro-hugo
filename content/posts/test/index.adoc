@@ -27,7 +27,7 @@ s9: true # s9 social share widget
 {{< tip >}}tooltip: Your word here {{< def >}}Word definition{{< /def >}}{{< /tip >}}
 
 {{< showhide id="demo" >}}
-  {{< figure src="/images/tiger.png" title="title: Lying tiger" caption="caption: lying Tiger" >}}
+  {{< figure src=../tiger.png title="title: Lying tiger" caption="caption: lying Tiger" >}}
 {{< /showhide >}}
 
-{{< embed-pdf url="pandocCheatSheat.pdf"  >}}
+{{< embed-pdf url="pandocCheatSheet.pdf"  >}}
